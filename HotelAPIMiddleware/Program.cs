@@ -19,6 +19,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.Configure<ProviderOptions>(builder.Configuration.GetSection("Providers"));
 
 builder.Services.AddScoped<HotelSearchAggregator>();
+builder.Services.AddScoped<BookingPrepareService>();
 
 builder.Services.AddHttpClient("RateHawkClient", (sp, http) =>
 {
