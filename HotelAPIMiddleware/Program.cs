@@ -54,6 +54,8 @@ builder.Services.AddHttpClient("StubaClient", (sp, http) =>
 builder.Services.AddScoped<IHotelProvider, RateHawkHotelProvider>();
 builder.Services.AddScoped<IHotelProvider, StubaHotelProvider>();
 
+builder.Services.AddMemoryCache();
+
 var app = builder.Build();
 
 app.UseSwagger();

@@ -4,16 +4,19 @@ using HotelAPIMiddleware.Contracts.Requests;
 using HotelAPIMiddleware.Contracts.Responses;
 using HotelAPIMiddleware.Mappings;
 using HotelAPIMiddleware.Providers.Interfaces;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace HotelAPIMiddleware.Services;
 
 public class HotelSearchAggregator
 {
     private readonly IEnumerable<IHotelProvider> _providers;
+    private readonly IMemoryCache _cache;
 
-    public HotelSearchAggregator(IEnumerable<IHotelProvider> providers)
+    public HotelSearchAggregator(IEnumerable<IHotelProvider> providers, IMemoryCache cache)
     {
         _providers = providers;
+        _cache = cache;
     }
 
     public async Task<HotelSearchResponse> SearchAsync(UnifiedHotelSearchRequest request, CancellationToken ct)
@@ -109,6 +112,17 @@ public class HotelSearchAggregator
 
         response.Providers = results.Select(x => x.Info).ToList();
         response.Hotels = results.SelectMany(x => x.Hotels).ToList();
+
+        // Assign a unique UUID to each hotel: hotel_<refNo>_<UUID>_
+        foreach (var hotel in response.Hotels)
+        {
+            hotel.UniqueId = $"hotel_{hotel.RefNo}_{Guid.NewGuid():N}_";
+        }
+
+        // Cache the full search response before returning it
+        var cacheId = $"hotel_search_cache_{response.SearchId}_{DateTime.UtcNow:yyyyMMddHHmmss}";
+        response.CacheId = cacheId;
+        _cache.Set(cacheId, response, TimeSpan.FromMinutes(30));
 
         return response;
     }
