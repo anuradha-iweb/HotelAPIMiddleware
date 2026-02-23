@@ -51,9 +51,8 @@ public sealed class StubaStaticClient : IStubaStaticClient
 
         if (resp is null || !resp.Success)
         {
-            _logger.LogWarning(
-                "getAllSearchRegionsByCountry (regions) returned no data for regionId={Id}", regionId);
-            return Array.Empty<StubaSearchRegion>();
+            throw new InvalidOperationException(
+                $"getAllSearchRegionsByCountry returned an unsuccessful response for RegionId={regionId}. Message='{resp?.Message}'");
         }
 
         // Filter out items with zero RegionId — these occur when the API actually returned
@@ -80,9 +79,8 @@ public sealed class StubaStaticClient : IStubaStaticClient
 
         if (resp is null || !resp.Success)
         {
-            _logger.LogWarning(
-                "getAllSearchRegionsByCountry (cities) returned no data for regionId={Id}", regionId);
-            return Array.Empty<StubaSearchCity>();
+            throw new InvalidOperationException(
+                $"getAllSearchRegionsByCountry returned an unsuccessful city response for RegionId={regionId}. Message='{resp?.Message}'");
         }
 
         // Filter out items with zero CityId — these occur when the API actually returned
@@ -125,16 +123,7 @@ public sealed class StubaStaticClient : IStubaStaticClient
             Content = new StringContent(json, Encoding.UTF8, "application/json")
         };
 
-        HttpResponseMessage httpResp;
-        try
-        {
-            httpResp = await http.SendAsync(httpReq, ct);
-        }
-        catch (Exception ex) when (ex is not OperationCanceledException)
-        {
-            _logger.LogError(ex, "RegionSearch HTTP error for regionId={Id}", regionId);
-            return Array.Empty<string>();
-        }
+        var httpResp = await http.SendAsync(httpReq, ct);
 
         var body = await httpResp.Content.ReadAsStringAsync(ct);
 
@@ -144,7 +133,8 @@ public sealed class StubaStaticClient : IStubaStaticClient
                 "RegionSearch returned HTTP {Status} for regionId={Id}: {Body}",
                 (int)httpResp.StatusCode, regionId,
                 body.Length > 300 ? body[..300] : body);
-            return Array.Empty<string>();
+            throw new HttpRequestException(
+                $"RegionSearch returned HTTP {(int)httpResp.StatusCode} for RegionId={regionId}. Body={Truncate(body, 300)}");
         }
 
         var ids = ParseHotelIdsFromAvailability(body);
@@ -178,11 +168,8 @@ public sealed class StubaStaticClient : IStubaStaticClient
             _opts.StubaEndpoints.GetHotelDetails, req, ct);
 
         if (resp is null || !resp.Success)
-        {
-            _logger.LogWarning(
-                "getAllHotelsDetailsByHotelIds failed for {Count} hotels", ids.Count);
-            return Array.Empty<StubaHotelElement>();
-        }
+            throw new InvalidOperationException(
+                $"getAllHotelsDetailsByHotelIds returned an unsuccessful response. Message='{resp?.Message}'");
 
         var elements = resp.Data
             .Where(d => d.HotelElement is not null)
@@ -223,16 +210,7 @@ public sealed class StubaStaticClient : IStubaStaticClient
             Content = new StringContent(json, Encoding.UTF8, "application/json")
         };
 
-        HttpResponseMessage httpResp;
-        try
-        {
-            httpResp = await http.SendAsync(httpReq, ct);
-        }
-        catch (Exception ex) when (ex is not OperationCanceledException)
-        {
-            _logger.LogError(ex, "STUBA content API HTTP error calling {Endpoint}", endpoint);
-            return null;
-        }
+        var httpResp = await http.SendAsync(httpReq, ct);
 
         var body = await httpResp.Content.ReadAsStringAsync(ct);
 
@@ -242,7 +220,8 @@ public sealed class StubaStaticClient : IStubaStaticClient
                 "STUBA content {Endpoint} returned HTTP {Status}: {Body}",
                 endpoint, (int)httpResp.StatusCode,
                 body.Length > 300 ? body[..300] : body);
-            return null;
+            throw new HttpRequestException(
+                $"STUBA content endpoint '{endpoint}' returned HTTP {(int)httpResp.StatusCode}. Body={Truncate(body, 300)}");
         }
 
         try
@@ -254,9 +233,13 @@ public sealed class StubaStaticClient : IStubaStaticClient
             _logger.LogError(ex,
                 "STUBA content {Endpoint}: failed to deserialize. Snippet: {Snippet}",
                 endpoint, body.Length > 500 ? body[..500] : body);
-            return null;
+            throw new InvalidOperationException(
+                $"Failed to deserialize STUBA content response for endpoint '{endpoint}'.", ex);
         }
     }
+
+    private static string Truncate(string value, int maxLength) =>
+        value.Length <= maxLength ? value : value[..maxLength];
 
     /// <summary>
     /// Extracts hotel IDs from a RegionSearch JSON response.
