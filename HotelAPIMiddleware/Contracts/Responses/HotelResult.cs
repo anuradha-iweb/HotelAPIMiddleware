@@ -12,4 +12,10 @@ public class HotelResult
     public Address Address { get; set; } = new();
 
     public List<RoomResult> Rooms { get; set; } = new();
+
+    /// <summary>
+    /// Raw static hotel JSON content for STUBA hotels matched by HotelId file name.
+    /// For providers without static data support (e.g., RATEHAWK), this remains empty.
+    /// </summary>
+    public string StaticData { get; set; } = string.Empty;
 }
