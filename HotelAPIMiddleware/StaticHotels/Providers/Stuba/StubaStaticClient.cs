@@ -56,11 +56,17 @@ public sealed class StubaStaticClient : IStubaStaticClient
             return Array.Empty<StubaSearchRegion>();
         }
 
-        _logger.LogInformation(
-            "getAllSearchRegionsByCountry: got {Count} regions for regionId={Id}",
-            resp.Data.Count, regionId);
+        // Filter out items with zero RegionId — these occur when the API actually returned
+        // city-level data (CityId/CityName) which serialised into the RegionId field as 0.
+        var valid = resp.Data
+            .Where(r => r.RegionId > 0 && !string.IsNullOrWhiteSpace(r.RegionName))
+            .ToList();
 
-        return resp.Data;
+        _logger.LogInformation(
+            "getAllSearchRegionsByCountry: got {Count} sub-regions for regionId={Id}",
+            valid.Count, regionId);
+
+        return valid;
     }
 
     // ── Cities ────────────────────────────────────────────────────────────────
@@ -79,11 +85,17 @@ public sealed class StubaStaticClient : IStubaStaticClient
             return Array.Empty<StubaSearchCity>();
         }
 
+        // Filter out items with zero CityId — these occur when the API actually returned
+        // region-level data (RegionId/RegionName) which deserialised into CityId as 0.
+        var valid = resp.Data
+            .Where(c => c.CityId > 0)
+            .ToList();
+
         _logger.LogInformation(
             "getAllSearchRegionsByCountry: got {Count} cities for regionId={Id}",
-            resp.Data.Count, regionId);
+            valid.Count, regionId);
 
-        return resp.Data;
+        return valid;
     }
 
     // ── Availability search ───────────────────────────────────────────────────
