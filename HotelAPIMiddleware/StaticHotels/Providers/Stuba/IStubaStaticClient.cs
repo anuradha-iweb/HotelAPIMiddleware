@@ -34,6 +34,7 @@ public interface IStubaStaticClient
         string nationality,
         int nights,
         IEnumerable<StubaRoom> rooms,
+        DateOnly? arrivalDate = null,
         CancellationToken ct = default);
 
     /// <summary>

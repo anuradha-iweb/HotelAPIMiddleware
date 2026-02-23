@@ -105,6 +105,7 @@ public sealed class StubaStaticClient : IStubaStaticClient
         string nationality,
         int nights,
         IEnumerable<StubaRoom> rooms,
+        DateOnly? arrivalDate = null,
         CancellationToken ct = default)
     {
         var req = new StubaRegionSearchRequest
@@ -112,7 +113,7 @@ public sealed class StubaStaticClient : IStubaStaticClient
             RegionId = regionId,
             Nationality = nationality,
             Nights = nights,
-            ArrivalDate = DateTime.Today.ToString("yyyy-MM-dd"),
+            ArrivalDate = (arrivalDate ?? DateOnly.FromDateTime(DateTime.Today)).ToString("yyyy-MM-dd"),
             Timeout = 30,
             Rooms = rooms.ToList()
         };

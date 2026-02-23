@@ -74,7 +74,12 @@ public sealed class HotelStaticController : ControllerBase
                 request.RegionId, request.Nationality, request.Nights);
 
             var summary = await _fetchService.FetchByRegionAsync(
-                request.RegionId, request.Nationality, request.Nights, rooms, ct);
+                request.RegionId,
+                request.Nationality,
+                request.Nights,
+                rooms,
+                request.ArrivalDate,
+                ct);
 
             return Ok(ApiResponse<SyncSummary>.Ok(summary,
                 $"Fetch completed. Created={summary.Created}, Updated={summary.Updated}, " +
@@ -209,4 +214,10 @@ public sealed class FetchByRegionRequest
 
     /// <summary>Room configuration. Defaults to one room with 2 adults.</summary>
     public List<StubaRoom>? Rooms { get; set; }
+
+    /// <summary>
+    /// Optional arrival date for RegionSearch in yyyy-MM-dd format.
+    /// If omitted, today's date is used.
+    /// </summary>
+    public DateOnly? ArrivalDate { get; set; }
 }
