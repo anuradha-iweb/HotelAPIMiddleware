@@ -3,6 +3,7 @@ using HotelAPIMiddleware.Providers.Stuba.Dto;
 using HotelAPIMiddleware.StaticHotels.Mappings;
 using HotelAPIMiddleware.StaticHotels.Models;
 using HotelAPIMiddleware.StaticHotels.Providers.Stuba;
+using HotelAPIMiddleware.StaticHotels.Providers.Stuba.Dto;
 using HotelAPIMiddleware.StaticHotels.Store;
 using Microsoft.Extensions.Options;
 
@@ -10,10 +11,12 @@ namespace HotelAPIMiddleware.StaticHotels.Services;
 
 /// <summary>
 /// Full pipeline:
-///   1. getAllSearchRegionsByCountry → cities
-///   2. RegionSearch (today) → hotel IDs per city search-region
-///   3. getAllHotelsDetailsByHotelIds → hotel elements (batch = MaxConcurrency)
-///   4. Save each hotel as {hotelId}.json (create or overwrite on change)
+///   1a. getAllSearchRegionsByCountry (with supplied regionId) → sub-regions (if country-level)
+///   1b. getAllSearchRegionsByCountry (with each sub-region ID) → cities
+///       If no sub-regions returned, cities are fetched directly with the supplied regionId.
+///   2.  RegionSearch (today's arrival date) → hotel IDs per city search-region
+///   3.  getAllHotelsDetailsByHotelIds → hotel elements with images + descriptions (batch = DetailBatchSize)
+///   4.  Save each hotel as {hotelId}.json (create or overwrite on change)
 /// </summary>
 public sealed class HotelStaticDataFetchService : IHotelStaticDataFetchService
 {
@@ -51,8 +54,38 @@ public sealed class HotelStaticDataFetchService : IHotelStaticDataFetchService
             "FetchByRegion started: regionId={RegionId}, nationality={Nat}, nights={Nights}",
             regionId, nationality, nights);
 
-        // ── Step 1: Get cities in the region ─────────────────────────────────
-        var cities = await _stubaClient.GetCitiesByRegionAsync(regionId, ct);
+        // ── Step 1: Resolve cities (two-level when regionId is country/area level) ────
+        // First try to interpret regionId as a high-level region to get sub-regions
+        // (getAllSearchRegionsByCountry returns RegionId/RegionName at country level
+        //  and CityId/CityName at region/city level).
+        var subRegions = await _stubaClient.GetRegionsByCountryAsync(regionId, ct);
+
+        List<StubaSearchCity> cities;
+
+        if (subRegions.Count > 0)
+        {
+            // regionId is at country/continent level — fetch cities per sub-region
+            _logger.LogInformation(
+                "Found {Count} sub-regions for regionId={RegionId}; resolving cities per sub-region",
+                subRegions.Count, regionId);
+
+            var allCities = new List<StubaSearchCity>();
+            foreach (var subRegion in subRegions)
+            {
+                ct.ThrowIfCancellationRequested();
+                var citiesInSubRegion = await _stubaClient.GetCitiesByRegionAsync(subRegion.RegionId, ct);
+                allCities.AddRange(citiesInSubRegion);
+
+                if (_opts.PageDelayMs > 0)
+                    await Task.Delay(_opts.PageDelayMs, ct);
+            }
+            cities = allCities;
+        }
+        else
+        {
+            // regionId is already at region/city level — get cities directly
+            cities = (await _stubaClient.GetCitiesByRegionAsync(regionId, ct)).ToList();
+        }
 
         if (cities.Count == 0)
         {
