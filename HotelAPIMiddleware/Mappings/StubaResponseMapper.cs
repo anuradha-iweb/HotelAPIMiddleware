@@ -40,6 +40,7 @@ public static class StubaResponseMapper
             {
                 Provider = "STUBA",
                 RefNo = refNo,
+                Id = hotelId,
                 HotelId = hotelId,
                 Name = hotelName,
                 StarRating = 0,
