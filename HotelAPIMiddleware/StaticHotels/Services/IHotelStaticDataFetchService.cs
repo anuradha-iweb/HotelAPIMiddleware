@@ -13,6 +13,16 @@ namespace HotelAPIMiddleware.StaticHotels.Services;
 public interface IHotelStaticDataFetchService
 {
     /// <summary>
+    /// Runs the full pipeline across all countries returned by getAllCountries.
+    /// </summary>
+    Task<SyncSummary> FetchAllCountriesAsync(
+        string nationality,
+        int nights,
+        IEnumerable<StubaRoom> rooms,
+        DateOnly? arrivalDate = null,
+        CancellationToken ct = default);
+
+    /// <summary>
     /// Runs the full pipeline for a given STUBA search region.
     ///
     /// Steps:

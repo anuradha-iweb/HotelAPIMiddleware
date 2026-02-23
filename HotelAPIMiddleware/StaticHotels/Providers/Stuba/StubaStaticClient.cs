@@ -42,6 +42,32 @@ public sealed class StubaStaticClient : IStubaStaticClient
 
     // ── Regions ───────────────────────────────────────────────────────────────
 
+    public async Task<IReadOnlyList<StubaSearchRegion>> GetAllCountriesAsync(
+        CancellationToken ct = default)
+    {
+        var req = new StubaGetAllCountriesRequest
+        {
+            Authority = _opts.Authority.ToDto()
+        };
+
+        var resp = await ContentPostAsync<StubaGetAllCountriesResponse>(
+            _opts.StubaEndpoints.GetAllCountries, req, ct);
+
+        if (resp is null || !resp.Success)
+        {
+            throw new InvalidOperationException(
+                $"getAllCountries returned an unsuccessful response. Message='{resp?.Message}'");
+        }
+
+        var valid = resp.Data
+            .Where(r => r.RegionId > 0 && !string.IsNullOrWhiteSpace(r.RegionName))
+            .ToList();
+
+        _logger.LogInformation("getAllCountries: got {Count} countries", valid.Count);
+
+        return valid;
+    }
+
     public async Task<IReadOnlyList<StubaSearchRegion>> GetRegionsByCountryAsync(
         int regionId, CancellationToken ct = default)
     {
