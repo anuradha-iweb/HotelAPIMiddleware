@@ -8,19 +8,19 @@ using Microsoft.Extensions.Options;
 namespace HotelAPIMiddleware.StaticHotels.Services;
 
 /// <summary>
-/// Core sync orchestrator for STUBA hotel static data.
+/// Handles individual and small-batch hotel static data refreshes.
+///
+/// For full region-wide fetching (regions → cities → availability → details),
+/// use <see cref="IHotelStaticDataFetchService"/> instead.
 ///
 /// Sync algorithm per hotel:
-///   1. Fetch detail from STUBA via <see cref="IStubaStaticClient.GetHotelDetailAsync"/>
-///   2. Map to <see cref="HotelStaticProfile"/> using <see cref="StubaStaticHotelMapper.Map"/>
-///   3. Compute SHA-256 content hash via <see cref="StubaStaticHotelMapper.ComputeContentHash"/>
-///   4. Compare with stored hash from index
-///      - Hash match  → skip (no write)
-///      - New or hash differ → set hash + LastSyncedUtc → atomic file write → update index entry
-///   5. After all hotels: save index.json atomically
-///
-/// Concurrency: a <see cref="SemaphoreSlim"/> limits concurrent STUBA calls
-/// to <see cref="StaticHotelOptions.MaxConcurrency"/> (default 5).
+///   1. Fetch detail from STUBA via getAllHotelsDetailsByHotelIds (single-ID call)
+///   2. Map to <see cref="HotelStaticProfile"/>
+///   3. Compute SHA-256 content hash
+///   4. Compare with stored hash:
+///      - Match → skip
+///      - New or changed → atomic file write → update index entry
+///   5. Save index atomically
 /// </summary>
 public sealed class HotelStaticSyncService : IHotelStaticSyncService
 {
@@ -45,35 +45,49 @@ public sealed class HotelStaticSyncService : IHotelStaticSyncService
 
     // ── IHotelStaticSyncService ───────────────────────────────────────────────
 
-    public async Task<SyncSummary> SyncAllAsync(CancellationToken ct = default)
+    /// <summary>
+    /// Not supported: STUBA's static-content API does not expose a full hotel list.
+    /// Use <see cref="IHotelStaticDataFetchService.FetchByRegionAsync"/> to
+    /// discover hotels via availability search.
+    /// </summary>
+    public Task<SyncSummary> SyncAllAsync(CancellationToken ct = default)
     {
-        _logger.LogInformation("Starting STUBA full hotel sync");
+        _logger.LogWarning(
+            "SyncAllAsync is not supported. " +
+            "Use POST /api/static-hotels/stuba/fetch-by-region to discover hotels via availability.");
 
-        var summary = BeginSummary(SyncScope.Full);
-        var index = await _store.LoadIndexAsync(Provider, ct);
-
-        var hotelIds = await _stubaClient.GetAllHotelIdsAsync(ct);
-        _logger.LogInformation("Discovered {Count} hotel IDs from STUBA", hotelIds.Count);
-        summary.TotalDiscovered = hotelIds.Count;
-
-        await ProcessHotelsAsync(hotelIds, index, summary, forceUpdate: false, ct);
-
-        index.LastFullSyncUtc = DateTime.UtcNow;
-        await _store.SaveIndexAsync(Provider, index, ct);
-
-        return FinishSummary(summary);
+        return Task.FromResult(new SyncSummary
+        {
+            Provider = Provider,
+            Scope = SyncScope.Full,
+            StartedUtc = DateTime.UtcNow,
+            CompletedUtc = DateTime.UtcNow
+        });
     }
 
+    /// <summary>
+    /// Syncs hotels found in a region by fetching cities and using CityId as hotel ID.
+    /// For availability-based discovery (recommended), use
+    /// <see cref="IHotelStaticDataFetchService.FetchByRegionAsync"/>.
+    /// </summary>
     public async Task<SyncSummary> SyncByRegionAsync(string regionId, CancellationToken ct = default)
     {
-        _logger.LogInformation("Starting STUBA region sync for regionId={RegionId}", regionId);
+        _logger.LogInformation("Region sync for regionId={RegionId}", regionId);
 
         var summary = BeginSummary(SyncScope.Region, regionId);
         var index = await _store.LoadIndexAsync(Provider, ct);
 
-        var hotelIds = await _stubaClient.GetHotelIdsByRegionAsync(regionId, ct);
+        if (!int.TryParse(regionId, out var regionIdInt))
+        {
+            _logger.LogError("regionId must be an integer, got '{Value}'", regionId);
+            return FinishSummary(summary);
+        }
+
+        var cities = await _stubaClient.GetCitiesByRegionAsync(regionIdInt, ct);
+        var hotelIds = cities.Select(c => c.CityId.ToString()).ToList();
+
         _logger.LogInformation(
-            "Discovered {Count} hotel IDs for region {RegionId}", hotelIds.Count, regionId);
+            "Region {RegionId}: found {Count} city IDs", regionId, hotelIds.Count);
         summary.TotalDiscovered = hotelIds.Count;
 
         await ProcessHotelsAsync(hotelIds, index, summary, forceUpdate: false, ct);
@@ -83,16 +97,19 @@ public sealed class HotelStaticSyncService : IHotelStaticSyncService
         return FinishSummary(summary);
     }
 
+    /// <summary>
+    /// Force-refreshes a single hotel's static profile from STUBA,
+    /// bypassing hash comparison (always writes).
+    /// </summary>
     public async Task<SyncSummary> SyncHotelAsync(string hotelId, CancellationToken ct = default)
     {
-        _logger.LogInformation("Starting STUBA single hotel sync for hotelId={HotelId}", hotelId);
+        _logger.LogInformation("Single hotel sync for hotelId={HotelId}", hotelId);
 
         var summary = BeginSummary(SyncScope.Single, hotelId);
         summary.TotalDiscovered = 1;
 
         var index = await _store.LoadIndexAsync(Provider, ct);
 
-        // Force update regardless of hash match
         await ProcessHotelsAsync(new[] { hotelId }, index, summary, forceUpdate: true, ct);
 
         await _store.SaveIndexAsync(Provider, index, ct);
@@ -100,12 +117,8 @@ public sealed class HotelStaticSyncService : IHotelStaticSyncService
         return FinishSummary(summary);
     }
 
-    // ── Core processing logic ─────────────────────────────────────────────────
+    // ── Core processing ───────────────────────────────────────────────────────
 
-    /// <summary>
-    /// For each hotel ID: fetch → map → hash → compare → save-if-changed.
-    /// Uses SemaphoreSlim to cap concurrent STUBA calls.
-    /// </summary>
     private async Task ProcessHotelsAsync(
         IEnumerable<string> hotelIds,
         HotelIndexFile index,
@@ -114,8 +127,6 @@ public sealed class HotelStaticSyncService : IHotelStaticSyncService
         CancellationToken ct)
     {
         var sem = new SemaphoreSlim(_opts.MaxConcurrency, _opts.MaxConcurrency);
-
-        // Object-lock for safely mutating summary + index from concurrent tasks
         var syncLock = new object();
 
         var tasks = hotelIds.Select(async hotelId =>
@@ -128,7 +139,7 @@ public sealed class HotelStaticSyncService : IHotelStaticSyncService
             }
             catch (OperationCanceledException)
             {
-                throw; // propagate cancellation
+                throw;
             }
             catch (Exception ex)
             {
@@ -156,11 +167,11 @@ public sealed class HotelStaticSyncService : IHotelStaticSyncService
         object syncLock,
         CancellationToken ct)
     {
-        // 1. Fetch from STUBA
-        var detail = await _stubaClient.GetHotelDetailAsync(hotelId, ct);
-        if (detail is null)
+        var element = await _stubaClient.GetHotelDetailAsync(hotelId, ct);
+
+        if (element is null)
         {
-            _logger.LogWarning("STUBA returned no data for hotel {HotelId}", hotelId);
+            _logger.LogWarning("No detail returned for hotel {HotelId}", hotelId);
             lock (syncLock)
             {
                 summary.Failed++;
@@ -169,13 +180,9 @@ public sealed class HotelStaticSyncService : IHotelStaticSyncService
             return;
         }
 
-        // 2. Map to profile (audit fields not set yet)
-        var profile = StubaStaticHotelMapper.Map(detail);
-
-        // 3. Compute content hash
+        var profile = StubaStaticHotelMapper.Map(element);
         var newHash = StubaStaticHotelMapper.ComputeContentHash(profile);
 
-        // 4. Compare with stored hash
         bool isNew;
         bool hashChanged;
         lock (syncLock)
@@ -186,25 +193,23 @@ public sealed class HotelStaticSyncService : IHotelStaticSyncService
 
         if (!forceUpdate && !isNew && !hashChanged)
         {
-            _logger.LogDebug("Hotel {HotelId}: no changes detected — skipping", hotelId);
+            _logger.LogDebug("Hotel {HotelId}: no changes — skipping", hotelId);
             lock (syncLock) { summary.Skipped++; }
             return;
         }
 
-        // 5. Set audit fields and persist atomically
         profile.ContentHash = newHash;
         profile.LastSyncedUtc = DateTime.UtcNow;
 
         await _store.SaveHotelAsync(profile, ct);
 
-        // 6. Update in-memory index entry
         var entry = new HotelIndexEntry
         {
             ProviderHotelId = hotelId,
             Provider = Provider,
             HotelName = profile.Name,
             City = profile.Address.City,
-            CountryCode = profile.Address.CountryCode,
+            CountryCode = profile.Address.Country,
             RelativeFilePath = $"{Provider.ToLowerInvariant()}/hotels/{hotelId}.json",
             ContentHash = newHash,
             LastUpdatedUtc = profile.LastSyncedUtc
@@ -213,11 +218,8 @@ public sealed class HotelStaticSyncService : IHotelStaticSyncService
         lock (syncLock)
         {
             index.Hotels[hotelId] = entry;
-
-            if (isNew)
-                summary.Created++;
-            else
-                summary.Updated++;
+            if (isNew) summary.Created++;
+            else summary.Updated++;
         }
 
         _logger.LogDebug("Hotel {HotelId}: {Action}", hotelId, isNew ? "created" : "updated");

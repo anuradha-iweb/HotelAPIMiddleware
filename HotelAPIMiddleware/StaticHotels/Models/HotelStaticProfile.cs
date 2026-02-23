@@ -15,14 +15,15 @@ public class HotelStaticProfile
 
     // ── Core ─────────────────────────────────────────────────────────────────
     public string Name { get; set; } = string.Empty;
-    public string ShortDescription { get; set; } = string.Empty;
-    public string LongDescription { get; set; } = string.Empty;
 
     /// <summary>Numeric star rating (1–5). 0 means unknown.</summary>
     public int StarRating { get; set; }
 
-    /// <summary>e.g. "City Hotel", "Resort", "Apartment"</summary>
-    public string Category { get; set; } = string.Empty;
+    /// <summary>
+    /// Typed descriptions keyed by Type (e.g. "SurroundingArea", "RoomTypes",
+    /// "PropertyInformation", "DiningFacilities", "AreaActivities", "PoliciesDisclaimers").
+    /// </summary>
+    public List<HotelDescriptionEntry> Descriptions { get; set; } = new();
 
     // ── Location ─────────────────────────────────────────────────────────────
     public HotelAddress Address { get; set; } = new();
@@ -76,5 +77,14 @@ public class HotelImage
 {
     public string Url { get; set; } = string.Empty;
     public string Caption { get; set; } = string.Empty;
-    public bool IsMain { get; set; }
+    public string PhotoType { get; set; } = string.Empty;
+    public int Width { get; set; }
+    public int Height { get; set; }
+}
+
+public class HotelDescriptionEntry
+{
+    public string Language { get; set; } = string.Empty;
+    public string Type { get; set; } = string.Empty;
+    public string Text { get; set; } = string.Empty;
 }

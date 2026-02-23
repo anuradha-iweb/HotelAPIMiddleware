@@ -3,21 +3,34 @@ using System.Text.Json.Serialization;
 namespace HotelAPIMiddleware.StaticHotels.Providers.Stuba.Dto;
 
 /// <summary>
-/// Response from POST {BaseUrl}/GetDestinationHotels
-///
-/// PLACEHOLDER: Verify field names against official STUBA docs.
+/// Response from POST {ContentBaseUrl}/getAllSearchRegionsByCountry
+/// when the regionId resolves to a region node that contains cities.
+/// Data items contain CityId / CityName / CityWiseRegionList.
 /// </summary>
-public sealed class StubaStaticRegionHotelsResponse
+public sealed class StubaGetCitiesResponse
 {
-    [JsonPropertyName("TotalRecord")]
-    public int TotalRecord { get; set; }
+    [JsonPropertyName("Success")]
+    public bool Success { get; set; }
 
-    [JsonPropertyName("CurrentPage")]
-    public int CurrentPage { get; set; }
+    [JsonPropertyName("Message")]
+    public string Message { get; set; } = string.Empty;
 
-    [JsonPropertyName("PageSize")]
-    public int PageSize { get; set; }
+    [JsonPropertyName("Data")]
+    public List<StubaSearchCity> Data { get; set; } = new();
+}
 
-    [JsonPropertyName("HotelList")]
-    public List<StubaHotelListItem> HotelList { get; set; } = new();
+public sealed class StubaSearchCity
+{
+    [JsonPropertyName("CityId")]
+    public int CityId { get; set; }
+
+    [JsonPropertyName("CityName")]
+    public string CityName { get; set; } = string.Empty;
+
+    /// <summary>
+    /// Search region IDs to use for RegionSearch availability calls.
+    /// May be null if the city maps directly to a single search region.
+    /// </summary>
+    [JsonPropertyName("CityWiseRegionList")]
+    public List<StubaSearchRegion>? CityWiseRegionList { get; set; }
 }
