@@ -1,9 +1,16 @@
 # HotelAPIMiddleware
 
-## API changes
+## Static data sync endpoint
 
-The following endpoints have been removed from the API surface:
+The STUBA static-data sync endpoint is available at:
 
-- `POST /api/hotels/booking-prepare`
 - `POST /stuba/static-data/sync`
-- All routes under ` /api/static-hotels/stuba`
+
+This endpoint orchestrates:
+
+1. `getAllCountries`
+2. `getAllSearchRegionsByCountry` (regions/cities)
+3. `RegionSearch`
+4. `getAllHotelsDetailsByHotelIds`
+
+and saves one JSON file per hotel under the configured static storage path.

@@ -39,6 +39,78 @@ public sealed class HotelStaticDataFetchService : IHotelStaticDataFetchService
         _logger = logger;
     }
 
+    public async Task<SyncSummary> FetchAllCountriesAsync(
+        string nationality,
+        int nights,
+        IEnumerable<StubaRoom> rooms,
+        DateOnly? arrivalDate = null,
+        CancellationToken ct = default)
+    {
+        var roomList = rooms.ToList();
+        var summary = new SyncSummary
+        {
+            Provider = Provider,
+            Scope = SyncScope.Full,
+            StartedUtc = DateTime.UtcNow
+        };
+
+        IReadOnlyList<StubaSearchRegion> countries;
+        try
+        {
+            countries = await _stubaClient.GetAllCountriesAsync(ct);
+        }
+        catch (Exception ex)
+        {
+            summary.ApiStepErrors.Add($"getAllCountries failed: {ex.Message}");
+            _logger.LogError(ex, "Failed calling getAllCountries");
+            return FinishSummary(summary);
+        }
+
+        _logger.LogInformation("All-country sync started with {Count} countries", countries.Count);
+
+        foreach (var country in countries)
+        {
+            ct.ThrowIfCancellationRequested();
+
+            SyncSummary countrySummary;
+            try
+            {
+                countrySummary = await FetchByRegionAsync(
+                    country.RegionId,
+                    nationality,
+                    nights,
+                    roomList,
+                    arrivalDate,
+                    ct);
+            }
+            catch (Exception ex)
+            {
+                summary.ApiStepErrors.Add(
+                    $"Country RegionId={country.RegionId} ({country.RegionName}) failed: {ex.Message}");
+                _logger.LogError(ex,
+                    "Country-level fetch failed for RegionId={RegionId}, RegionName={RegionName}",
+                    country.RegionId,
+                    country.RegionName);
+                continue;
+            }
+
+            summary.TotalDiscovered += countrySummary.TotalDiscovered;
+            summary.Created += countrySummary.Created;
+            summary.Updated += countrySummary.Updated;
+            summary.Skipped += countrySummary.Skipped;
+            summary.Failed += countrySummary.Failed;
+
+            summary.FailedHotelIds.AddRange(countrySummary.FailedHotelIds);
+            summary.ApiStepErrors.AddRange(countrySummary.ApiStepErrors.Select(
+                err => $"Country RegionId={country.RegionId} ({country.RegionName}): {err}"));
+
+            if (_opts.PageDelayMs > 0)
+                await Task.Delay(_opts.PageDelayMs, ct);
+        }
+
+        return FinishSummary(summary);
+    }
+
     public async Task<SyncSummary> FetchByRegionAsync(
         int regionId,
         string nationality,

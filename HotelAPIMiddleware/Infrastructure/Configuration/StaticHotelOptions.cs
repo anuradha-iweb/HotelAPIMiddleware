@@ -42,6 +42,12 @@ public class StaticHotelOptions
 public class StubaStaticEndpoints
 {
     /// <summary>
+    /// POST {ContentBaseUrl}/getAllCountries
+    /// Returns all country-level RegionId / RegionName values.
+    /// </summary>
+    public string GetAllCountries { get; set; } = "getAllCountries";
+
+    /// <summary>
     /// POST {ContentBaseUrl}/getAllSearchRegionsByCountry
     /// Returns either search regions or cities depending on the supplied RegionId level.
     /// </summary>

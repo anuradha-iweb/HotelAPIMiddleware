@@ -10,6 +10,12 @@ namespace HotelAPIMiddleware.StaticHotels.Providers.Stuba;
 public interface IStubaStaticClient
 {
     /// <summary>
+    /// Calls getAllCountries and returns country-level regions (RegionId / RegionName).
+    /// </summary>
+    Task<IReadOnlyList<StubaSearchRegion>> GetAllCountriesAsync(
+        CancellationToken ct = default);
+
+    /// <summary>
     /// Calls getAllSearchRegionsByCountry and returns top-level search regions
     /// (items with RegionId / RegionName).
     /// Pass the country-level RegionId to get its sub-regions.
