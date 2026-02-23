@@ -54,6 +54,20 @@ builder.Services.AddHttpClient("StubaClient", (sp, http) =>
 builder.Services.AddScoped<IHotelProvider, RateHawkHotelProvider>();
 builder.Services.AddScoped<IHotelProvider, StubaHotelProvider>();
 
+// Stuba Static Content API client – uses a separate base URL and body-based auth
+builder.Services.AddHttpClient("StubaContentClient", (sp, http) =>
+{
+    var opt = sp.GetRequiredService<IOptions<ProviderOptions>>().Value;
+    http.BaseAddress = new Uri(opt.StubaContent.BaseUrl);
+})
+.ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler
+{
+    AutomaticDecompression = DecompressionMethods.GZip | DecompressionMethods.Brotli
+});
+
+// Stuba content sync service
+builder.Services.AddScoped<StubaContentSyncService>();
+
 builder.Services.AddMemoryCache();
 
 var app = builder.Build();
