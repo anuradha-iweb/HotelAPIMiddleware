@@ -60,7 +60,17 @@ public sealed class HotelStaticDataFetchService : IHotelStaticDataFetchService
         // First try to interpret regionId as a high-level region to get sub-regions
         // (getAllSearchRegionsByCountry returns RegionId/RegionName at country level
         //  and CityId/CityName at region/city level).
-        var subRegions = await _stubaClient.GetRegionsByCountryAsync(regionId, ct);
+        IReadOnlyList<StubaSearchRegion> subRegions;
+        try
+        {
+            subRegions = await _stubaClient.GetRegionsByCountryAsync(regionId, ct);
+        }
+        catch (Exception ex)
+        {
+            summary.ApiStepErrors.Add($"getAllSearchRegionsByCountry failed for RegionId={regionId}: {ex.Message}");
+            _logger.LogError(ex, "Failed calling getAllSearchRegionsByCountry for regionId={RegionId}", regionId);
+            return FinishSummary(summary);
+        }
 
         List<StubaSearchCity> cities;
 
@@ -75,8 +85,16 @@ public sealed class HotelStaticDataFetchService : IHotelStaticDataFetchService
             foreach (var subRegion in subRegions)
             {
                 ct.ThrowIfCancellationRequested();
-                var citiesInSubRegion = await _stubaClient.GetCitiesByRegionAsync(subRegion.RegionId, ct);
-                allCities.AddRange(citiesInSubRegion);
+                try
+                {
+                    var citiesInSubRegion = await _stubaClient.GetCitiesByRegionAsync(subRegion.RegionId, ct);
+                    allCities.AddRange(citiesInSubRegion);
+                }
+                catch (Exception ex)
+                {
+                    summary.ApiStepErrors.Add($"getAllSearchRegionsByCountry failed for sub-region RegionId={subRegion.RegionId}: {ex.Message}");
+                    _logger.LogError(ex, "Failed calling getAllSearchRegionsByCountry for subRegionId={RegionId}", subRegion.RegionId);
+                }
 
                 if (_opts.PageDelayMs > 0)
                     await Task.Delay(_opts.PageDelayMs, ct);
@@ -86,7 +104,16 @@ public sealed class HotelStaticDataFetchService : IHotelStaticDataFetchService
         else
         {
             // regionId is already at region/city level — get cities directly
-            cities = (await _stubaClient.GetCitiesByRegionAsync(regionId, ct)).ToList();
+            try
+            {
+                cities = (await _stubaClient.GetCitiesByRegionAsync(regionId, ct)).ToList();
+            }
+            catch (Exception ex)
+            {
+                summary.ApiStepErrors.Add($"getAllSearchRegionsByCountry failed while resolving cities for RegionId={regionId}: {ex.Message}");
+                _logger.LogError(ex, "Failed resolving cities for regionId={RegionId}", regionId);
+                return FinishSummary(summary);
+            }
         }
 
         if (cities.Count == 0)
@@ -113,8 +140,18 @@ public sealed class HotelStaticDataFetchService : IHotelStaticDataFetchService
             {
                 ct.ThrowIfCancellationRequested();
 
-                var ids = await _stubaClient.SearchHotelIdsByRegionAsync(
-                    searchRegionId, nationality, nights, roomList, effectiveArrivalDate, ct);
+                IReadOnlyList<string> ids;
+                try
+                {
+                    ids = await _stubaClient.SearchHotelIdsByRegionAsync(
+                        searchRegionId, nationality, nights, roomList, effectiveArrivalDate, ct);
+                }
+                catch (Exception ex)
+                {
+                    summary.ApiStepErrors.Add($"RegionSearch failed for RegionId={searchRegionId}: {ex.Message}");
+                    _logger.LogError(ex, "RegionSearch failed for searchRegionId={RegionId}", searchRegionId);
+                    continue;
+                }
 
                 foreach (var id in ids)
                     hotelIds.Add(id);
@@ -167,6 +204,7 @@ public sealed class HotelStaticDataFetchService : IHotelStaticDataFetchService
                 {
                     summary.Failed++;
                     summary.FailedHotelIds.Add(hotelId);
+                    summary.ApiStepErrors.Add($"getAllHotelsDetailsByHotelIds failed for HotelId={hotelId}: {ex.Message}");
                 }
             }
             finally

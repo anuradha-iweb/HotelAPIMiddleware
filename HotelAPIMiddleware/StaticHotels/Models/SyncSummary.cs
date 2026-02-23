@@ -19,6 +19,7 @@ public class SyncSummary
     public int Failed { get; set; }
 
     public List<string> FailedHotelIds { get; set; } = new();
+    public List<string> ApiStepErrors { get; set; } = new();
 
     public DateTime StartedUtc { get; set; }
     public DateTime CompletedUtc { get; set; }
