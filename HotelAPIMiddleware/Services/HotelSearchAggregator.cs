@@ -116,7 +116,7 @@ public class HotelSearchAggregator
         // Assign a unique UUID to each hotel: hotel_<refNo>_<UUID>_
         foreach (var hotel in response.Hotels)
         {
-            hotel.UniqueId = $"hotel_{hotel.RefNo}_{Guid.NewGuid():N}_";
+            hotel.UniqueId = $"hotel_{Guid.NewGuid()}";
         }
 
         // Cache the full search response before returning it
