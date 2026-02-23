@@ -4,6 +4,7 @@ using HotelAPIMiddleware.Contracts.Requests;
 using HotelAPIMiddleware.Contracts.Responses;
 using HotelAPIMiddleware.Mappings;
 using HotelAPIMiddleware.Providers.Interfaces;
+using HotelAPIMiddleware.StaticHotels.Store;
 using Microsoft.Extensions.Caching.Memory;
 
 namespace HotelAPIMiddleware.Services;
@@ -12,11 +13,16 @@ public class HotelSearchAggregator
 {
     private readonly IEnumerable<IHotelProvider> _providers;
     private readonly IMemoryCache _cache;
+    private readonly IHotelStaticStore _hotelStaticStore;
 
-    public HotelSearchAggregator(IEnumerable<IHotelProvider> providers, IMemoryCache cache)
+    public HotelSearchAggregator(
+        IEnumerable<IHotelProvider> providers,
+        IMemoryCache cache,
+        IHotelStaticStore hotelStaticStore)
     {
         _providers = providers;
         _cache = cache;
+        _hotelStaticStore = hotelStaticStore;
     }
 
     public async Task<HotelSearchResponse> SearchAsync(UnifiedHotelSearchRequest request, CancellationToken ct)
@@ -73,6 +79,11 @@ public class HotelSearchAggregator
                 foreach (var h in result.Hotels)
                 {
                     h.Provider = provName;
+
+                    // STUBA-only enrichment: add raw static JSON by matching HotelId to {hotelId}.json.
+                    // RateHawk and unsupported providers keep StaticData as empty string.
+                    h.StaticData = await ResolveStaticDataAsync(provName, string.IsNullOrWhiteSpace(h.Id) ? h.HotelId : h.Id, ct);
+
                     foreach (var rm in h.Rooms)
                         foreach (var rate in rm.Rates)
                             rate.Provider = provName;
@@ -125,5 +136,20 @@ public class HotelSearchAggregator
         _cache.Set(cacheId, response, TimeSpan.FromMinutes(30));
 
         return response;
+    }
+
+    private async Task<string> ResolveStaticDataAsync(string provider, string hotelId, CancellationToken ct)
+    {
+        if (!provider.Equals("STUBA", StringComparison.OrdinalIgnoreCase))
+            return string.Empty;
+
+        if (string.IsNullOrWhiteSpace(hotelId))
+            return string.Empty;
+
+        var profile = await _hotelStaticStore.GetHotelAsync(provider, hotelId, ct);
+        if (profile is null)
+            return string.Empty;
+
+        return JsonSerializer.Serialize(profile);
     }
 }

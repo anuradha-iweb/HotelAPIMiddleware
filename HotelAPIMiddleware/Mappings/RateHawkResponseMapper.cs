@@ -42,6 +42,7 @@ public static class RateHawkResponseMapper
 
             var hotel = new HotelResult
             {
+                Id = hotelId,
                 HotelId = hotelId,
                 RefNo = refNo,
                 Name = name,
