@@ -27,10 +27,12 @@ public interface IHotelStaticDataFetchService
     /// <param name="nationality">2-letter nationality code for availability search (e.g. "GB").</param>
     /// <param name="nights">Number of nights for availability search.</param>
     /// <param name="rooms">Room configuration for availability search.</param>
+    /// <param name="arrivalDate">Arrival date for RegionSearch. Defaults to today when null.</param>
     Task<SyncSummary> FetchByRegionAsync(
         int regionId,
         string nationality,
         int nights,
         IEnumerable<StubaRoom> rooms,
+        DateOnly? arrivalDate = null,
         CancellationToken ct = default);
 }

@@ -14,14 +14,13 @@ namespace HotelAPIMiddleware.StaticHotels.Services;
 ///   1a. getAllSearchRegionsByCountry (with supplied regionId) → sub-regions (if country-level)
 ///   1b. getAllSearchRegionsByCountry (with each sub-region ID) → cities
 ///       If no sub-regions returned, cities are fetched directly with the supplied regionId.
-///   2.  RegionSearch (today's arrival date) → hotel IDs per city search-region
-///   3.  getAllHotelsDetailsByHotelIds → hotel elements with images + descriptions (batch = DetailBatchSize)
+///   2.  RegionSearch (arrival date defaults to today) → hotel IDs per city search-region
+///   3.  getAllHotelsDetailsByHotelIds → hotel elements with images + descriptions
 ///   4.  Save each hotel as {hotelId}.json (create or overwrite on change)
 /// </summary>
 public sealed class HotelStaticDataFetchService : IHotelStaticDataFetchService
 {
     private const string Provider = "STUBA";
-    private const int DetailBatchSize = 10; // IDs per getAllHotelsDetailsByHotelIds call
 
     private readonly IStubaStaticClient _stubaClient;
     private readonly IHotelStaticStore _store;
@@ -45,14 +44,17 @@ public sealed class HotelStaticDataFetchService : IHotelStaticDataFetchService
         string nationality,
         int nights,
         IEnumerable<StubaRoom> rooms,
+        DateOnly? arrivalDate = null,
         CancellationToken ct = default)
     {
         var roomList = rooms.ToList();
         var summary = BeginSummary(regionId);
 
+        var effectiveArrivalDate = arrivalDate ?? DateOnly.FromDateTime(DateTime.Today);
+
         _logger.LogInformation(
-            "FetchByRegion started: regionId={RegionId}, nationality={Nat}, nights={Nights}",
-            regionId, nationality, nights);
+            "FetchByRegion started: regionId={RegionId}, nationality={Nat}, nights={Nights}, arrivalDate={ArrivalDate}",
+            regionId, nationality, nights, effectiveArrivalDate);
 
         // ── Step 1: Resolve cities (two-level when regionId is country/area level) ────
         // First try to interpret regionId as a high-level region to get sub-regions
@@ -112,7 +114,7 @@ public sealed class HotelStaticDataFetchService : IHotelStaticDataFetchService
                 ct.ThrowIfCancellationRequested();
 
                 var ids = await _stubaClient.SearchHotelIdsByRegionAsync(
-                    searchRegionId, nationality, nights, roomList, ct);
+                    searchRegionId, nationality, nights, roomList, effectiveArrivalDate, ct);
 
                 foreach (var id in ids)
                     hotelIds.Add(id);
@@ -129,29 +131,30 @@ public sealed class HotelStaticDataFetchService : IHotelStaticDataFetchService
         if (hotelIds.Count == 0)
             return FinishSummary(summary);
 
-        // ── Step 3 & 4: Fetch details in batches and save ─────────────────────
+        // ── Step 3 & 4: Fetch details one-by-one and save ────────────────────
         var index = await _store.LoadIndexAsync(Provider, ct);
         var syncLock = new object();
-
-        var idBatches = hotelIds
-            .Chunk(DetailBatchSize)
-            .ToList();
-
         var sem = new SemaphoreSlim(_opts.MaxConcurrency, _opts.MaxConcurrency);
 
-        var tasks = idBatches.Select(async batch =>
+        var tasks = hotelIds.Select(async hotelId =>
         {
             await sem.WaitAsync(ct);
             try
             {
                 ct.ThrowIfCancellationRequested();
-                var elements = await _stubaClient.GetHotelDetailsByIdsAsync(batch, ct);
+                var element = await _stubaClient.GetHotelDetailAsync(hotelId, ct);
 
-                foreach (var element in elements)
+                if (element is null)
                 {
-                    ct.ThrowIfCancellationRequested();
-                    await ProcessHotelElementAsync(element, index, summary, syncLock, ct);
+                    lock (syncLock)
+                    {
+                        summary.Failed++;
+                        summary.FailedHotelIds.Add(hotelId);
+                    }
+                    return;
                 }
+
+                await ProcessHotelElementAsync(element, index, summary, syncLock, ct);
             }
             catch (OperationCanceledException)
             {
@@ -159,12 +162,11 @@ public sealed class HotelStaticDataFetchService : IHotelStaticDataFetchService
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "Error processing batch of {Count} hotels", batch.Length);
+                _logger.LogError(ex, "Error processing hotel detail for hotelId={HotelId}", hotelId);
                 lock (syncLock)
                 {
-                    summary.Failed += batch.Length;
-                    foreach (var id in batch)
-                        summary.FailedHotelIds.Add(id);
+                    summary.Failed++;
+                    summary.FailedHotelIds.Add(hotelId);
                 }
             }
             finally
