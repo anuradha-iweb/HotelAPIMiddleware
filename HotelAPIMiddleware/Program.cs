@@ -36,11 +36,23 @@ builder.Services.AddHttpClient("RateHawkClient", (sp, http) =>
     AutomaticDecompression = DecompressionMethods.GZip | DecompressionMethods.Brotli
 });
 
+// Availability API: testapijson.stuba.com (AuthApiKey header)
 builder.Services.AddHttpClient("StubaClient", (sp, http) =>
 {
     var opt = sp.GetRequiredService<IOptions<ProviderOptions>>().Value;
     http.BaseAddress = new Uri(opt.Stuba.BaseUrl);
     http.DefaultRequestHeaders.TryAddWithoutValidation("AuthApiKey", opt.Stuba.AuthApiKey);
+})
+.ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler
+{
+    AutomaticDecompression = DecompressionMethods.GZip | DecompressionMethods.Brotli
+});
+
+// Static-content API: testcontent.stuba.com (auth is in request body, no header needed)
+builder.Services.AddHttpClient("StubaContentClient", (sp, http) =>
+{
+    var opt = sp.GetRequiredService<IOptions<ProviderOptions>>().Value;
+    http.BaseAddress = new Uri(opt.StubaContent.BaseUrl);
 })
 .ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler
 {
@@ -56,14 +68,10 @@ builder.Services.AddScoped<BookingPrepareService>();
 
 // ── Static hotel feature ───────────────────────────────────────────────────────
 
-// StubaStaticClient reuses the "StubaClient" named HttpClient (same base URL + auth)
 builder.Services.AddSingleton<IStubaStaticClient, StubaStaticClient>();
-
-// File store is a singleton — holds no per-request state and manages its own semaphores
 builder.Services.AddSingleton<IHotelStaticStore, HotelStaticFileStore>();
-
-// Sync service is scoped (uses the singleton store + client)
 builder.Services.AddScoped<IHotelStaticSyncService, HotelStaticSyncService>();
+builder.Services.AddScoped<IHotelStaticDataFetchService, HotelStaticDataFetchService>();
 
 // ── Cache ─────────────────────────────────────────────────────────────────────
 

@@ -7,8 +7,9 @@ using System.Text.Json;
 namespace HotelAPIMiddleware.StaticHotels.Mappings;
 
 /// <summary>
-/// Maps a STUBA static hotel detail response to the provider-agnostic
-/// <see cref="HotelStaticProfile"/> model, and computes its content hash.
+/// Maps a STUBA getAllHotelsDetailsByHotelIds response element to the
+/// provider-agnostic <see cref="HotelStaticProfile"/> model and computes its
+/// content hash.
 /// </summary>
 public static class StubaStaticHotelMapper
 {
@@ -19,56 +20,58 @@ public static class StubaStaticHotelMapper
     };
 
     /// <summary>
-    /// Maps the STUBA detail DTO to a <see cref="HotelStaticProfile"/>.
+    /// Maps a <see cref="StubaHotelElement"/> to a <see cref="HotelStaticProfile"/>.
     /// ContentHash and LastSyncedUtc are NOT set here — the caller sets them
     /// after comparing the hash against the stored index entry.
     /// </summary>
-    public static HotelStaticProfile Map(StubaHotelDetail detail)
+    public static HotelStaticProfile Map(StubaHotelElement element)
     {
         return new HotelStaticProfile
         {
             Provider = "STUBA",
-            ProviderHotelId = detail.HotelId,
-            Name = detail.HotelName,
-            ShortDescription = detail.ShortDescription,
-            LongDescription = detail.LongDescription,
-            StarRating = ParseStarRating(detail.StarRating),
-            Category = detail.Category,
+            ProviderHotelId = element.Id.ToString(),
+            Name = element.Name,
+            StarRating = element.Stars,
+
+            Descriptions = (element.Description ?? new())
+                .Select(d => new HotelDescriptionEntry
+                {
+                    Language = d.Language,
+                    Type = d.Type,
+                    Text = d.Text
+                })
+                .ToList(),
 
             Address = new HotelAddress
             {
-                Line1 = detail.Address,
-                Line2 = detail.Address2,
-                City = detail.City,
-                State = detail.State,
-                Country = detail.Country,
-                CountryCode = detail.CountryCode,
-                PostalCode = detail.PostalCode
+                Line1 = element.Address?.Address1 ?? string.Empty,
+                Line2 = string.Join(", ",
+                    new[] { element.Address?.Address2, element.Address?.Address3 }
+                    .Where(s => !string.IsNullOrWhiteSpace(s))),
+                City = element.Address?.City ?? string.Empty,
+                State = element.Address?.State ?? string.Empty,
+                Country = element.Address?.Country ?? string.Empty,
+                PostalCode = element.Address?.Zip ?? string.Empty
             },
 
             Geo = new GeoCoordinates
             {
-                Latitude = detail.Latitude,
-                Longitude = detail.Longitude
+                Latitude = element.GeneralInfo?.Latitude ?? 0,
+                Longitude = element.GeneralInfo?.Longitude ?? 0
             },
 
-            Phone = detail.Telephone,
-            Email = detail.Email,
-            Website = detail.Website,
-            CheckInTime = detail.CheckIn,
-            CheckOutTime = detail.CheckOut,
-            Languages = detail.Languages ?? new List<string>(),
+            Phone = element.Address?.Tel ?? string.Empty,
 
-            Images = (detail.Images ?? new List<StubaHotelImage>())
-                .Select(img => new HotelImage
+            Images = (element.Photo ?? new())
+                .Select(p => new HotelImage
                 {
-                    Url = img.ImageUrl,
-                    Caption = img.ImageCaption,
-                    IsMain = img.IsMain
+                    Url = p.Url,
+                    Caption = p.Caption,
+                    PhotoType = p.PhotoType,
+                    Width = p.Width,
+                    Height = p.Height
                 })
-                .ToList(),
-
-            Facilities = detail.Facilities ?? new List<string>()
+                .ToList()
         };
     }
 
@@ -79,50 +82,29 @@ public static class StubaStaticHotelMapper
     /// </summary>
     public static string ComputeContentHash(HotelStaticProfile profile)
     {
-        // Project only the stable content fields (no audit fields)
         var hashSource = new
         {
             profile.Provider,
             profile.ProviderHotelId,
             profile.Name,
-            profile.ShortDescription,
-            profile.LongDescription,
             profile.StarRating,
-            profile.Category,
             profile.Address,
             profile.Geo,
             profile.Phone,
-            profile.Email,
-            profile.Website,
-            profile.CheckInTime,
-            profile.CheckOutTime,
             // Sort lists for deterministic ordering
-            Languages = profile.Languages.OrderBy(l => l).ToList(),
+            Descriptions = profile.Descriptions
+                .OrderBy(d => d.Language)
+                .ThenBy(d => d.Type)
+                .Select(d => new { d.Language, d.Type, d.Text })
+                .ToList(),
             Images = profile.Images
                 .OrderBy(i => i.Url)
-                .Select(i => new { i.Url, i.Caption, i.IsMain })
-                .ToList(),
-            Facilities = profile.Facilities.OrderBy(f => f).ToList()
+                .Select(i => new { i.Url, i.Caption, i.PhotoType })
+                .ToList()
         };
 
         var json = JsonSerializer.Serialize(hashSource, _stableOpts);
         var bytes = SHA256.HashData(Encoding.UTF8.GetBytes(json));
         return Convert.ToHexString(bytes).ToLowerInvariant();
-    }
-
-    // ── Helpers ───────────────────────────────────────────────────────────────
-
-    private static int ParseStarRating(string value)
-    {
-        if (int.TryParse(value, out var i))
-            return Math.Clamp(i, 0, 5);
-
-        // Handle half-star strings like "4.5" by rounding
-        if (double.TryParse(value,
-                System.Globalization.NumberStyles.Any,
-                System.Globalization.CultureInfo.InvariantCulture, out var d))
-            return Math.Clamp((int)Math.Round(d), 0, 5);
-
-        return 0;
     }
 }

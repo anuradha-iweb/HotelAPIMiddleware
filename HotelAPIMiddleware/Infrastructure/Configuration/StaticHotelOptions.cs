@@ -1,3 +1,5 @@
+using HotelAPIMiddleware.StaticHotels.Providers.Stuba.Dto;
+
 namespace HotelAPIMiddleware.Infrastructure.Configuration;
 
 /// <summary>
@@ -13,50 +15,55 @@ public class StaticHotelOptions
     public string StoragePath { get; set; } = "HotelStaticData";
 
     /// <summary>
-    /// Maximum number of concurrent hotel-detail HTTP calls during sync.
-    /// Tune this to respect STUBA rate limits (default: 5).
+    /// Maximum number of concurrent hotel-detail HTTP calls during fetch.
     /// </summary>
     public int MaxConcurrency { get; set; } = 5;
 
     /// <summary>
-    /// Number of hotel IDs to fetch per page when paging the STUBA hotel list.
-    /// </summary>
-    public int HotelListPageSize { get; set; } = 1000;
-
-    /// <summary>
-    /// Optional millisecond delay between successive paged hotel-list calls
-    /// to avoid hammering the STUBA API.
+    /// Optional millisecond delay between successive API calls.
     /// </summary>
     public int PageDelayMs { get; set; } = 100;
 
     /// <summary>
-    /// STUBA static-content endpoint names (relative to Stuba BaseUrl).
-    /// Update these if STUBA changes their API paths.
-    ///
-    /// PLACEHOLDER NOTICE: Verify each endpoint name against the official
-    /// STUBA Static Content API documentation before going to production.
+    /// Authority credentials for STUBA's static-content API.
+    /// These are embedded in every request body (not in headers).
+    /// </summary>
+    public StubaAuthorityOptions Authority { get; set; } = new();
+
+    /// <summary>
+    /// STUBA endpoint paths (relative to StubaContent:BaseUrl in appsettings).
     /// </summary>
     public StubaStaticEndpoints StubaEndpoints { get; set; } = new();
 }
 
 /// <summary>
-/// Relative endpoint names for STUBA's static-content API.
-/// All paths are appended to the Providers:Stuba:BaseUrl configured in appsettings.
-///
-/// PLACEHOLDER: Replace these with the real STUBA endpoint names once confirmed.
-/// Current placeholders follow common STUBA B2B API naming conventions.
+/// Endpoint paths for STUBA's static-content API.
 /// </summary>
 public class StubaStaticEndpoints
 {
-    /// <summary>POST {BaseUrl}/GetHotelList — paged list of all hotel IDs.</summary>
-    public string HotelList { get; set; } = "GetHotelList";
+    /// <summary>
+    /// POST {ContentBaseUrl}/getAllSearchRegionsByCountry
+    /// Returns either search regions or cities depending on the supplied RegionId level.
+    /// </summary>
+    public string GetSearchRegions { get; set; } = "getAllSearchRegionsByCountry";
 
-    /// <summary>POST {BaseUrl}/GetHotelContent — static details for a single hotel.</summary>
-    public string HotelContent { get; set; } = "GetHotelContent";
+    /// <summary>
+    /// POST {ContentBaseUrl}/getAllHotelsDetailsByHotelIds
+    /// Returns hotel static details including images and descriptions.
+    /// </summary>
+    public string GetHotelDetails { get; set; } = "getAllHotelsDetailsByHotelIds";
+}
 
-    /// <summary>POST {BaseUrl}/GetDestinationList — list of all regions/destinations.</summary>
-    public string RegionList { get; set; } = "GetDestinationList";
-
-    /// <summary>POST {BaseUrl}/GetDestinationHotels — hotel IDs within a region.</summary>
-    public string RegionHotels { get; set; } = "GetDestinationHotels";
+/// <summary>
+/// Extension to convert the config Authority to the DTO used in request bodies.
+/// </summary>
+public static class StubaAuthorityOptionsExtensions
+{
+    public static StubaContentAuthority ToDto(this StubaAuthorityOptions opts) =>
+        new()
+        {
+            Org = opts.Org,
+            User = opts.User,
+            Password = opts.Password
+        };
 }

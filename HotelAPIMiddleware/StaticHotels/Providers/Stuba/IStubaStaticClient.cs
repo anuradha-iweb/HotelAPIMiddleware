@@ -1,33 +1,52 @@
+using HotelAPIMiddleware.Providers.Stuba.Dto;
 using HotelAPIMiddleware.StaticHotels.Providers.Stuba.Dto;
 
 namespace HotelAPIMiddleware.StaticHotels.Providers.Stuba;
 
 /// <summary>
-/// Abstraction over STUBA's static-content HTTP API.
-/// Concrete implementation: <see cref="StubaStaticClient"/>.
+/// Abstraction over STUBA's static-content HTTP API (testcontent.stuba.com).
+/// Auth is embedded in each request body as an Authority object.
 /// </summary>
 public interface IStubaStaticClient
 {
     /// <summary>
-    /// Fetches ALL hotel IDs from STUBA by paging through the hotel-list endpoint.
-    /// Deduplication is applied before returning.
+    /// Calls getAllSearchRegionsByCountry and returns top-level search regions
+    /// (items with RegionId / RegionName).
+    /// Pass the country-level RegionId to get its sub-regions.
     /// </summary>
-    Task<IReadOnlyList<string>> GetAllHotelIdsAsync(CancellationToken ct = default);
+    Task<IReadOnlyList<StubaSearchRegion>> GetRegionsByCountryAsync(
+        int regionId, CancellationToken ct = default);
 
     /// <summary>
-    /// Fetches static detail for a single hotel.
-    /// Returns null if the hotel is not found or STUBA returns an error.
+    /// Calls getAllSearchRegionsByCountry and returns cities within a region
+    /// (items with CityId / CityName / CityWiseRegionList).
     /// </summary>
-    Task<StubaHotelDetail?> GetHotelDetailAsync(string hotelId, CancellationToken ct = default);
+    Task<IReadOnlyList<StubaSearchCity>> GetCitiesByRegionAsync(
+        int regionId, CancellationToken ct = default);
 
     /// <summary>
-    /// Fetches all destination/region records from STUBA.
+    /// Calls the availability RegionSearch endpoint (testapijson.stuba.com/RegionSearch)
+    /// and returns the hotel IDs found for the given search region.
+    /// ArrivalDate defaults to today.
     /// </summary>
-    Task<IReadOnlyList<StubaDestination>> GetAllRegionsAsync(CancellationToken ct = default);
+    Task<IReadOnlyList<string>> SearchHotelIdsByRegionAsync(
+        int regionId,
+        string nationality,
+        int nights,
+        IEnumerable<StubaRoom> rooms,
+        CancellationToken ct = default);
 
     /// <summary>
-    /// Fetches hotel IDs within a specific region/destination by paging.
-    /// Deduplication is applied before returning.
+    /// Calls getAllHotelsDetailsByHotelIds and returns static profiles (with images +
+    /// descriptions) for the given hotel IDs.
     /// </summary>
-    Task<IReadOnlyList<string>> GetHotelIdsByRegionAsync(string regionId, CancellationToken ct = default);
+    Task<IReadOnlyList<StubaHotelElement>> GetHotelDetailsByIdsAsync(
+        IEnumerable<string> hotelIds, CancellationToken ct = default);
+
+    /// <summary>
+    /// Convenience wrapper: fetches static detail for a single hotel.
+    /// Returns null if not found or the API returns an error.
+    /// </summary>
+    Task<StubaHotelElement?> GetHotelDetailAsync(
+        string hotelId, CancellationToken ct = default);
 }

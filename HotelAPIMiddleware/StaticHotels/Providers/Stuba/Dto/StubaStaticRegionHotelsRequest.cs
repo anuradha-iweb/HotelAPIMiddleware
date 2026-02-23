@@ -3,18 +3,27 @@ using System.Text.Json.Serialization;
 namespace HotelAPIMiddleware.StaticHotels.Providers.Stuba.Dto;
 
 /// <summary>
-/// Request body for POST {BaseUrl}/GetDestinationHotels
-///
-/// PLACEHOLDER: Verify field names against official STUBA docs.
+/// Request body for POST {ContentBaseUrl}/getAllSearchRegionsByCountry
+/// Used for both fetching top-level regions and cities within a region.
+/// Auth is embedded in the body (Authority object), not in headers.
 /// </summary>
-public sealed class StubaStaticRegionHotelsRequest
+public sealed class StubaGetSearchRegionsRequest
 {
-    [JsonPropertyName("DestinationId")]
-    public string DestinationId { get; set; } = string.Empty;
+    [JsonPropertyName("Authority")]
+    public StubaContentAuthority Authority { get; set; } = new();
 
-    [JsonPropertyName("PageIndex")]
-    public int PageIndex { get; set; } = 1;
+    [JsonPropertyName("RegionId")]
+    public int RegionId { get; set; }
+}
 
-    [JsonPropertyName("PageSize")]
-    public int PageSize { get; set; } = 1000;
+public sealed class StubaContentAuthority
+{
+    [JsonPropertyName("Org")]
+    public string Org { get; set; } = string.Empty;
+
+    [JsonPropertyName("User")]
+    public string User { get; set; } = string.Empty;
+
+    [JsonPropertyName("Password")]
+    public string Password { get; set; } = string.Empty;
 }

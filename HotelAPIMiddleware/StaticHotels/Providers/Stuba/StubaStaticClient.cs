@@ -1,18 +1,23 @@
 using System.Text;
 using System.Text.Json;
 using HotelAPIMiddleware.Infrastructure.Configuration;
+using HotelAPIMiddleware.Providers.Stuba.Dto;
 using HotelAPIMiddleware.StaticHotels.Providers.Stuba.Dto;
 using Microsoft.Extensions.Options;
 
 namespace HotelAPIMiddleware.StaticHotels.Providers.Stuba;
 
 /// <summary>
-/// HTTP client for STUBA's static-content API.
-/// Uses the shared "StubaClient" named HttpClient (same auth + base URL).
+/// HTTP client for STUBA's two separate APIs:
 ///
-/// PLACEHOLDER NOTE: The endpoint names used below are configurable via
-/// appsettings.json → StaticHotels:StubaEndpoints. Update them to match
-/// the exact paths in the official STUBA Static Content API documentation.
+/// Static-content API  → "StubaContentClient" (testcontent.stuba.com/webapi/staticData/)
+///   - getAllSearchRegionsByCountry  → regions / cities
+///   - getAllHotelsDetailsByHotelIds → hotel detail with images + descriptions
+///   Auth: Authority object embedded in every request body.
+///
+/// Availability API → "StubaClient" (testapijson.stuba.com/)
+///   - RegionSearch → live hotel availability (today's arrival date)
+///   Auth: AuthApiKey header (already set on the named client).
 /// </summary>
 public sealed class StubaStaticClient : IStubaStaticClient
 {
@@ -35,115 +40,169 @@ public sealed class StubaStaticClient : IStubaStaticClient
         _logger = logger;
     }
 
-    // ── Public interface ──────────────────────────────────────────────────────
+    // ── Regions ───────────────────────────────────────────────────────────────
 
-    public async Task<IReadOnlyList<string>> GetAllHotelIdsAsync(CancellationToken ct = default)
+    public async Task<IReadOnlyList<StubaSearchRegion>> GetRegionsByCountryAsync(
+        int regionId, CancellationToken ct = default)
     {
-        var ids = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
-        int page = 1;
+        var req = BuildContentRequest(regionId);
+        var resp = await ContentPostAsync<StubaGetRegionsResponse>(
+            _opts.StubaEndpoints.GetSearchRegions, req, ct);
 
-        while (true)
+        if (resp is null || !resp.Success)
         {
-            ct.ThrowIfCancellationRequested();
-
-            var req = new StubaStaticHotelListRequest
-            {
-                PageIndex = page,
-                PageSize = _opts.HotelListPageSize
-            };
-
-            var resp = await PostAsync<StubaStaticHotelListResponse>(
-                _opts.StubaEndpoints.HotelList, req, ct);
-
-            if (resp is null || resp.HotelList.Count == 0)
-                break;
-
-            foreach (var item in resp.HotelList)
-                if (!string.IsNullOrWhiteSpace(item.HotelId))
-                    ids.Add(item.HotelId.Trim());
-
-            _logger.LogInformation(
-                "STUBA hotel list page {Page}: fetched {Count} IDs (running total {Total})",
-                page, resp.HotelList.Count, ids.Count);
-
-            // Stop if we've collected everything
-            if (ids.Count >= resp.TotalRecord || resp.HotelList.Count < _opts.HotelListPageSize)
-                break;
-
-            page++;
-
-            if (_opts.PageDelayMs > 0)
-                await Task.Delay(_opts.PageDelayMs, ct);
+            _logger.LogWarning(
+                "getAllSearchRegionsByCountry (regions) returned no data for regionId={Id}", regionId);
+            return Array.Empty<StubaSearchRegion>();
         }
 
-        return ids.ToList();
+        _logger.LogInformation(
+            "getAllSearchRegionsByCountry: got {Count} regions for regionId={Id}",
+            resp.Data.Count, regionId);
+
+        return resp.Data;
     }
 
-    public async Task<StubaHotelDetail?> GetHotelDetailAsync(string hotelId, CancellationToken ct = default)
+    // ── Cities ────────────────────────────────────────────────────────────────
+
+    public async Task<IReadOnlyList<StubaSearchCity>> GetCitiesByRegionAsync(
+        int regionId, CancellationToken ct = default)
     {
-        var req = new StubaStaticHotelDetailRequest { HotelId = hotelId };
+        var req = BuildContentRequest(regionId);
+        var resp = await ContentPostAsync<StubaGetCitiesResponse>(
+            _opts.StubaEndpoints.GetSearchRegions, req, ct);
 
-        var resp = await PostAsync<StubaStaticHotelDetailResponse>(
-            _opts.StubaEndpoints.HotelContent, req, ct);
-
-        return resp?.Hotel;
-    }
-
-    public async Task<IReadOnlyList<StubaDestination>> GetAllRegionsAsync(CancellationToken ct = default)
-    {
-        // PLACEHOLDER: adjust request body if STUBA requires parameters
-        var resp = await PostAsync<StubaStaticRegionListResponse>(
-            _opts.StubaEndpoints.RegionList, new { }, ct);
-
-        return resp?.Destinations ?? new List<StubaDestination>();
-    }
-
-    public async Task<IReadOnlyList<string>> GetHotelIdsByRegionAsync(
-        string regionId, CancellationToken ct = default)
-    {
-        var ids = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
-        int page = 1;
-
-        while (true)
+        if (resp is null || !resp.Success)
         {
-            ct.ThrowIfCancellationRequested();
-
-            var req = new StubaStaticRegionHotelsRequest
-            {
-                DestinationId = regionId,
-                PageIndex = page,
-                PageSize = _opts.HotelListPageSize
-            };
-
-            var resp = await PostAsync<StubaStaticRegionHotelsResponse>(
-                _opts.StubaEndpoints.RegionHotels, req, ct);
-
-            if (resp is null || resp.HotelList.Count == 0)
-                break;
-
-            foreach (var item in resp.HotelList)
-                if (!string.IsNullOrWhiteSpace(item.HotelId))
-                    ids.Add(item.HotelId.Trim());
-
-            if (ids.Count >= resp.TotalRecord || resp.HotelList.Count < _opts.HotelListPageSize)
-                break;
-
-            page++;
-
-            if (_opts.PageDelayMs > 0)
-                await Task.Delay(_opts.PageDelayMs, ct);
+            _logger.LogWarning(
+                "getAllSearchRegionsByCountry (cities) returned no data for regionId={Id}", regionId);
+            return Array.Empty<StubaSearchCity>();
         }
 
-        return ids.ToList();
+        _logger.LogInformation(
+            "getAllSearchRegionsByCountry: got {Count} cities for regionId={Id}",
+            resp.Data.Count, regionId);
+
+        return resp.Data;
+    }
+
+    // ── Availability search ───────────────────────────────────────────────────
+
+    public async Task<IReadOnlyList<string>> SearchHotelIdsByRegionAsync(
+        int regionId,
+        string nationality,
+        int nights,
+        IEnumerable<StubaRoom> rooms,
+        CancellationToken ct = default)
+    {
+        var req = new StubaRegionSearchRequest
+        {
+            RegionId = regionId,
+            Nationality = nationality,
+            Nights = nights,
+            ArrivalDate = DateTime.Today.ToString("yyyy-MM-dd"),
+            Timeout = 30,
+            Rooms = rooms.ToList()
+        };
+
+        var http = _httpFactory.CreateClient("StubaClient");
+        var json = JsonSerializer.Serialize(req);
+        var httpReq = new HttpRequestMessage(HttpMethod.Post, "RegionSearch")
+        {
+            Content = new StringContent(json, Encoding.UTF8, "application/json")
+        };
+
+        HttpResponseMessage httpResp;
+        try
+        {
+            httpResp = await http.SendAsync(httpReq, ct);
+        }
+        catch (Exception ex) when (ex is not OperationCanceledException)
+        {
+            _logger.LogError(ex, "RegionSearch HTTP error for regionId={Id}", regionId);
+            return Array.Empty<string>();
+        }
+
+        var body = await httpResp.Content.ReadAsStringAsync(ct);
+
+        if (!httpResp.IsSuccessStatusCode)
+        {
+            _logger.LogWarning(
+                "RegionSearch returned HTTP {Status} for regionId={Id}: {Body}",
+                (int)httpResp.StatusCode, regionId,
+                body.Length > 300 ? body[..300] : body);
+            return Array.Empty<string>();
+        }
+
+        var ids = ParseHotelIdsFromAvailability(body);
+        _logger.LogInformation(
+            "RegionSearch for regionId={Id}: found {Count} hotels", regionId, ids.Count);
+
+        return ids;
+    }
+
+    // ── Hotel details ─────────────────────────────────────────────────────────
+
+    public async Task<IReadOnlyList<StubaHotelElement>> GetHotelDetailsByIdsAsync(
+        IEnumerable<string> hotelIds, CancellationToken ct = default)
+    {
+        var ids = hotelIds.ToList();
+        if (ids.Count == 0)
+            return Array.Empty<StubaHotelElement>();
+
+        var req = new StubaGetHotelDetailsRequest
+        {
+            Authority = _opts.Authority.ToDto(),
+            HotelIds = ids,
+            Options = new StubaHotelDetailOptions
+            {
+                IncludeImages = true,
+                IncludeDescription = true
+            }
+        };
+
+        var resp = await ContentPostAsync<StubaGetHotelDetailsResponse>(
+            _opts.StubaEndpoints.GetHotelDetails, req, ct);
+
+        if (resp is null || !resp.Success)
+        {
+            _logger.LogWarning(
+                "getAllHotelsDetailsByHotelIds failed for {Count} hotels", ids.Count);
+            return Array.Empty<StubaHotelElement>();
+        }
+
+        var elements = resp.Data
+            .Where(d => d.HotelElement is not null)
+            .Select(d => d.HotelElement!)
+            .ToList();
+
+        _logger.LogInformation(
+            "getAllHotelsDetailsByHotelIds: got details for {Count}/{Requested} hotels",
+            elements.Count, ids.Count);
+
+        return elements;
+    }
+
+    public async Task<StubaHotelElement?> GetHotelDetailAsync(
+        string hotelId, CancellationToken ct = default)
+    {
+        var results = await GetHotelDetailsByIdsAsync(new[] { hotelId }, ct);
+        return results.FirstOrDefault();
     }
 
     // ── Private helpers ───────────────────────────────────────────────────────
 
-    private async Task<TResponse?> PostAsync<TResponse>(
+    private StubaGetSearchRegionsRequest BuildContentRequest(int regionId) => new()
+    {
+        Authority = _opts.Authority.ToDto(),
+        RegionId = regionId
+    };
+
+    private async Task<TResponse?> ContentPostAsync<TResponse>(
         string endpoint, object requestBody, CancellationToken ct)
         where TResponse : class
     {
-        var http = _httpFactory.CreateClient("StubaClient");
+        var http = _httpFactory.CreateClient("StubaContentClient");
         var json = JsonSerializer.Serialize(requestBody);
 
         var httpReq = new HttpRequestMessage(HttpMethod.Post, endpoint)
@@ -158,7 +217,7 @@ public sealed class StubaStaticClient : IStubaStaticClient
         }
         catch (Exception ex) when (ex is not OperationCanceledException)
         {
-            _logger.LogError(ex, "STUBA static client HTTP error calling {Endpoint}", endpoint);
+            _logger.LogError(ex, "STUBA content API HTTP error calling {Endpoint}", endpoint);
             return null;
         }
 
@@ -167,8 +226,9 @@ public sealed class StubaStaticClient : IStubaStaticClient
         if (!httpResp.IsSuccessStatusCode)
         {
             _logger.LogWarning(
-                "STUBA {Endpoint} returned HTTP {Status}: {Body}",
-                endpoint, (int)httpResp.StatusCode, body);
+                "STUBA content {Endpoint} returned HTTP {Status}: {Body}",
+                endpoint, (int)httpResp.StatusCode,
+                body.Length > 300 ? body[..300] : body);
             return null;
         }
 
@@ -179,9 +239,44 @@ public sealed class StubaStaticClient : IStubaStaticClient
         catch (JsonException ex)
         {
             _logger.LogError(ex,
-                "STUBA {Endpoint}: failed to deserialize response. Body snippet: {Snippet}",
+                "STUBA content {Endpoint}: failed to deserialize. Snippet: {Snippet}",
                 endpoint, body.Length > 500 ? body[..500] : body);
             return null;
         }
+    }
+
+    /// <summary>
+    /// Extracts hotel IDs from a RegionSearch JSON response.
+    /// Handles the hotelAvailability[].hotel.id structure.
+    /// </summary>
+    private IReadOnlyList<string> ParseHotelIdsFromAvailability(string body)
+    {
+        var ids = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+        try
+        {
+            using var doc = JsonDocument.Parse(body);
+            if (!doc.RootElement.TryGetProperty("hotelAvailability", out var availability))
+                return Array.Empty<string>();
+
+            foreach (var entry in availability.EnumerateArray())
+            {
+                if (entry.TryGetProperty("hotel", out var hotel) &&
+                    hotel.TryGetProperty("id", out var idProp))
+                {
+                    var id = idProp.ValueKind == JsonValueKind.Number
+                        ? idProp.GetInt64().ToString()
+                        : idProp.GetString() ?? string.Empty;
+
+                    if (!string.IsNullOrEmpty(id))
+                        ids.Add(id);
+                }
+            }
+        }
+        catch (JsonException ex)
+        {
+            _logger.LogError(ex, "Failed to parse hotel IDs from RegionSearch response");
+        }
+
+        return ids.ToList();
     }
 }
