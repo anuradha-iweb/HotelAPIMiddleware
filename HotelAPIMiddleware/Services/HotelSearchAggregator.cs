@@ -80,9 +80,13 @@ public class HotelSearchAggregator
                 {
                     h.Provider = provName;
 
-                    // STUBA-only enrichment: add raw static JSON by matching HotelId to {hotelId}.json.
+                    // STUBA-only enrichment: add raw static JSON by matching persisted static id to {hotelId}.json.
                     // RateHawk and unsupported providers keep StaticData as empty string.
-                    h.StaticData = await ResolveStaticDataAsync(provName, string.IsNullOrWhiteSpace(h.Id) ? h.HotelId : h.Id, ct);
+                    var staticId = !string.IsNullOrWhiteSpace(h.StaticDataId)
+                        ? h.StaticDataId
+                        : (string.IsNullOrWhiteSpace(h.Id) ? h.HotelId : h.Id);
+
+                    h.StaticData = await ResolveStaticDataAsync(provName, staticId, ct);
 
                     foreach (var rm in h.Rooms)
                         foreach (var rate in rm.Rates)
