@@ -1,4 +1,6 @@
-﻿namespace HotelAPIMiddleware.Contracts.Responses;
+﻿using System.Text.Json;
+
+namespace HotelAPIMiddleware.Contracts.Responses;
 
 public class HotelResult
 {
@@ -18,8 +20,13 @@ public class HotelResult
     public List<RoomResult> Rooms { get; set; } = new();
 
     /// <summary>
-    /// Raw static hotel JSON content for STUBA hotels matched by HotelId file name.
-    /// For providers without static data support (e.g., RATEHAWK), this remains empty.
+    /// External static-content id used to resolve persisted STUBA hotel JSON (hotelAvailability.hotel.id).
     /// </summary>
-    public string StaticData { get; set; } = string.Empty;
+    public string StaticDataId { get; set; } = string.Empty;
+
+    /// <summary>
+    /// Raw static hotel JSON object for STUBA hotels matched by HotelId file name.
+    /// For providers without static data support (e.g., RATEHAWK), this remains null.
+    /// </summary>
+    public JsonElement? StaticData { get; set; }
 }
