@@ -18,6 +18,11 @@ public class HotelResult
     public List<RoomResult> Rooms { get; set; } = new();
 
     /// <summary>
+    /// External static-content id used to resolve persisted STUBA hotel JSON (hotelAvailability.hotel.id).
+    /// </summary>
+    public string StaticDataId { get; set; } = string.Empty;
+
+    /// <summary>
     /// Raw static hotel JSON content for STUBA hotels matched by HotelId file name.
     /// For providers without static data support (e.g., RATEHAWK), this remains empty.
     /// </summary>

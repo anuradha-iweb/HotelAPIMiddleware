@@ -45,6 +45,7 @@ public static class StubaResponseMapper
                 RefNo = refNo,
                 Id = hotelId,
                 HotelId = hotelId,
+                StaticDataId = hotelId,
                 Name = hotelName,
                 StarRating = 0,
                 Address = new Address()
