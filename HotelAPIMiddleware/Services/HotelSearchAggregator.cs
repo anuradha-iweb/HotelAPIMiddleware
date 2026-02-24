@@ -81,7 +81,7 @@ public class HotelSearchAggregator
                     h.Provider = provName;
 
                     // STUBA-only enrichment: add raw static JSON by matching persisted static id to {hotelId}.json.
-                    // RateHawk and unsupported providers keep StaticData as empty string.
+                    // RateHawk and unsupported providers keep StaticData as null.
                     var staticId = !string.IsNullOrWhiteSpace(h.StaticDataId)
                         ? h.StaticDataId
                         : (string.IsNullOrWhiteSpace(h.Id) ? h.HotelId : h.Id);
@@ -142,18 +142,18 @@ public class HotelSearchAggregator
         return response;
     }
 
-    private async Task<string> ResolveStaticDataAsync(string provider, string hotelId, CancellationToken ct)
+    private async Task<JsonElement?> ResolveStaticDataAsync(string provider, string hotelId, CancellationToken ct)
     {
         if (!provider.Equals("STUBA", StringComparison.OrdinalIgnoreCase))
-            return string.Empty;
+            return null;
 
         if (string.IsNullOrWhiteSpace(hotelId))
-            return string.Empty;
+            return null;
 
         var profile = await _hotelStaticStore.GetHotelAsync(provider, hotelId, ct);
         if (profile is null)
-            return string.Empty;
+            return null;
 
-        return JsonSerializer.Serialize(profile);
+        return JsonSerializer.SerializeToElement(profile);
     }
 }
