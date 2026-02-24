@@ -33,7 +33,10 @@ public static class StubaResponseMapper
             var hotelEl = ha.TryGet("hotel");
             if (hotelEl is null) continue;
 
-            var hotelId = hotelEl.Value.TryGet("id").GetStringSafe() ?? Guid.NewGuid().ToString();
+            var hotelIdEl = hotelEl.Value.TryGet("id");
+            var hotelId = hotelIdEl.GetIntSafe()?.ToString()
+                          ?? hotelIdEl.GetStringSafe()
+                          ?? Guid.NewGuid().ToString();
             var hotelName = hotelEl.Value.TryGet("name").GetStringSafe() ?? "Unknown Hotel";
 
             var hotel = new HotelResult
