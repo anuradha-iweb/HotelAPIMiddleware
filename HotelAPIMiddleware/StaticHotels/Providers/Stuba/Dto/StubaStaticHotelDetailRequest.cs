@@ -26,4 +26,7 @@ public sealed class StubaHotelDetailOptions
 
     [JsonPropertyName("IncludeDescription")]
     public bool IncludeDescription { get; set; } = true;
+
+    [JsonPropertyName("IncludeFacilities")]
+    public bool IncludeFacilities { get; set; } = true;
 }
