@@ -186,7 +186,8 @@ public sealed class StubaStaticClient : IStubaStaticClient
             Options = new StubaHotelDetailOptions
             {
                 IncludeImages = true,
-                IncludeDescription = true
+                IncludeDescription = true,
+                IncludeFacilities = true
             }
         };
 
