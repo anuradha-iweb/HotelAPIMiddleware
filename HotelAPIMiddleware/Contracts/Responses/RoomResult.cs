@@ -8,5 +8,7 @@ public class RoomResult
     public int MaxAdults { get; set; }
     public int MaxChildren { get; set; }
 
+    public bool IsSelected { get; set; }
+
     public List<RateResult> Rates { get; set; } = new();
 }
