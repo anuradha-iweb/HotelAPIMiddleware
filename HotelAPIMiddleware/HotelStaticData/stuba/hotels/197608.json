@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "197608",
+  "name": "Gunes Hotel Merter",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "522621"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Gunes Hotel Merter in Istanbul (Merter), you\u0027ll be within a 10-minute drive of S\u00FCleymaniye Mosque and Atak\u00F6y Marina.  This hotel is 6.2 mi (10 km) from Grand Bazaar and 7.4 mi (11.8 km) from Galata Tower."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 130 air-conditioned rooms featuring minibars. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms with shower/tub combinations feature complimentary toiletries and bidets. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take in the views from a terrace and a garden and make use of amenities such as complimentary wireless internet access. Additional amenities at this hotel include concierge services, shopping on site, and a fireplace in the lobby."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EFisekhane - 3.8 km / 2.4 mi \u003Cbr /\u003E Memorial Bah\u00E7elievler Hospital - 4.1 km / 2.6 mi \u003Cbr /\u003E Capacity Shopping Center - 4.9 km / 3 mi \u003Cbr /\u003E Forum Istanbul - 5.3 km / 3.3 mi \u003Cbr /\u003E Chora Church - 6.5 km / 4 mi \u003Cbr /\u003E Atak\u00F6y Marina - 7.1 km / 4.4 mi \u003Cbr /\u003E Fatih Mosque - 8.1 km / 5 mi \u003Cbr /\u003E Beyazit Square - 8.2 km / 5.1 mi \u003Cbr /\u003E Column of Constantine - 8.4 km / 5.2 mi \u003Cbr /\u003E Istanbul University - 8.4 km / 5.2 mi \u003Cbr /\u003E Eyup Sultan Mosque - 8.5 km / 5.3 mi \u003Cbr /\u003E Golden Horn - 8.8 km / 5.4 mi \u003Cbr /\u003E Turkish and Islamic Art Museum - 8.9 km / 5.5 mi \u003Cbr /\u003E Istanbul Expo Center - 9 km / 5.6 mi \u003Cbr /\u003E G\u00FClhane Park - 9.2 km / 5.7 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EIstanbul Airport (IST) - 43 km / 26.7 mi\u003Cbr /\u003E Istanbul Sabiha Gokcen Intl. Airport (SAW) - 52.1 km / 32.4 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Gunes Hotel Merter is Istanbul Airport (IST). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003ECashless transactions are available\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, and a first aid kit\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E   \u003Cli\u003EOne child 2 years old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E\u003Cli\u003ECashless payment methods are available for all transactions.\u003C/li\u003E\u003Cli\u003EContactless check-out is available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy international cuisine at Venus, one of the hotel\u0027s 3 restaurants, or stay in and take advantage of the 24-hour room service. Snacks are also available at the coffee shop/cafe. Quench your thirst with your favorite drink at the bar/lounge. Buffet breakfasts are available daily from 7:00 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "Nadide Cad Gunay Sok No 1",
+    "line2": "Merter",
+    "city": "Istanbul",
+    "state": "",
+    "country": "Turkey",
+    "countryCode": "",
+    "postalCode": "34173"
+  },
+  "geo": {
+    "latitude": 41.007334,
+    "longitude": 28.893703
+  },
+  "phone": "\u002B90 212 483 3030",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/197608/197608_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_5.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_6.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_7.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_8.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_9.jpg",
+      "caption": "Food court",
+      "photoType": "81009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_10.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_13.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_16.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_17.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_18.jpg",
+      "caption": "Food court",
+      "photoType": "81009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_21.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_24.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_25.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_26.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_27.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_28.jpg",
+      "caption": "Food court",
+      "photoType": "81009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_31.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_32.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_33.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_35.jpg",
+      "caption": "Food court",
+      "photoType": "81009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_37.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_38.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/197608_img_39.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/197608/Main_197608.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "f0ed8bddf85dd3cde51923f5c4967212884a14832f9d7e1260c33e2ab96685f6",
+  "lastSyncedUtc": "2026-02-25T11:02:00.9057064Z"
+}

@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "2250973",
+  "name": "Column Bangkok Hotel",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "3978633"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "In the heart of Bangkok, Column Bangkok Hotel is within a 5-minute drive of Terminal 21 Shopping Mall and CentralWorld Shopping Complex.  This luxury hotel is 2.3 mi (3.7 km) from Lumphini Park and 2.3 mi (3.7 km) from Siam Paragon Mall."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Treat yourself to a stay in one of the 218 guestrooms, featuring fireplaces and LED televisions. Kitchenettes are outfitted with refrigerators and microwaves. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Don\u0027t miss out on recreational opportunities including an outdoor pool and a fitness center. This hotel also features complimentary wireless internet access and concierge services.Featured amenities include complimentary wired internet access, dry cleaning/laundry services, and a 24-hour front desk. A roundtrip airport shuttle is provided for a surcharge during limited hours, and free self parking is available onsite."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ESoi Cowboy - 0.6 km / 0.4 mi \u003Cbr /\u003E Terminal 21 Shopping Mall - 0.6 km / 0.4 mi \u003Cbr /\u003E Queen Sirikit National Convention Center - 1.2 km / 0.8 mi \u003Cbr /\u003E EmQuartier - 1.4 km / 0.8 mi \u003Cbr /\u003E Emporium - 1.4 km / 0.9 mi \u003Cbr /\u003E Nana Square - 1.5 km / 0.9 mi \u003Cbr /\u003E Stock Exchange of Thailand - 1.5 km / 0.9 mi \u003Cbr /\u003E Bumrungrad Hospital - 2 km / 1.2 mi \u003Cbr /\u003E Central Embassy - 2.2 km / 1.4 mi \u003Cbr /\u003E Embassy of the United States - 2.2 km / 1.4 mi \u003Cbr /\u003E Embassy of Switzerland - 2.4 km / 1.5 mi \u003Cbr /\u003E Central Chidlom Department Store - 2.6 km / 1.6 mi \u003Cbr /\u003E Jodd Fairs - 2.8 km / 1.7 mi \u003Cbr /\u003E Central Plaza Grand Rama 9 - 2.8 km / 1.7 mi \u003Cbr /\u003E Lumphini Park - 2.8 km / 1.7 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ESuvarnabhumi Intl. Airport (BKK) - 36.5 km / 22.7 mi\u003Cbr /\u003E Don Mueang Intl. Airport (DMK) - 28 km / 17.4 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Column Bangkok Hotel is Suvarnabhumi Intl. Airport (BKK). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": null
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Grab a bite at Ahyat Abalone Seafood, one of the hotel\u0027s 2 restaurants, or stay in and take advantage of the 24-hour room service. Local cuisine breakfasts are available daily from 6:00 AM to 10:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "48 Sukhumvit Soi 16 Klongtoey",
+    "line2": "Wattana",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": "10110"
+  },
+  "geo": {
+    "latitude": 13.733028,
+    "longitude": 100.560855
+  },
+  "phone": "(66) 2302 - 2555",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_6.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_7.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_8.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_9.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_12.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_16.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_17.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_18.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_19.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_23.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_24.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_25.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_28.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_29.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_31.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_33.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_34.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_38.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/2250973_img_39.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/2250973/Main_2250973.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "9e7d233d8d2e7526b1e28ff0fd11721cafe87d337cda28529a6ceae11b506a1c",
+  "lastSyncedUtc": "2026-02-25T11:01:43.9530554Z"
+}

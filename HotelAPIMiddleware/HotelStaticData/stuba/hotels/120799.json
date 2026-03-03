@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "120799",
+  "name": "The May Fair,A Radisson Collection Hotel",
+  "starRating": 5,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "7606"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "A stay at The May Fair, A Radisson Collection Hotel, Mayfair London places you in the heart of London, within a 5-minute walk of Piccadilly and Green Park.  This luxury hotel is 0.1 mi (0.2 km) from Berkeley Square and 0.3 mi (0.5 km) from Royal Academy of Arts."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 404 guestrooms featuring espresso makers and flat-screen televisions. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms with bathtubs or showers feature designer toiletries and hair dryers. Conveniences include phones, as well as laptop-compatible safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Pamper yourself with a visit to the spa, which offers massages, body treatments, and facials. If you\u0027re looking for recreational opportunities, you\u0027ll find a sauna and a 24-hour fitness center. Additional amenities at this hotel include complimentary wireless internet access, concierge services, and a banquet hall."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EPiccadilly - 0.2 km / 0.1 mi \u003Cbr /\u003E Green Park - 0.2 km / 0.1 mi \u003Cbr /\u003E Berkeley Square - 0.2 km / 0.1 mi \u003Cbr /\u003E Royal Arcade - 0.3 km / 0.2 mi \u003Cbr /\u003E Burlington Arcade - 0.5 km / 0.3 mi \u003Cbr /\u003E Royal Academy of Arts - 0.5 km / 0.3 mi \u003Cbr /\u003E Bond Street - 0.5 km / 0.3 mi \u003Cbr /\u003E Regent Street - 0.7 km / 0.4 mi \u003Cbr /\u003E Park Lane - 0.8 km / 0.5 mi \u003Cbr /\u003E Piccadilly Circus - 0.8 km / 0.5 mi \u003Cbr /\u003E Buckingham Palace - 0.8 km / 0.5 mi \u003Cbr /\u003E St. James Park - 0.8 km / 0.5 mi \u003Cbr /\u003E Oxford Street - 0.9 km / 0.5 mi \u003Cbr /\u003E London Palladium Theatre - 0.9 km / 0.6 mi \u003Cbr /\u003E Oxford Circus - 1 km / 0.6 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ELondon City Airport (LCY) - 17.5 km / 10.9 mi\u003Cbr /\u003E Heathrow Airport (LHR) - 26 km / 16.2 mi\u003Cbr /\u003E Gatwick Airport (LGW) - 67.3 km / 41.8 mi\u003Cbr /\u003E Luton Airport (LTN) - 53.4 km / 33.2 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for The May Fair, A Radisson Collection Hotel, Mayfair London is Heathrow Airport (LHR). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, a first aid kit, and window guards\u003C/li\u003E\u003Cli\u003EThis property affirms that it follows the cleaning and disinfection practices of Safety Protocol (Radisson)\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003EContactless check-in and contactless check-out are available.\u003C/li\u003E\u003Cli\u003EThis property welcomes guests of all sexual orientations and gender identities (LGBTQ\u002B friendly).\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy Japanese cuisine at May Fair Kitchen, a fine-dining restaurant which features a bar/lounge, or stay in and take advantage of the 24-hour room service. Full breakfasts are served on weekdays from 7:00 AM to 10:30 AM and on weekends from 7:30 AM to 11:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "Stratton Street, Mayfair",
+    "line2": "",
+    "city": "London",
+    "state": "",
+    "country": "UK - England",
+    "countryCode": "",
+    "postalCode": "W1J 8LT"
+  },
+  "geo": {
+    "latitude": 51.50817,
+    "longitude": -0.143855
+  },
+  "phone": "\u002B44 (0)207 769 8200",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/120799/120799_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_5.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_6.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_7.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_8.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_8.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_10.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_14.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_17.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_18.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_19.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_21.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_24.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_26.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_28.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_29.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_31.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_34.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_35.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_36.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_37.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/120799_img_39.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120799/Main_120799.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "31c15efaf767a243cb68433aeb45d19ba1f316160a1d3ac92d406aa1f8c33051",
+  "lastSyncedUtc": "2026-02-25T11:03:12.4114907Z"
+}

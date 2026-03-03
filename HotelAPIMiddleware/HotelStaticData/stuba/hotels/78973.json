@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "78973",
+  "name": "Avenue Hotel",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "1338993"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Avenue Hotel, you\u0027ll be centrally located in Dubai, within a 5-minute drive of Dubai Creek and Al Ghurair Centre.  This hotel is 3.2 mi (5.2 km) from Gold Souk and 4.6 mi (7.5 km) from Dubai World Trade Centre."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 133 air-conditioned rooms featuring refrigerators and flat-screen televisions. Complimentary wired and wireless internet access keeps you connected, and satellite programming provides entertainment. Private bathrooms with showers feature complimentary toiletries and bidets. Conveniences include safes and desks, and housekeeping is provided daily."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Be sure to enjoy recreational amenities, including a nightclub, a health club, and an outdoor pool. Additional features at this hotel include complimentary wireless internet access, concierge services, and gift shops/newsstands. The complimentary shuttle will take you to the nearby beach or shopping center."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EDeira Clocktower - 0.7 km / 0.5 mi \u003Cbr /\u003E Reef Mall - 1 km / 0.6 mi \u003Cbr /\u003E Al Ghurair Centre - 1.1 km / 0.7 mi \u003Cbr /\u003E Fish Roundabout - 1.6 km / 1 mi \u003Cbr /\u003E City Centre Deira - 1.7 km / 1.1 mi \u003Cbr /\u003E Creek Park - 1.8 km / 1.1 mi \u003Cbr /\u003E Deira Twin Towers Shopping Centre - 2.1 km / 1.3 mi \u003Cbr /\u003E Naif Souq - 2.9 km / 1.8 mi \u003Cbr /\u003E Spice Souk - 3.3 km / 2.1 mi \u003Cbr /\u003E Gold Souk - 3.5 km / 2.1 mi \u003Cbr /\u003E Deira Spice Souq - 3.5 km / 2.2 mi \u003Cbr /\u003E Dubai Tennis Stadium - 3.7 km / 2.3 mi \u003Cbr /\u003E Al Seef - 3.7 km / 2.3 mi \u003Cbr /\u003E Al Nasr Leisureland - 3.9 km / 2.4 mi \u003Cbr /\u003E Textile Souk - 4.2 km / 2.6 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDubai Intl. Airport (DXB) - 5.2 km / 3.3 mi\u003Cbr /\u003E Sharjah (SHJ-Sharjah Intl.) - 28.4 km / 17.7 mi\u003Cbr /\u003E Al Maktoum Intl. Airport (DWC) - 66.7 km / 41.4 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Avenue Hotel is Dubai Intl. Airport (DXB). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003ECashless transactions are available\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E   \u003Cli\u003EOne child 10 years old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003ECashless payment methods are available for all transactions.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Grab a bite at Starbucks, one of the hotel\u0027s 3 restaurants, or stay in and take advantage of the 24-hour room service. Snacks are also available at the coffee shop/cafe. Relax with a refreshing drink from the poolside bar or one of the 3 bars/lounges. Buffet breakfasts are available daily from 6:30 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "Al Rigga Street",
+    "line2": "Deira",
+    "city": "Dubai",
+    "state": "",
+    "country": "UAE",
+    "countryCode": "",
+    "postalCode": "182244"
+  },
+  "geo": {
+    "latitude": 25.262706,
+    "longitude": 55.326067
+  },
+  "phone": "971-4-2970808",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/78973/78973_img_1.jpg",
+      "caption": "Check-in/check-out kiosk",
+      "photoType": "10005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_4.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_5.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_6.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_7.jpg",
+      "caption": "Billiards",
+      "photoType": "71006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_8.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_8.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_10.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_11.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_12.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_14.jpg",
+      "caption": "Check-in/check-out kiosk",
+      "photoType": "10005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_15.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_16.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_19.jpg",
+      "caption": "Billiards",
+      "photoType": "71006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_20.jpg",
+      "caption": "Check-in/check-out kiosk",
+      "photoType": "10005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_21.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_24.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_25.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_26.jpg",
+      "caption": "Billiards",
+      "photoType": "71006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_27.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_28.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_30.jpg",
+      "caption": "Check-in/check-out kiosk",
+      "photoType": "10005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_31.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_33.jpg",
+      "caption": "Billiards",
+      "photoType": "71006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_35.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_36.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_38.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/78973_img_39.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/78973/Main_78973.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "55f50005b69c20641b6c43fca47d4b5e9e185612a819af6269226eb0d2919919",
+  "lastSyncedUtc": "2026-02-25T11:02:24.0067279Z"
+}

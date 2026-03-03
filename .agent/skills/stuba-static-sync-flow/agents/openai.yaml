@@ -1,0 +1,3 @@
+display_name: STUBA Static Sync Flow
+short_description: Operate and evolve STUBA static-data sync safely.
+default_prompt: Update or review STUBA static-data sync workflow and persistence behavior without exposing secrets.

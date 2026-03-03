@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "55720",
+  "name": "Bayswater Inn",
+  "starRating": 3,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "522132"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Park Avenue Bayswater Inn Hyde Park, you\u0027ll be centrally located in London, within a 10-minute walk of Kensington Gardens and Portobello Road Market.  This hotel is 1 mi (1.7 km) from Hyde Park and 1.3 mi (2.1 km) from Kensington Palace."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Stay in one of 148 guestrooms featuring flat-screen televisions. Complimentary wireless internet access keeps you connected, and digital programming is available for your entertainment. Bathrooms feature showers, complimentary toiletries, and hair dryers. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Make use of convenient amenities such as complimentary wireless internet access, concierge services, and a television in a common area."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EQueensway - 0.4 km / 0.2 mi \u003Cbr /\u003E Kensington Gardens - 0.4 km / 0.3 mi \u003Cbr /\u003E Portobello Road Market - 0.6 km / 0.4 mi \u003Cbr /\u003E Kensington Palace - 1 km / 0.6 mi \u003Cbr /\u003E Paddington Central - 1.3 km / 0.8 mi \u003Cbr /\u003E Kensington High Street - 1.4 km / 0.9 mi \u003Cbr /\u003E Hyde Park - 1.6 km / 1 mi \u003Cbr /\u003E Imperial College London - 1.9 km / 1.2 mi \u003Cbr /\u003E Royal Albert Hall - 2 km / 1.2 mi \u003Cbr /\u003E Science Museum - 2.5 km / 1.5 mi \u003Cbr /\u003E Cromwell Road - 2.5 km / 1.6 mi \u003Cbr /\u003E Westfield London Shopping Centre - 2.6 km / 1.6 mi \u003Cbr /\u003E Natural History Museum - 2.6 km / 1.6 mi \u003Cbr /\u003E Marble Arch - 2.7 km / 1.7 mi \u003Cbr /\u003E Park Lane - 2.7 km / 1.7 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ELondon City Airport (LCY) - 21.8 km / 13.5 mi\u003Cbr /\u003E Heathrow Airport (LHR) - 24.4 km / 15.2 mi\u003Cbr /\u003E Gatwick Airport (LGW) - 92.2 km / 57.3 mi\u003Cbr /\u003E Luton Airport (LTN) - 54 km / 33.5 mi\u003Cbr /\u003E Stansted Airport (STN) - 77.6 km / 48.2 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and debit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003EOnsite parties or group events are strictly prohibited\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, a first aid kit, and window guards\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003EContactless check-out is available.\u003C/li\u003E\u003Cli\u003EThis property welcomes guests of all sexual orientations and gender identities (LGBTQ\u002B friendly).\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy a meal at the restaurant, or stay in and take advantage of the hotel\u0027s room service (during limited hours). Buffet breakfasts are served on weekdays from 7 AM to 10 AM and on weekends from 8 AM to 11:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "8-16 Princes Square",
+    "line2": "Bayswater",
+    "city": "London",
+    "state": "",
+    "country": "UK - England",
+    "countryCode": "",
+    "postalCode": "W2 4NT"
+  },
+  "geo": {
+    "latitude": 51.512849,
+    "longitude": -0.192134
+  },
+  "phone": "44-20-77278621",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/55720/55720_img_1.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_6.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_7.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_8.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_9.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_13.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_14.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_15.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_17.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_18.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_24.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_26.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_27.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_28.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_29.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_31.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_33.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_34.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_35.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_36.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_38.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/55720_img_39.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55720/Main_55720.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "97558bcf930c6299c0ac02a61e73669cdab4df279e82b583c4f1846598c847c1",
+  "lastSyncedUtc": "2026-02-25T11:03:15.4887696Z"
+}

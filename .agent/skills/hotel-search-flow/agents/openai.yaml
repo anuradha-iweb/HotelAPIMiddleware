@@ -1,0 +1,3 @@
+display_name: Hotel Search Flow
+short_description: Implement and review unified search aggregation safely.
+default_prompt: Update or review /api/hotels/search logic while preserving contract compatibility and provider isolation.

@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "66706",
+  "name": "Banyan Tree Bangkok",
+  "starRating": 5,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "43964"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "A stay at Banyan Tree Bangkok places you in the heart of Bangkok, within a 5-minute drive of Lumphini Park and Siam Paragon Mall.  This family-friendly hotel is 2.4 mi (3.8 km) from Siam Center and 2.6 mi (4.2 km) from Pratunam Market."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 312 guestrooms featuring refrigerators and minibars. Complimentary wired and wireless internet access keeps you connected, and cable programming provides entertainment. Private bathrooms with separate bathtubs and showers feature deep soaking bathtubs and complimentary toiletries. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Pamper yourself with a visit to the spa, which offers massages, body treatments, and facials. You can take advantage of recreational amenities such as an outdoor pool, a sauna, and a fitness center. Additional features at this hotel include complimentary wireless internet access, concierge services, and babysitting (surcharge). Guests can catch a ride to nearby destinations on the complimentary area shuttle."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ESilom Complex Shopping Mall - 0.7 km / 0.5 mi \u003Cbr /\u003E Lumphini Park - 0.8 km / 0.5 mi \u003Cbr /\u003E Thaniya Plaza - 1.1 km / 0.7 mi \u003Cbr /\u003E Chulalongkorn Hospital - 1.2 km / 0.7 mi \u003Cbr /\u003E Chulalongkorn University - 1.4 km / 0.9 mi \u003Cbr /\u003E King Power MahaNakhon - 1.4 km / 0.9 mi \u003Cbr /\u003E Embassy of the United States - 1.9 km / 1.2 mi \u003Cbr /\u003E Samyan Mitrtown - 1.9 km / 1.2 mi \u003Cbr /\u003E Siam Square - 2.7 km / 1.7 mi \u003Cbr /\u003E Erawan Shrine - 2.8 km / 1.7 mi \u003Cbr /\u003E Central Embassy - 2.8 km / 1.7 mi \u003Cbr /\u003E Embassy of Switzerland - 2.9 km / 1.8 mi \u003Cbr /\u003E CentralWorld Shopping Complex - 2.9 km / 1.8 mi \u003Cbr /\u003E MBK Center - 3 km / 1.9 mi \u003Cbr /\u003E Central Chidlom Department Store - 3.1 km / 2 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDon Mueang Intl. Airport (DMK) - 27.1 km / 16.8 mi\u003Cbr /\u003E Suvarnabhumi Intl. Airport (BKK) - 34.8 km / 21.6 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, and a first aid kit\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003ERollaway beds are provided for children ages 4-11.\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EReservations are required for massage services. Reservations can be made by contacting the hotel prior to arrival, using the contact information on the booking confirmation. \u003C/li\u003E\u003Cli\u003EChildren stay free when occupying the parent or guardian\u0027s room, using existing bedding.\u003C/li\u003E\u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E\u003Cli\u003EContactless check-in and contactless check-out are available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Grab a bite to eat at one of the hotel\u0027s 6 restaurants, or stay in and take advantage of the 24-hour room service. Snacks are also available at the coffee shop/cafe. Relax with a refreshing drink from the poolside bar or one of the 3 bars/lounges. Buffet breakfasts are available daily from 6 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "21/100 South Sathon Road",
+    "line2": "",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": "10120"
+  },
+  "geo": {
+    "latitude": 13.72396,
+    "longitude": 100.5397
+  },
+  "phone": "\u002B66 2 679 1200",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/66706/66706_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_3.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_4.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_5.jpg",
+      "caption": "Boating",
+      "photoType": "60001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_6.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_7.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_8.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_9.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_10.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_11.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_13.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_14.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_15.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_17.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_18.jpg",
+      "caption": "Boating",
+      "photoType": "60001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_20.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_21.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_22.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_23.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_25.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_27.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_28.jpg",
+      "caption": "Boating",
+      "photoType": "60001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_30.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_31.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_33.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_34.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_35.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_36.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_38.jpg",
+      "caption": "Boating",
+      "photoType": "60001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/66706_img_39.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66706/Main_66706.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "0f9e8f5f2272a52a8d16a35380e4df5912feded7b193f184ecd85a0a1c940802",
+  "lastSyncedUtc": "2026-02-25T11:01:34.1178528Z"
+}

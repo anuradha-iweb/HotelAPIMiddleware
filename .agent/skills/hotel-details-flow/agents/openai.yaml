@@ -1,0 +1,3 @@
+display_name: Hotel Details Flow
+short_description: Work safely on cached hotel details retrieval and enrichment.
+default_prompt: Update /api/hotels/get_hotel_details flow while preserving cache lookup semantics and optional enrichment behavior.

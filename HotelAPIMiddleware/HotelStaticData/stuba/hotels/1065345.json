@@ -1,0 +1,319 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "1065345",
+  "name": "S31 Sukhumvit Hotel",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "3546973"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "A stay at S31 Sukhumvit Hotel places you in the heart of Bangkok, within a 10-minute walk of EmQuartier and Soi Cowboy.  This luxury hotel is 0.6 mi (0.9 km) from Terminal 21 Shopping Mall and 0.4 mi (0.7 km) from Emporium."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 122 air-conditioned rooms featuring microwaves and minibars. Your room comes with a pillowtop bed. 32-inch LCD televisions with satellite programming provide entertainment, while complimentary wireless internet access keeps you connected. Private bathrooms have complimentary toiletries and bidets."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Pamper yourself with a visit to the spa, which offers massages, body treatments, and facials. If you\u0027re looking for recreational opportunities, you\u0027ll find an outdoor pool, a spa tub, and a sauna. This Art Deco hotel also features complimentary wireless internet access, concierge services, and wedding services.Featured amenities include a business center, complimentary newspapers in the lobby, and dry cleaning/laundry services. Planning an event in Bangkok? This hotel has 930 square feet (86 square meters) of space consisting of conference space and 2 meeting rooms. A train station pick-up service is provided at no charge (available 24 hours), and free self parking is available onsite."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EEmQuartier - 0.5 km / 0.3 mi \u003Cbr /\u003E Soi Cowboy - 0.7 km / 0.4 mi \u003Cbr /\u003E Emporium - 0.7 km / 0.4 mi \u003Cbr /\u003E Terminal 21 Shopping Mall - 0.9 km / 0.6 mi \u003Cbr /\u003E Nana Square - 1.8 km / 1.1 mi \u003Cbr /\u003E Samitivej Sukhumvit Hospital - 1.9 km / 1.2 mi \u003Cbr /\u003E Queen Sirikit National Convention Center - 2 km / 1.2 mi \u003Cbr /\u003E Stock Exchange of Thailand - 2.1 km / 1.3 mi \u003Cbr /\u003E Bumrungrad Hospital - 2.2 km / 1.4 mi \u003Cbr /\u003E Soi Thonglor Road - 2.4 km / 1.5 mi \u003Cbr /\u003E Central Embassy - 2.4 km / 1.5 mi \u003Cbr /\u003E Gateway Ekamai Mall - 2.6 km / 1.6 mi \u003Cbr /\u003E Embassy of Switzerland - 2.6 km / 1.6 mi \u003Cbr /\u003E Central Chidlom Department Store - 2.9 km / 1.8 mi \u003Cbr /\u003E Embassy of the United States - 3 km / 1.8 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ESuvarnabhumi Intl. Airport (BKK) - 29.4 km / 18.3 mi\u003Cbr /\u003E Don Mueang Intl. Airport (DMK) - 25.8 km / 16 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for S31 Sukhumvit Hotel is Suvarnabhumi Intl. Airport (BKK). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": null
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy international cuisine at S Cafe, one of the hotel\u0027s 2 restaurants, or stay in and take advantage of the 24-hour room service. Snacks are also available at the coffee shop/cafe. Unwind at the end of the day with a drink at the bar/lounge or the poolside bar. English breakfasts are available daily from 6:00 AM to 10:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "545 Sukhumvit 31 Klongtoey Nua",
+    "line2": "Wattana",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": "10110"
+  },
+  "geo": {
+    "latitude": 13.733266,
+    "longitude": 100.565999
+  },
+  "phone": "66 2 2601111",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_4.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_5.jpg",
+      "caption": "Room amenity",
+      "photoType": "22009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_6.jpg",
+      "caption": "In-room business center",
+      "photoType": "22024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_7.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_8.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_9.jpg",
+      "caption": "Cafe",
+      "photoType": "81006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_11.jpg",
+      "caption": "Room amenity",
+      "photoType": "22009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_13.jpg",
+      "caption": "In-room business center",
+      "photoType": "22024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_14.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_15.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_17.jpg",
+      "caption": "Cafe",
+      "photoType": "81006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_20.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_21.jpg",
+      "caption": "In-room business center",
+      "photoType": "22024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_22.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_24.jpg",
+      "caption": "Room amenity",
+      "photoType": "22009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_27.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_29.jpg",
+      "caption": "Cafe",
+      "photoType": "81006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_31.jpg",
+      "caption": "In-room business center",
+      "photoType": "22024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_32.jpg",
+      "caption": "Cafe",
+      "photoType": "81006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_34.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_35.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_36.jpg",
+      "caption": "Room amenity",
+      "photoType": "22009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/1065345_img_39.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1065345/Main_1065345.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "2c6df0f10be906500a4b71f709b0742730aba081e8dd94d1642b6dcb48bde0cb",
+  "lastSyncedUtc": "2026-02-25T11:01:42.0368757Z"
+}

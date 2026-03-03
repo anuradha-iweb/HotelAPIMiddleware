@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "186640",
+  "name": "W6 Hotel (Formerly So Sienna Aparthotel)",
+  "starRating": 3,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "2030220"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at W6 Hotel Hammersmith in London (Hammersmith and Fulham), you\u0027ll be within a 5-minute drive of Kensington High Street and Westfield London Shopping Centre.  This aparthotel is 0.5 mi (0.8 km) from Thames River and 2.5 mi (4.1 km) from Natural History Museum."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 29 individually decorated guestrooms, featuring kitchenettes with refrigerators and microwaves. Flat-screen televisions and DVD players are provided for your entertainment, while complimentary wireless internet access keeps you connected. Conveniences include safes and electric kettles, and housekeeping is provided daily."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take in the views from a garden and make use of amenities such as complimentary wireless internet access and concierge services."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EEventim Apollo - 0.6 km / 0.4 mi \u003Cbr /\u003E Thames River - 0.8 km / 0.5 mi \u003Cbr /\u003E Olympia Conference and Exhibition Centre - 1.5 km / 0.9 mi \u003Cbr /\u003E Kensington High Street - 1.6 km / 1 mi \u003Cbr /\u003E Westfield London Shopping Centre - 2.1 km / 1.3 mi \u003Cbr /\u003E Cromwell Road - 2.4 km / 1.5 mi \u003Cbr /\u003E Kensington Gardens - 3.4 km / 2.1 mi \u003Cbr /\u003E Portobello Road Market - 3.6 km / 2.2 mi \u003Cbr /\u003E Kensington Palace - 3.8 km / 2.3 mi \u003Cbr /\u003E Stamford Bridge Stadium - 3.8 km / 2.4 mi \u003Cbr /\u003E Imperial College London - 3.9 km / 2.5 mi \u003Cbr /\u003E Royal Albert Hall - 4.1 km / 2.5 mi \u003Cbr /\u003E Queensway - 4.1 km / 2.6 mi \u003Cbr /\u003E Hyde Park - 4.2 km / 2.6 mi \u003Cbr /\u003E Natural History Museum - 4.3 km / 2.6 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EHeathrow Airport (LHR) - 20.4 km / 12.7 mi\u003Cbr /\u003E London City Airport (LCY) - 22 km / 13.6 mi\u003Cbr /\u003E Gatwick Airport (LGW) - 88.2 km / 54.8 mi\u003Cbr /\u003E Luton Airport (LTN) - 57.3 km / 35.6 mi\u003Cbr /\u003E Stansted Airport (STN) - 76.5 km / 47.5 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003EHost has not indicated whether there is a carbon monoxide detector on the property; consider bringing a portable detector with you on the trip\u003C/li\u003E\u003Cli\u003EHost has indicated there is a smoke detector on the property\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, a first aid kit, and window guards\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EAll guests must show a valid photo identification at check-in. This is the only form of identification that is accepted at this property.\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EThis property\u0027s policy is to refuse certain bookings for the purpose of group events or parties, including pre-wedding stag/bachelor and hen/bachelorette parties. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": null
+    }
+  ],
+  "address": {
+    "line1": "38-40 Glenthorn Road",
+    "line2": "",
+    "city": "London",
+    "state": "",
+    "country": "UK - England",
+    "countryCode": "",
+    "postalCode": "W6 OLS"
+  },
+  "geo": {
+    "latitude": 51.494576,
+    "longitude": -0.228318
+  },
+  "phone": "44 (0) 208 834 7005",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/186640/186640_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_6.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_7.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_8.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_9.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_14.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_16.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_17.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_19.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_23.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_24.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_25.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_27.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_29.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_31.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_33.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_34.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_35.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_37.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/186640_img_38.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/186640/Main_186640.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "0ff19b70172acda2547fbc74f490014a256024e20c7944e90403b06e24d57c1b",
+  "lastSyncedUtc": "2026-02-25T11:03:15.6777542Z"
+}

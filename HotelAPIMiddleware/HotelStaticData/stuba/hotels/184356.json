@@ -1,0 +1,375 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "184356",
+  "name": "S15 Sukhumvit Hotel",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "1839869"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "Located in Bangkok (Sukhumvit), S15 Sukhumvit Hotel is within a 10-minute walk of Terminal 21 Shopping Mall and Soi Cowboy.  This luxury hotel is 0.5 mi (0.7 km) from Nana Square and 0.7 mi (1.1 km) from Bumrungrad Hospital."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 72 guestrooms featuring refrigerators and LCD televisions. Satellite programming and DVD players are provided for your entertainment, while complimentary wireless internet access keeps you connected. Private bathrooms with separate bathtubs and showers feature deep soaking bathtubs and complimentary toiletries. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Relax at the full-service spa, where you can enjoy massages, body treatments, and facials. This Art Deco hotel also features complimentary wireless internet access, concierge services, and a television in a common area."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ESoi Cowboy - 0.5 km / 0.3 mi \u003Cbr /\u003E Terminal 21 Shopping Mall - 0.6 km / 0.3 mi \u003Cbr /\u003E Nana Square - 0.7 km / 0.5 mi \u003Cbr /\u003E Benjakitti Park - 0.9 km / 0.5 mi \u003Cbr /\u003E Bumrungrad Hospital - 1.1 km / 0.7 mi \u003Cbr /\u003E Central Embassy - 1.4 km / 0.9 mi \u003Cbr /\u003E Emporium - 1.4 km / 0.9 mi \u003Cbr /\u003E EmQuartier - 1.6 km / 1 mi \u003Cbr /\u003E Queen Sirikit National Convention Center - 1.7 km / 1 mi \u003Cbr /\u003E Central Chidlom Department Store - 1.8 km / 1.1 mi \u003Cbr /\u003E Erawan Shrine - 2.2 km / 1.4 mi \u003Cbr /\u003E CentralWorld Shopping Complex - 2.3 km / 1.5 mi \u003Cbr /\u003E Lumphini Park - 2.6 km / 1.6 mi \u003Cbr /\u003E Embassy of the United States - 2.6 km / 1.6 mi \u003Cbr /\u003E Jodd Fairs - 2.7 km / 1.7 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDon Mueang Intl. Airport (DMK) - 25.8 km / 16 mi\u003Cbr /\u003E Suvarnabhumi Intl. Airport (BKK) - 32.1 km / 19.9 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for S15 Sukhumvit Hotel is Suvarnabhumi Intl. Airport (BKK). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and cash\u003C/li\u003E\u003Cli\u003EThis property uses eco-friendly cleaning products\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, a first aid kit, and window guards\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E   \u003Cli\u003EOne child 4 years old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E\u003Cli\u003EContactless check-out is available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Satisfy your appetite for lunch at The Mezzanine Cafe, a restaurant which specializes in international cuisine, or stay in and take advantage of the room service (during limited hours). Mingle with other guests at the complimentary reception, held daily. Quench your thirst with your favorite drink at the bar/lounge. Buffet breakfasts are available daily from 6:00 AM to 10:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "217  Sukhumvit 15",
+    "line2": "Klongtoey Nua",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": "10110"
+  },
+  "geo": {
+    "latitude": 13.738855,
+    "longitude": 100.558361
+  },
+  "phone": "66-2-6512000",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/184356/Main_184356.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_1.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_6.jpg",
+      "caption": "Jetted tub",
+      "photoType": "23001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_7.jpg",
+      "caption": "Treatment room",
+      "photoType": "51008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_8.jpg",
+      "caption": "Billiards",
+      "photoType": "71006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_9.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_10.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_11.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_14.jpg",
+      "caption": "Billiards",
+      "photoType": "71006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_17.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_18.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_19.jpg",
+      "caption": "Treatment room",
+      "photoType": "51008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_20.jpg",
+      "caption": "Hallway",
+      "photoType": "83007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_22.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_24.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_26.jpg",
+      "caption": "Massage",
+      "photoType": "52001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_28.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_29.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_30.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_31.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_33.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_34.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_36.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_37.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_38.jpg",
+      "caption": "Jetted tub",
+      "photoType": "23001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_39.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_40.jpg",
+      "caption": "Business center",
+      "photoType": "83010",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_41.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "91008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_42.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "91008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/184356/184356_img_43.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "fcfc0871f4eabfd9a355107381e06e61efc8f2a511cef1b0273e93e192beb91c",
+  "lastSyncedUtc": "2026-02-25T11:01:28.7326734Z"
+}

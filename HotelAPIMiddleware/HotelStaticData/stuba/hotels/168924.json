@@ -1,0 +1,564 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "168924",
+  "name": "Fraser Suites Sukhumvit, Bangkok",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "1775599"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "Located in Bangkok (Sukhumvit), Fraser Suites Sukhumvit, Bangkok is within a 15-minute walk of Bumrungrad Hospital and Nana Square.  This family-friendly hotel is 0.7 mi (1.2 km) from Terminal 21 Shopping Mall and 1.4 mi (2.2 km) from Erawan Shrine."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 185 guestrooms, featuring kitchens with refrigerators and microwaves. 43-inch LED televisions with cable programming provide entertainment, while complimentary wireless internet access keeps you connected. Conveniences include phones, as well as safes and complimentary bottled water."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Be sure to enjoy recreational amenities, including an outdoor pool, a sauna, and a fitness center. Additional features at this hotel include complimentary wireless internet access, concierge services, and babysitting (surcharge). Getting to nearby attractions is a breeze with the area shuttle (surcharge)."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EBumrungrad Hospital - 0.4 km / 0.3 mi \u003Cbr /\u003E Nana Square - 0.7 km / 0.5 mi \u003Cbr /\u003E Terminal 21 Shopping Mall - 1.5 km / 0.9 mi \u003Cbr /\u003E Central Embassy - 1.5 km / 0.9 mi \u003Cbr /\u003E Soi Cowboy - 1.5 km / 0.9 mi \u003Cbr /\u003E Benjakitti Park - 1.8 km / 1.1 mi \u003Cbr /\u003E Central Chidlom Department Store - 1.9 km / 1.2 mi \u003Cbr /\u003E Jodd Fairs - 2.2 km / 1.4 mi \u003Cbr /\u003E Central Plaza Grand Rama 9 - 2.2 km / 1.4 mi \u003Cbr /\u003E Erawan Shrine - 2.2 km / 1.4 mi \u003Cbr /\u003E Emporium - 2.3 km / 1.5 mi \u003Cbr /\u003E Embassy of the United States - 2.4 km / 1.5 mi \u003Cbr /\u003E CentralWorld Shopping Complex - 2.4 km / 1.5 mi \u003Cbr /\u003E Pratunam Market - 2.4 km / 1.5 mi \u003Cbr /\u003E Platinum Fashion Mall - 2.4 km / 1.5 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDon Mueang Intl. Airport (DMK) - 24.3 km / 15.1 mi\u003Cbr /\u003E Suvarnabhumi Intl. Airport (BKK) - 32.1 km / 19.9 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Fraser Suites Sukhumvit, Bangkok is Suvarnabhumi Intl. Airport (BKK). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and cash\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher and a security system\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EAdditional breakfast fees apply to children under 12 years old who are booked in Breakfast Included rate plans and sharing a bed with adults.\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E   \u003Cli\u003EOne child 11 years old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EGuests can arrange to bring pets by contacting the property directly, using the contact information on the booking confirmation (surcharges apply and can be found in the Fees section). \u003C/li\u003E  \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "For lunch or dinner, stop by Charcoal Resturant, a restaurant that specializes in Eastern European cuisine. Dining is also available at the coffee shop/cafe, and room service (during limited hours) is provided. Unwind at the end of the day with a drink at the bar/lounge or the poolside bar. Buffet breakfasts are available daily from 6:00 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "38/8 Sukhumvit Soi 11, Klong Toey Nua",
+    "line2": "Wattana",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": "10110"
+  },
+  "geo": {
+    "latitude": 13.745413,
+    "longitude": 100.55645
+  },
+  "phone": "6622079300",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/168924/Main_168924.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_2.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_3.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_4.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_5.jpg",
+      "caption": "Waterslide",
+      "photoType": "30008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_6.jpg",
+      "caption": "Children\u0027s play area - indoor",
+      "photoType": "72003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_7.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_8.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_9.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_10.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_11.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_12.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_13.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_14.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_15.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_16.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_17.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_19.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_20.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_21.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_22.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_23.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_24.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_25.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_26.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_28.jpg",
+      "caption": "Garden",
+      "photoType": "91005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_29.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_30.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_31.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_32.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_33.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_34.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_35.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_36.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "91008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_37.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_38.jpg",
+      "caption": "Sauna",
+      "photoType": "51020",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_39.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_40.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_41.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_42.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_43.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_44.jpg",
+      "caption": "Children\u0027s pool",
+      "photoType": "30001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_45.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_46.jpg",
+      "caption": "Hunting",
+      "photoType": "60007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_47.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_48.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_49.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_50.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_51.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_52.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_53.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_54.jpg",
+      "caption": "Waterslide",
+      "photoType": "30008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_55.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_56.jpg",
+      "caption": "Game room",
+      "photoType": "71003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_57.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_58.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_59.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_60.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_61.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_62.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_63.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_64.jpg",
+      "caption": "Game room",
+      "photoType": "71003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_65.jpg",
+      "caption": "Waterslide",
+      "photoType": "30008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_66.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_67.jpg",
+      "caption": "Interior",
+      "photoType": "83000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_68.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_69.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/168924/168924_img_70.jpg",
+      "caption": "Train station shuttle",
+      "photoType": "91050",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "07676475fc572be6fcb517896b5e63ca2a2db23563fa6f576d605cf5deced89b",
+  "lastSyncedUtc": "2026-02-25T11:01:44.4709965Z"
+}

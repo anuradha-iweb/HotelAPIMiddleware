@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "77677",
+  "name": "Howard Johnson by Wyndham Bur Dubai",
+  "starRating": 3,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "4144930"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Howard Johnson by Wyndham Bur Dubai, you\u0027ll be centrally located in Dubai, within a 5-minute drive of Dubai Creek and Dubai Cruise Terminal.  This hotel is 3.1 mi (5 km) from Gold Souk and 3.9 mi (6.3 km) from Dubai World Trade Centre."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 123 guestrooms featuring refrigerators and minibars. Wired and wireless internet access is complimentary, and LED televisions with satellite programming provide entertainment. Private bathrooms with shower/tub combinations feature complimentary toiletries and hair dryers. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Don\u0027t miss out on the many recreational opportunities, including an outdoor pool, a sauna, and a fitness center. Additional amenities at this hotel include complimentary wireless internet access, concierge services, and barbecue grills."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ESheikh Saeed Al Maktoum House - 1 km / 0.6 mi \u003Cbr /\u003E Meena Bazaar - 1.1 km / 0.7 mi \u003Cbr /\u003E The Dubai Heritage Village - 1.3 km / 0.8 mi \u003Cbr /\u003E Textile Souk - 1.3 km / 0.8 mi \u003Cbr /\u003E Grand Mosque - 1.6 km / 1 mi \u003Cbr /\u003E Dubai Cruise Terminal - 1.6 km / 1 mi \u003Cbr /\u003E Dubai Museum - 1.7 km / 1.1 mi \u003Cbr /\u003E Mina Rashid Marina - 1.9 km / 1.2 mi \u003Cbr /\u003E Spice Souk - 2 km / 1.2 mi \u003Cbr /\u003E Deira Spice Souq - 2.1 km / 1.3 mi \u003Cbr /\u003E Dubai Creek - 2.1 km / 1.3 mi \u003Cbr /\u003E BurJuman Mall - 2.3 km / 1.4 mi \u003Cbr /\u003E Gold Souk - 2.3 km / 1.5 mi \u003Cbr /\u003E Al Hudaiba Park - 2.5 km / 1.5 mi \u003Cbr /\u003E Deira Twin Towers Shopping Centre - 3 km / 1.8 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDubai Intl. Airport (DXB) - 9.5 km / 5.9 mi\u003Cbr /\u003E Sharjah (SHJ-Sharjah Intl.) - 33.7 km / 21 mi\u003Cbr /\u003E Al Maktoum Intl. Airport (DWC) - 66.5 km / 41.3 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Howard Johnson by Wyndham Bur Dubai is Dubai Intl. Airport (DXB). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, and a first aid kit\u003C/li\u003E\u003Cli\u003EThis property affirms that it follows the cleaning and disinfection practices of Count on Us (Wyndham)\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003EParking height restrictions apply. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Grab a bite at RED DRAGON, one of the hotel\u0027s 2 restaurants, or stay in and take advantage of the 24-hour room service. Snacks are also available at the coffee shop/cafe. Wrap up your day with a drink at the bar/lounge. Buffet breakfasts are available daily from 7:00 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "Khalid Bin Waleed Rd",
+    "line2": "Bur Dubai",
+    "city": "Dubai",
+    "state": "",
+    "country": "UAE",
+    "countryCode": "",
+    "postalCode": ""
+  },
+  "geo": {
+    "latitude": 25.26005,
+    "longitude": 55.28528
+  },
+  "phone": "971-4-3939911",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/77677/77677_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_5.jpg",
+      "caption": "Room service - dining",
+      "photoType": "22003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_6.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_7.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_8.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_9.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_12.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_15.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_17.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_18.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_19.jpg",
+      "caption": "Room service - dining",
+      "photoType": "22003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_21.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_23.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_24.jpg",
+      "caption": "Room service - dining",
+      "photoType": "22003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_28.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_29.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_32.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_33.jpg",
+      "caption": "Room service - dining",
+      "photoType": "22003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_34.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_35.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_36.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/77677_img_39.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/77677/Main_77677.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "6ad6bfc4c8384fa67e20125e363a862d55fe40739bafbd7ea4098afa06309072",
+  "lastSyncedUtc": "2026-02-25T11:02:11.4050601Z"
+}

@@ -1,0 +1,865 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "86108",
+  "name": "Sultanhan Hotel - Special Class",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "1388776"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "A stay at Sultanhan Hotel - Special Class places you in the heart of Istanbul, within a 5-minute walk of Cemberlitas Bath and Sokullu Sehit Mehmet Pasa Mosque.  This family-friendly hotel is 0.1 mi (0.2 km) from Column of Constantine and 0.2 mi (0.3 km) from Sultanahmet Square."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Treat yourself to a stay in one of the 48 individually decorated guestrooms, featuring outdoor private spa tubs and LCD televisions. Your Select Comfort bed comes with down comforters and Egyptian cotton sheets. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Pamper yourself with a visit to the spa, which offers massages, body treatments, and facials. Additional features at this Beaux Arts hotel include complimentary wireless internet access, concierge services, and babysitting (surcharge)."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ECemberlitas Bath - 0.2 km / 0.1 mi \u003Cbr /\u003E Sokullu Sehit Mehmet Pasa Mosque - 0.2 km / 0.2 mi \u003Cbr /\u003E Column of Constantine - 0.3 km / 0.2 mi \u003Cbr /\u003E Turkish and Islamic Art Museum - 0.3 km / 0.2 mi \u003Cbr /\u003E 1001 Direk Sarnici - 0.3 km / 0.2 mi \u003Cbr /\u003E Sultanahmet Square - 0.4 km / 0.3 mi \u003Cbr /\u003E Grand Bazaar - 0.5 km / 0.3 mi \u003Cbr /\u003E Basilica Cistern - 0.5 km / 0.3 mi \u003Cbr /\u003E Little Hagia Sophia - 0.7 km / 0.4 mi \u003Cbr /\u003E Hagia Sophia - 0.7 km / 0.5 mi \u003Cbr /\u003E Blue Mosque - 0.8 km / 0.5 mi \u003Cbr /\u003E Istanbul Archaeology Museums - 0.9 km / 0.6 mi \u003Cbr /\u003E Beyazit Square - 0.9 km / 0.6 mi \u003Cbr /\u003E Egyptian Bazaar - 1.1 km / 0.7 mi \u003Cbr /\u003E Emin\u00F6n\u00FC Square - 1.3 km / 0.8 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EIstanbul Sabiha Gokcen Intl. Airport (SAW) - 44.6 km / 27.7 mi\u003Cbr /\u003E Istanbul Airport (IST) - 46.6 km / 28.9 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003ECashless transactions are available\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, a first aid kit, window guards, and outdoor lighting\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EReservations are required for massage services and spa treatments. Reservations can be made by contacting the hotel prior to arrival, using the contact information on the booking confirmation. \u003C/li\u003E \u003Cli\u003EOne child 3 years old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E\u003Cli\u003ECashless payment methods are available for all transactions and guests can access their rooms with a mobile device.\u003C/li\u003E\u003Cli\u003EContactless check-in and contactless check-out are available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "For lunch or dinner, stop by Terrace Restaurant, a restaurant that specializes in international cuisine. Dining is also available at the coffee shop/cafe, and 24-hour room service is provided. Wrap up your day with a drink at the bar/lounge."
+    }
+  ],
+  "address": {
+    "line1": "Piyer Loti Cad No:7",
+    "line2": "",
+    "city": "Istanbul",
+    "state": "",
+    "country": "Turkey",
+    "countryCode": "",
+    "postalCode": "34122"
+  },
+  "geo": {
+    "latitude": 41.007627,
+    "longitude": 28.972814
+  },
+  "phone": "\u002B90-212-5163232",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/86108/Main_86108.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_1.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_5.jpg",
+      "caption": "Turkish bath",
+      "photoType": "51006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_6.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_7.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_8.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_9.jpg",
+      "caption": "Front of property - evening/night",
+      "photoType": "91003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_10.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_14.jpg",
+      "caption": "Interior entrance",
+      "photoType": "10000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_15.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_16.jpg",
+      "caption": "Sauna",
+      "photoType": "51020",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_17.jpg",
+      "caption": "Outdoor banquet area",
+      "photoType": "91012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_18.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_19.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_22.jpg",
+      "caption": "Massage",
+      "photoType": "52001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_23.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_24.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_25.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_26.jpg",
+      "caption": "Fireplace",
+      "photoType": "83012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_27.jpg",
+      "caption": "Exterior detail",
+      "photoType": "91023",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_28.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_29.jpg",
+      "caption": "Room amenity",
+      "photoType": "22009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_31.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_32.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_33.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_34.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_35.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_36.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_37.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_39.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_40.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_41.jpg",
+      "caption": "Property entrance",
+      "photoType": "91002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_42.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_43.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_44.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_45.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_46.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_47.jpg",
+      "caption": "Rooftop terrace",
+      "photoType": "91027",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_48.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_49.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_50.jpg",
+      "caption": "Property entrance",
+      "photoType": "91002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_51.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_52.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_53.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_54.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_55.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_56.jpg",
+      "caption": "Rooftop terrace",
+      "photoType": "91027",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_57.jpg",
+      "caption": "Indoor wedding",
+      "photoType": "83006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_58.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_59.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_60.jpg",
+      "caption": "Deep soaking bathtub",
+      "photoType": "23002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_61.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_62.jpg",
+      "caption": "Property entrance",
+      "photoType": "91002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_63.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_64.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_65.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_66.jpg",
+      "caption": "Rooftop terrace",
+      "photoType": "91027",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_67.jpg",
+      "caption": "Indoor wedding",
+      "photoType": "83006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_68.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_69.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_70.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_71.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_72.jpg",
+      "caption": "Property entrance",
+      "photoType": "91002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_73.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_74.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_75.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_76.jpg",
+      "caption": "Hallway",
+      "photoType": "83007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_77.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_78.jpg",
+      "caption": "View from property",
+      "photoType": "92002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_79.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_80.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_81.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_82.jpg",
+      "caption": "Property entrance",
+      "photoType": "91002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_83.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_84.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_85.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_86.jpg",
+      "caption": "View from property",
+      "photoType": "92002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_87.jpg",
+      "caption": "Hallway",
+      "photoType": "83007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_88.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_89.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_90.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_91.jpg",
+      "caption": "Front of property - evening/night",
+      "photoType": "91003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_92.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_93.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_94.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_95.jpg",
+      "caption": "View from property",
+      "photoType": "92002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_96.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_96.jpg",
+      "caption": "Staircase",
+      "photoType": "83008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_98.jpg",
+      "caption": "Turkish bath",
+      "photoType": "51006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_99.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_100.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_101.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_102.jpg",
+      "caption": "Front of property - evening/night",
+      "photoType": "91003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_103.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_104.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_105.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_106.jpg",
+      "caption": "View from property",
+      "photoType": "92002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_107.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_108.jpg",
+      "caption": "View from property",
+      "photoType": "92002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_109.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_110.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_111.jpg",
+      "caption": "Balcony view",
+      "photoType": "92005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_112.jpg",
+      "caption": "City view from property",
+      "photoType": "92031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/86108/86108_img_113.jpg",
+      "caption": "City view from property",
+      "photoType": "92031",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "4c853a0ae798527bb7207b6be0ceed200e67bdc5308d16c6dc7a7e2848806401",
+  "lastSyncedUtc": "2026-02-25T11:01:58.7382976Z"
+}

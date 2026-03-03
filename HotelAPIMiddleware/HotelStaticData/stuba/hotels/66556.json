@@ -1,0 +1,347 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "66556",
+  "name": "Bliston Suwan Park View",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "Information about the surrounding area",
+      "text": "A stay at Bliston Suwan Park View places you in the heart of Bangkok, within a 15-minute walk of Erawan Shrine and CentralWorld Shopping Complex.  This family-friendly hotel is 0.6 mi (1 km) from Nana Square and 0.7 mi (1.2 km) from Bumrungrad Hospital."
+    },
+    {
+      "language": "en",
+      "type": "Details of room types available",
+      "text": "Make yourself at home in one of the 152 air-conditioned rooms featuring kitchenettes with full-sized refrigerators/freezers and stovetops. Rooms have private balconies. Flat-screen televisions with satellite programming provide entertainment, while complimentary wireless internet access keeps you connected. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "Information about the hotel property",
+      "text": "Don\u0027t miss out on the many recreational opportunities, including an outdoor pool, a sauna, and a fitness center. Additional features at this hotel include complimentary wireless internet access, concierge services, and babysitting (surcharge)."
+    },
+    {
+      "language": "en",
+      "type": "Activities available near the hotel",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ECentral Embassy - 0.4 km / 0.3 mi \u003Cbr /\u003E Central Chidlom Department Store - 0.5 km / 0.3 mi \u003Cbr /\u003E Erawan Shrine - 0.8 km / 0.5 mi \u003Cbr /\u003E Nana Square - 1 km / 0.6 mi \u003Cbr /\u003E Embassy of the United States - 1 km / 0.6 mi \u003Cbr /\u003E CentralWorld Shopping Complex - 1 km / 0.6 mi \u003Cbr /\u003E Bumrungrad Hospital - 1.2 km / 0.7 mi \u003Cbr /\u003E Lumphini Park - 1.3 km / 0.8 mi \u003Cbr /\u003E Siam Paragon Mall - 1.6 km / 1 mi \u003Cbr /\u003E Pratunam Market - 1.6 km / 1 mi \u003Cbr /\u003E Platinum Fashion Mall - 1.6 km / 1 mi \u003Cbr /\u003E Siam Center - 1.6 km / 1 mi \u003Cbr /\u003E Chulalongkorn University - 1.7 km / 1 mi \u003Cbr /\u003E Siam Square - 1.7 km / 1.1 mi \u003Cbr /\u003E Chulalongkorn Hospital - 1.8 km / 1.1 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDon Mueang Intl. Airport (DMK) - 28.3 km / 17.6 mi\u003Cbr /\u003E Suvarnabhumi Intl. Airport (BKK) - 31.7 km / 19.7 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Bliston Suwan Park View is Suvarnabhumi Intl. Airport (BKK). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "Hotel policies and disclaimer",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and cash\u003C/li\u003E\u003Cli\u003ENoise-free guestrooms cannot be guaranteed\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher and a security system\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E   \u003Cli\u003EOne child 11 years old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E\u003Cli\u003EParking height restrictions apply. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "Meals and restaurants at the hotel",
+      "text": "Enjoy Thai cuisine at Pine Place Restaurant, one of the hotel\u0027s 2 restaurants, or stay in and take advantage of the room service (during limited hours). Wrap up your day with a drink at the bar/lounge. Buffet breakfasts are available daily from 6 AM to 10 AM for a fee."
+    },
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "1546050"
+    }
+  ],
+  "address": {
+    "line1": "No9 Soi Tonson, Ploenchit Rd, Pathumwan",
+    "line2": "",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": "10330"
+  },
+  "geo": {
+    "latitude": 13.742104,
+    "longitude": 100.545339
+  },
+  "phone": "66-2-6587979",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/66556/Main_66556.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_1.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_2.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_3.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_4.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_5.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_6.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_7.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_8.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_9.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_16.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_17.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_18.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_19.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_20.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_21.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_22.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_23.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_24.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_25.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_26.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_27.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_28.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_29.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_30.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_31.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_32.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_33.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_34.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_35.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_36.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_37.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_38.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/66556/66556_img_39.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "7e67525fca73dbe08a8d6525e243453fb9d1dcb27f4857be10dab192194e36aa",
+  "lastSyncedUtc": "2026-02-25T11:01:29.1841067Z"
+}

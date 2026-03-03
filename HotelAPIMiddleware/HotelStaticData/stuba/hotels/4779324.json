@@ -1,0 +1,592 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "4779324",
+  "name": "Sura Design Hotel and Suites - Boutique Class",
+  "starRating": 5,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "4658802"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Sura Design Hotel and Suites - Boutique Class, you\u0027ll be centrally located in Istanbul, within a 5-minute walk of Basilica Cistern and Sultanahmet Square.  This luxury hotel is 0.3 mi (0.5 km) from Hagia Sophia and 0.4 mi (0.7 km) from Grand Bazaar."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 60 air-conditioned rooms featuring minibars and LED televisions. Complimentary wired and wireless internet access keeps you connected, and cable programming provides entertainment. Private bathrooms with showers feature designer toiletries and hair dryers. Conveniences include phones, as well as laptop-compatible safes and coffee/tea makers."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Pamper yourself with onsite massages, body treatments, and facials. You\u0027re sure to appreciate the recreational amenities, including a sauna, a seasonal outdoor pool, and bicycles to rent. Additional amenities at this hotel include complimentary wireless internet access, concierge services, and babysitting (surcharge). Spending a day of fun is easy with the theme park shuttle (surcharge)."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EBasilica Cistern - 0.3 km / 0.2 mi \u003Cbr /\u003E Sultanahmet Square - 0.3 km / 0.2 mi \u003Cbr /\u003E Column of Constantine - 0.5 km / 0.3 mi \u003Cbr /\u003E Istanbul Archaeology Museums - 0.5 km / 0.3 mi \u003Cbr /\u003E Hagia Sophia - 0.5 km / 0.3 mi \u003Cbr /\u003E Turkish and Islamic Art Museum - 0.6 km / 0.3 mi \u003Cbr /\u003E Grand Bazaar - 0.7 km / 0.4 mi \u003Cbr /\u003E Blue Mosque - 0.9 km / 0.6 mi \u003Cbr /\u003E Little Hagia Sophia - 0.9 km / 0.6 mi \u003Cbr /\u003E Egyptian Bazaar - 1 km / 0.6 mi \u003Cbr /\u003E Emin\u00F6n\u00FC Square - 1.1 km / 0.7 mi \u003Cbr /\u003E Eminonu Pier - 1.1 km / 0.7 mi \u003Cbr /\u003E Bosphorus - 1.2 km / 0.7 mi \u003Cbr /\u003E Istanbul University - 1.2 km / 0.7 mi \u003Cbr /\u003E Beyazit Square - 1.2 km / 0.7 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EIstanbul Sabiha Gokcen Intl. Airport (SAW) - 45 km / 27.9 mi\u003Cbr /\u003E Istanbul Airport (IST) - 48.4 km / 30.1 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Sura Design Hotel and Suites - Boutique Class is Istanbul Airport (IST). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and debit cards; cash is not accepted\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EThe seasonal pool will be open from May to November. \u003C/li\u003E \u003Cli\u003EOne child 1 year old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E\u003Cli\u003EContactless check-out is available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Satisfy your appetite for lunch or dinner at Sura Kebab House, a restaurant which specializes in Turkish cuisine, or stay in and take advantage of the 24-hour room service. Quench your thirst with your favorite drink at the bar/lounge. Buffet breakfasts are served on weekdays from 7:00 AM to 10:30 AM and on weekends from 7:00 AM to 11:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "Divanyolu Cad. Ticarethane Sok. No:45",
+    "line2": "Sultanahmet",
+    "city": "Istanbul",
+    "state": "",
+    "country": "Turkey",
+    "countryCode": "",
+    "postalCode": "34122"
+  },
+  "geo": {
+    "latitude": 41.00868,
+    "longitude": 28.97604
+  },
+  "phone": "",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/4779324/Main_4779324.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_1.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_6.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_7.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_8.jpg",
+      "caption": "Hallway",
+      "photoType": "83007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_9.jpg",
+      "caption": "Outdoor dining",
+      "photoType": "91007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_11.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_12.jpg",
+      "caption": "Outdoor dining",
+      "photoType": "91007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_13.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_16.jpg",
+      "caption": "Deep soaking bathtub",
+      "photoType": "23002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_17.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_19.jpg",
+      "caption": "Lobby lounge",
+      "photoType": "10006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_21.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_22.jpg",
+      "caption": "Outdoor dining",
+      "photoType": "91007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_23.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_24.jpg",
+      "caption": "Balcony",
+      "photoType": "22008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_26.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_28.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_29.jpg",
+      "caption": "Lobby lounge",
+      "photoType": "10006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_31.jpg",
+      "caption": "Outdoor dining",
+      "photoType": "91007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_32.jpg",
+      "caption": "Garden",
+      "photoType": "91005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_33.jpg",
+      "caption": "Room amenity",
+      "photoType": "22009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_34.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_35.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_37.jpg",
+      "caption": "Lobby lounge",
+      "photoType": "10006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_38.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_39.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_40.jpg",
+      "caption": "Garden",
+      "photoType": "91005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_41.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "91008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_42.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_43.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_44.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_45.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_46.jpg",
+      "caption": "Lobby lounge",
+      "photoType": "10006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_47.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_48.jpg",
+      "caption": "Private spa tub",
+      "photoType": "22052",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_49.jpg",
+      "caption": "Garden",
+      "photoType": "91005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_50.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "91008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_51.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_52.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_53.jpg",
+      "caption": "Lobby lounge",
+      "photoType": "10006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_54.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_55.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_56.jpg",
+      "caption": "Lounge",
+      "photoType": "82001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_57.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_58.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_59.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "91008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_60.jpg",
+      "caption": "Courtyard",
+      "photoType": "91006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_61.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_62.jpg",
+      "caption": "Lobby lounge",
+      "photoType": "10006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_63.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_64.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_65.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_66.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_67.jpg",
+      "caption": "Interior",
+      "photoType": "83000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_68.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_69.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_70.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_71.jpg",
+      "caption": "Rooftop terrace",
+      "photoType": "91027",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_72.jpg",
+      "caption": "City view",
+      "photoType": "92007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_73.jpg",
+      "caption": "Garden view",
+      "photoType": "92008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/4779324/4779324_img_74.jpg",
+      "caption": "Garden view",
+      "photoType": "92008",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "1b70a7ab80b5bd9bc06ea22e74bd476a0ea0c59b094624962b7e4ebc62c1c4a6",
+  "lastSyncedUtc": "2026-02-25T11:02:01.0810628Z"
+}

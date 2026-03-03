@@ -1,0 +1,739 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "120867",
+  "name": "Flemings Mayfair",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "5614"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Flemings Mayfair - Small Luxury Hotel of the World, you\u0027ll be centrally located in London, within a 10-minute walk of Royal Academy of Arts and Buckingham Palace.  This spa hotel is 1.6 mi (2.6 km) from The British Museum and 1.8 mi (2.9 km) from Big Ben."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 129 air-conditioned rooms featuring minibars and LCD televisions. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Bathrooms feature bathtubs or showers with rainfall showerheads and designer toiletries. Conveniences include phones, as well as laptop-compatible safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Pamper yourself with a visit to the spa, which offers massages. Additional amenities at this hotel include complimentary wireless internet access, concierge services, and babysitting (surcharge)."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EPiccadilly - 0.1 km / 0.1 mi \u003Cbr /\u003E Green Park - 0.2 km / 0.1 mi \u003Cbr /\u003E Park Lane - 0.5 km / 0.3 mi \u003Cbr /\u003E Royal Academy of Arts - 0.6 km / 0.4 mi \u003Cbr /\u003E Bond Street - 0.6 km / 0.4 mi \u003Cbr /\u003E Hyde Park - 0.7 km / 0.4 mi \u003Cbr /\u003E Buckingham Palace - 0.7 km / 0.4 mi \u003Cbr /\u003E St. James Park - 0.7 km / 0.4 mi \u003Cbr /\u003E Hyde Park Corner - 0.8 km / 0.5 mi \u003Cbr /\u003E Piccadilly Circus - 1 km / 0.6 mi \u003Cbr /\u003E Regent Street - 1 km / 0.6 mi \u003Cbr /\u003E Oxford Street - 1.1 km / 0.7 mi \u003Cbr /\u003E London Palladium Theatre - 1.2 km / 0.7 mi \u003Cbr /\u003E Oxford Circus - 1.2 km / 0.7 mi \u003Cbr /\u003E Selfridges - 1.2 km / 0.8 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ELondon City Airport (LCY) - 18.5 km / 11.5 mi\u003Cbr /\u003E Heathrow Airport (LHR) - 26.2 km / 16.3 mi\u003Cbr /\u003E Gatwick Airport (LGW) - 66.6 km / 41.4 mi\u003Cbr /\u003E Luton Airport (LTN) - 53.9 km / 33.5 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Flemings Mayfair - Small Luxury Hotel of the World is Heathrow Airport (LHR). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003EThe property allows pets in specific rooms only and has other pet restrictions (surcharges apply and can be found in the Fees section). Guests can arrange to bring pets by contacting the property directly, using the contact information on the booking confirmation. \u003C/li\u003E  \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Satisfy your appetite with British cuisine at Ormer Mayfair, a fine-dining restaurant which features a bar/lounge. Dining is also available at the coffee shop/cafe. Continental breakfasts are available daily from 8:00 AM to noon for a fee."
+    }
+  ],
+  "address": {
+    "line1": "7-12 Half Moon Street",
+    "line2": "Mayfair",
+    "city": "London",
+    "state": "",
+    "country": "UK - England",
+    "countryCode": "",
+    "postalCode": "W1J 7BH"
+  },
+  "geo": {
+    "latitude": 51.506446,
+    "longitude": -0.145163
+  },
+  "phone": "02074990000",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/120867/Main_120867.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_1.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_6.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "22007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_7.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_8.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_9.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_11.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_12.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_13.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_15.jpg",
+      "caption": "Room amenity",
+      "photoType": "22009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_16.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_17.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_18.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_20.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_21.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_23.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_24.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_28.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_30.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_31.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_32.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_33.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_34.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_36.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_37.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_38.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_39.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_40.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_41.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_42.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_43.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_44.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_45.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_46.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_47.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_48.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_49.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_50.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_51.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_52.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_53.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_54.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_55.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_56.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_57.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_58.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_59.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_60.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_61.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_62.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_63.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_64.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_65.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_66.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_67.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_68.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_69.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_70.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_71.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_72.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_73.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_74.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_75.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_76.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_77.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_78.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_79.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_80.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_81.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_82.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_83.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_84.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_85.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_86.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_87.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_88.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_89.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_90.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_91.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_92.jpg",
+      "caption": "Staircase",
+      "photoType": "83008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_93.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_94.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_95.jpg",
+      "caption": "Fireplace",
+      "photoType": "83012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/120867/120867_img_96.jpg",
+      "caption": "Front of property - evening/night",
+      "photoType": "91003",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "82dd3216e798f0e2d2cbf3d066bc67c81197c4ed3839f3477116a1864d12d8f7",
+  "lastSyncedUtc": "2026-02-25T11:03:16.530677Z"
+}

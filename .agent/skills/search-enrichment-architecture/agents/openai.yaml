@@ -1,0 +1,3 @@
+display_name: Search Enrichment Architecture
+short_description: Implement deterministic, additive enrichment for unified search response.
+default_prompt: Apply the repo enrichment architecture with additive DTO evolution and deterministic merge rules.

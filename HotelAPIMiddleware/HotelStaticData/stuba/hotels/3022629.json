@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "3022629",
+  "name": "Galleria 10 Sukhumvit Bangkok by Compass Hospitality",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "4167067"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Galleria 10 Sukhumvit Bangkok by Compass Hospitality in Bangkok (Sukhumvit), you\u0027ll be within a 5-minute drive of Terminal 21 Shopping Mall and Erawan Shrine.  This spa hotel is 1.1 mi (1.8 km) from Bumrungrad Hospital and 1.5 mi (2.5 km) from Emporium."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 188 air-conditioned rooms featuring refrigerators and LCD televisions. Cable television is provided for your entertainment. Private bathrooms with showers feature rainfall showerheads and complimentary toiletries. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Relax at the full-service spa, where you can enjoy massages. If you\u0027re looking for recreational opportunities, you\u0027ll find an outdoor pool and a fitness center. This hotel also features complimentary wireless internet access, concierge services, and a banquet hall."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ESoi Cowboy - 0.9 km / 0.5 mi \u003Cbr /\u003E Nana Square - 0.9 km / 0.5 mi \u003Cbr /\u003E Terminal 21 Shopping Mall - 0.9 km / 0.6 mi \u003Cbr /\u003E Bumrungrad Hospital - 1.3 km / 0.8 mi \u003Cbr /\u003E Benjakitti Park - 1.3 km / 0.8 mi \u003Cbr /\u003E Central Embassy - 1.5 km / 1 mi \u003Cbr /\u003E EmQuartier - 1.8 km / 1.1 mi \u003Cbr /\u003E Emporium - 1.8 km / 1.1 mi \u003Cbr /\u003E Benchasiri Park - 1.8 km / 1.1 mi \u003Cbr /\u003E Central Chidlom Department Store - 1.9 km / 1.2 mi \u003Cbr /\u003E Queen Sirikit National Convention Center - 2 km / 1.2 mi \u003Cbr /\u003E Erawan Shrine - 2.3 km / 1.4 mi \u003Cbr /\u003E CentralWorld Shopping Complex - 2.5 km / 1.5 mi \u003Cbr /\u003E Lumphini Park - 2.7 km / 1.7 mi \u003Cbr /\u003E Embassy of the United States - 2.7 km / 1.7 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDon Mueang Intl. Airport (DMK) - 24.5 km / 15.2 mi\u003Cbr /\u003E Suvarnabhumi Intl. Airport (BKK) - 32.1 km / 20 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Galleria 10 Sukhumvit Bangkok by Compass Hospitality is Suvarnabhumi Intl. Airport (BKK). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and cash\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, a first aid kit, and window guards\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EUp to 2 children 12 years old and younger stay free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003EA car is not required for transportation to and from this property. \u003C/li\u003E\u003Cli\u003EContactless check-out is available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Grab a bite to eat at @g Restaurant and Bar, a restaurant which features a bar/lounge, or stay in and take advantage of the room service (during limited hours). Wrap up your day with a drink at the poolside bar. Buffet breakfasts are available daily from 6 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "21 Sukhumvit 10 Sukhumvit Road",
+    "line2": "Klongtoey",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": "10110"
+  },
+  "geo": {
+    "latitude": 13.737022,
+    "longitude": 100.557104
+  },
+  "phone": "6626150999",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_5.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_6.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_7.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_8.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_9.jpg",
+      "caption": "Outdoor dining",
+      "photoType": "91007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_11.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_12.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_13.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_16.jpg",
+      "caption": "Outdoor dining",
+      "photoType": "91007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_17.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_19.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_20.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_21.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_24.jpg",
+      "caption": "Outdoor dining",
+      "photoType": "91007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_25.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_29.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_30.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_32.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_33.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_34.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_35.jpg",
+      "caption": "Outdoor dining",
+      "photoType": "91007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_37.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/3022629_img_39.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3022629/Main_3022629.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "0960ce6ea787e728f9b39454860a38c70132b30c08545629210b0de61f1ae70a",
+  "lastSyncedUtc": "2026-02-25T11:01:28.015233Z"
+}

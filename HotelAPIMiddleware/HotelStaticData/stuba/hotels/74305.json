@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "74305",
+  "name": "The Sukosol",
+  "starRating": 5,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "13619"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "A stay at The Sukosol places you in the heart of Bangkok, within a 15-minute walk of Victory Monument and Baiyoke Tower II.  This spa hotel is 1.2 mi (1.9 km) from Pratunam Market and 1.2 mi (1.9 km) from Platinum Fashion Mall."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 500 guestrooms featuring refrigerators and minibars. Wired and wireless internet access is complimentary, and LCD televisions with cable programming provide entertainment. Bathrooms have designer toiletries and bidets. Conveniences include safes and desks, and housekeeping is provided daily."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Relax at the full-service spa, where you can enjoy massages, body treatments, and facials. You can take advantage of recreational amenities such as a health club, an outdoor pool, and a sauna. Additional features at this hotel include complimentary wireless internet access, concierge services, and babysitting (surcharge)."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EVictory Monument - 1 km / 0.6 mi \u003Cbr /\u003E Baiyoke Tower II - 1.1 km / 0.7 mi \u003Cbr /\u003E Pratunam Market - 1.5 km / 0.9 mi \u003Cbr /\u003E Platinum Fashion Mall - 1.5 km / 0.9 mi \u003Cbr /\u003E Jim Thompson House Museum - 1.6 km / 1 mi \u003Cbr /\u003E Ramathibodi Hospital - 1.8 km / 1.1 mi \u003Cbr /\u003E Siam Center - 1.8 km / 1.1 mi \u003Cbr /\u003E MBK Center - 1.9 km / 1.2 mi \u003Cbr /\u003E Siam Square - 2 km / 1.2 mi \u003Cbr /\u003E Siam Paragon Mall - 2 km / 1.2 mi \u003Cbr /\u003E Chulalongkorn University - 2.1 km / 1.3 mi \u003Cbr /\u003E Erawan Shrine - 2.1 km / 1.3 mi \u003Cbr /\u003E CentralWorld Shopping Complex - 2.2 km / 1.4 mi \u003Cbr /\u003E Central Chidlom Department Store - 2.4 km / 1.5 mi \u003Cbr /\u003E Central Embassy - 2.7 km / 1.7 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDon Mueang Intl. Airport (DMK) - 22.6 km / 14 mi\u003Cbr /\u003E Suvarnabhumi Intl. Airport (BKK) - 29.7 km / 18.5 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for The Sukosol is Suvarnabhumi Intl. Airport (BKK). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, mobile payments, and cash\u003C/li\u003E\u003Cli\u003EMobile payment options include: Alipay and WeChat Pay\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EAll guests must register upon arrival. This property charges an additional fee for visitors or unregistered guests in the guestrooms.\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EReservations are required for massage services and spa treatments. Reservations can be made by contacting the hotel prior to arrival, using the contact information on the booking confirmation. \u003C/li\u003E \u003Cli\u003EOne child 12 years old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003EParking height restrictions apply. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy international cuisine at Sapphire Bar, one of the hotel\u0027s 2 restaurants, or stay in and take advantage of the 24-hour room service. Snacks are also available at the coffee shop/cafe. Relax with your favorite drink at the bar/lounge or the poolside bar. Buffet breakfasts are available daily from 6:00 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "477 Si Ayuthaya Road Phayathai",
+    "line2": "",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": "10400"
+  },
+  "geo": {
+    "latitude": 13.757986,
+    "longitude": 100.536197
+  },
+  "phone": "66-2-2470123",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/74305/74305_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_4.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_5.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_6.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_7.jpg",
+      "caption": "Children\u0027s activities",
+      "photoType": "72006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_8.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_9.jpg",
+      "caption": "Business center",
+      "photoType": "83010",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_11.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_12.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_16.jpg",
+      "caption": "Children\u0027s activities",
+      "photoType": "72006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_17.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_18.jpg",
+      "caption": "Business center",
+      "photoType": "83010",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_19.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_21.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_24.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_25.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_26.jpg",
+      "caption": "Children\u0027s activities",
+      "photoType": "72006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_27.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_28.jpg",
+      "caption": "Business center",
+      "photoType": "83010",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_31.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_33.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_34.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_35.jpg",
+      "caption": "Business center",
+      "photoType": "83010",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_36.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_37.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/74305_img_39.jpg",
+      "caption": "Children\u0027s activities",
+      "photoType": "72006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/74305/Main_74305.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "cc3b7655a56d5dc2f5af17344fa583d20f10894bcb00d3ebc91c96426c63d733",
+  "lastSyncedUtc": "2026-02-25T11:01:27.2884429Z"
+}

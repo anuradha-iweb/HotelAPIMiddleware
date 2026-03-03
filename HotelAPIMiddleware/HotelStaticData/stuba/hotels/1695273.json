@@ -1,0 +1,284 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "1695273",
+  "name": "Landmark Hotel Riqqa",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "2870907"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "A stay at Landmark Hotel Riqqa places you in the heart of Dubai, just a 3-minute walk from Al Ghurair Centre and within a 5-minute drive of Dubai Creek.  This hotel is 2.9 mi (4.7 km) from Gold Souk and 5 mi (8.1 km) from Dubai World Trade Centre."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 84 air-conditioned rooms featuring minibars. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms with shower/tub combinations feature rainfall showerheads and complimentary toiletries. Conveniences include safes and desks, as well as phones with free local calls."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take advantage of recreational opportunities offered, including a health club, an outdoor pool, and a sauna. Additional amenities at this hotel include complimentary wireless internet access, concierge services, and babysitting (surcharge)."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EAl Ghurair Centre - 0.2 km / 0.1 mi \u003Cbr /\u003E Reef Mall - 0.3 km / 0.2 mi \u003Cbr /\u003E Fish Roundabout - 0.8 km / 0.5 mi \u003Cbr /\u003E Deira Twin Towers Shopping Centre - 1.5 km / 0.9 mi \u003Cbr /\u003E Deira Clocktower - 1.6 km / 1 mi \u003Cbr /\u003E Naif Souq - 2.3 km / 1.4 mi \u003Cbr /\u003E City Centre Deira - 2.6 km / 1.6 mi \u003Cbr /\u003E Creek Park - 2.7 km / 1.7 mi \u003Cbr /\u003E Spice Souk - 2.7 km / 1.7 mi \u003Cbr /\u003E Gold Souk - 2.8 km / 1.7 mi \u003Cbr /\u003E Deira Spice Souq - 2.9 km / 1.8 mi \u003Cbr /\u003E Dubai Museum - 3.4 km / 2.1 mi \u003Cbr /\u003E Textile Souk - 3.6 km / 2.3 mi \u003Cbr /\u003E Grand Mosque - 3.7 km / 2.3 mi \u003Cbr /\u003E Sheikh Saeed Al Maktoum House - 3.7 km / 2.3 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDubai Intl. Airport (DXB) - 5.6 km / 3.5 mi\u003Cbr /\u003E Sharjah (SHJ-Sharjah Intl.) - 28.3 km / 17.6 mi\u003Cbr /\u003E Al Maktoum Intl. Airport (DWC) - 67 km / 41.7 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Landmark Hotel Riqqa is Dubai Intl. Airport (DXB). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, and a first aid kit\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EUp to 2 children 11 years old and younger stay free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy international cuisine at The Palm, one of the hotel\u0027s 2 restaurants, or stay in and take advantage of the 24-hour room service. Snacks are also available at the coffee shop/cafe."
+    }
+  ],
+  "address": {
+    "line1": "Al-Jazeera Street 28763",
+    "line2": "",
+    "city": "Dubai",
+    "state": "",
+    "country": "UAE",
+    "countryCode": "",
+    "postalCode": ""
+  },
+  "geo": {
+    "latitude": 25.26709,
+    "longitude": 55.320031
+  },
+  "phone": "\u002B971 4 274 0333",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/1695273/Main_1695273.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_5.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_6.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_7.jpg",
+      "caption": "Children\u0027s play area - indoor",
+      "photoType": "72003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_8.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_9.jpg",
+      "caption": "Business center",
+      "photoType": "83010",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_11.jpg",
+      "caption": "Rooftop pool",
+      "photoType": "30013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_12.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_13.jpg",
+      "caption": "Children\u0027s play area - indoor",
+      "photoType": "72003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_15.jpg",
+      "caption": "Sauna",
+      "photoType": "51004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_16.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_17.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_18.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_19.jpg",
+      "caption": "Property entrance",
+      "photoType": "91002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_21.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_22.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_23.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_24.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_26.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_27.jpg",
+      "caption": "Sauna",
+      "photoType": "51004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_28.jpg",
+      "caption": "Banquet hall",
+      "photoType": "83003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695273/1695273_img_30.jpg",
+      "caption": "Aerial view",
+      "photoType": "92001",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "c3349ce2774271b01096aa1de8bf15ef006f0a247cc27e00b740ddc5c1ea87b9",
+  "lastSyncedUtc": "2026-02-25T11:02:31.7613839Z"
+}

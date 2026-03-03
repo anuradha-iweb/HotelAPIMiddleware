@@ -1,0 +1,347 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "57565",
+  "name": "Ambassadors Bloomsbury",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "Information about the surrounding area",
+      "text": "Located in London (London City Centre), Ambassadors Bloomsbury is within a 15-minute walk of The British Museum and Russell Square.  This hotel is 0.6 mi (0.9 km) from Tottenham Court Road and 1.2 mi (2 km) from Covent Garden Market."
+    },
+    {
+      "language": "en",
+      "type": "Details of room types available",
+      "text": "Stay in one of 100 guestrooms featuring LCD televisions. Complimentary wireless internet access keeps you connected, and digital programming is available for your entertainment. Private bathrooms with showers feature complimentary toiletries and hair dryers. Conveniences include laptop-compatible safes and complimentary newspapers, and housekeeping is provided daily."
+    },
+    {
+      "language": "en",
+      "type": "Information about the hotel property",
+      "text": "Take advantage of recreation opportunities such as a 24-hour fitness center, or other amenities including complimentary wireless internet access and concierge services. This hotel also features wedding services and a banquet hall."
+    },
+    {
+      "language": "en",
+      "type": "Activities available near the hotel",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EUniversity College London - 0.2 km / 0.1 mi \u003Cbr /\u003E Russell Square - 0.6 km / 0.4 mi \u003Cbr /\u003E Tottenham Court Road - 0.9 km / 0.6 mi \u003Cbr /\u003E The British Museum - 1.2 km / 0.7 mi \u003Cbr /\u003E Regent\u0027s Park - 1.5 km / 0.9 mi \u003Cbr /\u003E King\u0027s College London - 1.6 km / 1 mi \u003Cbr /\u003E Regent Street - 1.7 km / 1 mi \u003Cbr /\u003E Royal Opera House - 1.8 km / 1.1 mi \u003Cbr /\u003E Marylebone High Street - 2 km / 1.2 mi \u003Cbr /\u003E Oxford Circus - 2 km / 1.2 mi \u003Cbr /\u003E Madame Tussauds Wax Museum - 2 km / 1.2 mi \u003Cbr /\u003E Covent Garden Market - 2 km / 1.3 mi \u003Cbr /\u003E London Palladium Theatre - 2.1 km / 1.3 mi \u003Cbr /\u003E Leicester Square - 2.2 km / 1.3 mi \u003Cbr /\u003E Sherlock Holmes Museum - 2.2 km / 1.4 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ELondon City Airport (LCY) - 17.4 km / 10.8 mi\u003Cbr /\u003E Heathrow Airport (LHR) - 29.7 km / 18.5 mi\u003Cbr /\u003E Gatwick Airport (LGW) - 97.5 km / 60.6 mi\u003Cbr /\u003E Luton Airport (LTN) - 53.4 km / 33.2 mi\u003Cbr /\u003E Stansted Airport (STN) - 57.5 km / 35.8 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Ambassadors Bloomsbury is Heathrow Airport (LHR). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "Hotel policies and disclaimer",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and debit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, a first aid kit, and window guards\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EContactless check-in and contactless check-out are available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "Meals and restaurants at the hotel",
+      "text": "Satisfy your appetite for lunch or dinner at Number Twelve, a restaurant which specializes in Italian cuisine, or stay in and take advantage of the 24-hour room service. Quench your thirst with your favorite drink at the bar/lounge. Full breakfasts are available daily from 7:30 AM to 10 AM for a fee."
+    },
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "84046"
+    }
+  ],
+  "address": {
+    "line1": "12 Upper Woburn Place",
+    "line2": "",
+    "city": "London",
+    "state": "",
+    "country": "UK - England",
+    "countryCode": "",
+    "postalCode": "WC1H 0HX"
+  },
+  "geo": {
+    "latitude": 51.526661,
+    "longitude": -0.12967
+  },
+  "phone": "44-20-76935400",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/57565/Main_57565.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_1.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_2.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_6.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_7.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_8.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_9.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_16.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_17.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "22007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_18.jpg",
+      "caption": "Room amenity",
+      "photoType": "22009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_19.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_20.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_21.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_22.jpg",
+      "caption": "Coffee and/or coffee maker",
+      "photoType": "22023",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_23.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_24.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_25.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_26.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_27.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_28.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_29.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_30.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_31.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_32.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_33.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_34.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_35.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_36.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_37.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_38.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57565/57565_img_39.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "44f80466bd3790dadf62bd00ea6cfc93718e0e56a290c30f394e166bec96dc33",
+  "lastSyncedUtc": "2026-02-25T11:03:03.7222267Z"
+}

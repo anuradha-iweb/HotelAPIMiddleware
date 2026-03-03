@@ -1,0 +1,1376 @@
+{
+  "lastFullSyncUtc": "0001-01-01T00:00:00",
+  "totalHotels": 137,
+  "hotels": {
+    "70571": {
+      "providerHotelId": "70571",
+      "provider": "STUBA",
+      "hotelName": "Shanghai Mansion Bangkok",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/70571.json",
+      "contentHash": "5666be1d80954b13486b898f46f18c2da89b50f7a4bd68a66391562edb2c7237",
+      "lastUpdatedUtc": "2026-02-25T11:01:26.386211Z"
+    },
+    "151829": {
+      "providerHotelId": "151829",
+      "provider": "STUBA",
+      "hotelName": "Centara Grand \u0026 Bangkok Convention Centre at CentralWorld",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/151829.json",
+      "contentHash": "a3bb7cc2bc8d9ac2714a2c391422d779392b05c6d4f7765eb31456d125320550",
+      "lastUpdatedUtc": "2026-02-25T11:01:26.3862057Z"
+    },
+    "66919": {
+      "providerHotelId": "66919",
+      "provider": "STUBA",
+      "hotelName": "Baiyoke Suite Hotel",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/66919.json",
+      "contentHash": "f751a13848b2346df3d7f86db497b397c47c3daa45b41521f0d1d015f7bdc6a0",
+      "lastUpdatedUtc": "2026-02-25T11:01:27.2884429Z"
+    },
+    "74305": {
+      "providerHotelId": "74305",
+      "provider": "STUBA",
+      "hotelName": "The Sukosol",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/74305.json",
+      "contentHash": "cc3b7655a56d5dc2f5af17344fa583d20f10894bcb00d3ebc91c96426c63d733",
+      "lastUpdatedUtc": "2026-02-25T11:01:27.2884429Z"
+    },
+    "3022629": {
+      "providerHotelId": "3022629",
+      "provider": "STUBA",
+      "hotelName": "Galleria 10 Sukhumvit Bangkok by Compass Hospitality",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/3022629.json",
+      "contentHash": "0960ce6ea787e728f9b39454860a38c70132b30c08545629210b0de61f1ae70a",
+      "lastUpdatedUtc": "2026-02-25T11:01:28.015233Z"
+    },
+    "83646": {
+      "providerHotelId": "83646",
+      "provider": "STUBA",
+      "hotelName": "Baiyoke Sky Hotel",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/83646.json",
+      "contentHash": "cb97178c60dd35e0d663b7b65fac20dfcfbfb6c90ccb81496e25e31e147d4b5d",
+      "lastUpdatedUtc": "2026-02-25T11:01:28.5197977Z"
+    },
+    "184356": {
+      "providerHotelId": "184356",
+      "provider": "STUBA",
+      "hotelName": "S15 Sukhumvit Hotel",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/184356.json",
+      "contentHash": "fcfc0871f4eabfd9a355107381e06e61efc8f2a511cef1b0273e93e192beb91c",
+      "lastUpdatedUtc": "2026-02-25T11:01:28.7326734Z"
+    },
+    "66556": {
+      "providerHotelId": "66556",
+      "provider": "STUBA",
+      "hotelName": "Bliston Suwan Park View",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/66556.json",
+      "contentHash": "7e67525fca73dbe08a8d6525e243453fb9d1dcb27f4857be10dab192194e36aa",
+      "lastUpdatedUtc": "2026-02-25T11:01:29.1841067Z"
+    },
+    "4972639": {
+      "providerHotelId": "4972639",
+      "provider": "STUBA",
+      "hotelName": "Eastin Grand Hotel Sathorn",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/4972639.json",
+      "contentHash": "0c0c4cbf4f8d57ca16db150af72a3c5c70802423c4f1b3a2e7b72459d720bfca",
+      "lastUpdatedUtc": "2026-02-25T11:01:30.0748856Z"
+    },
+    "65839": {
+      "providerHotelId": "65839",
+      "provider": "STUBA",
+      "hotelName": "Amari Bangkok (Formerly Amari Watergate)",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/65839.json",
+      "contentHash": "14ccb109086987db0650ea55861bc53a993763e31807e8ac319123c8c6ee3bec",
+      "lastUpdatedUtc": "2026-02-25T11:01:30.1675448Z"
+    },
+    "184416": {
+      "providerHotelId": "184416",
+      "provider": "STUBA",
+      "hotelName": "Amanta-Ratchada",
+      "city": "",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/184416.json",
+      "contentHash": "745b7169f5d05468a008eb07280536e0b01702a48db14886fb0f27fee933e51b",
+      "lastUpdatedUtc": "2026-02-25T11:01:30.8701842Z"
+    },
+    "271151": {
+      "providerHotelId": "271151",
+      "provider": "STUBA",
+      "hotelName": "Aspen Suites Hotel Sukhumvit 2 Bangkok by Compass Hospitality",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/271151.json",
+      "contentHash": "637672272116b0c2ff81e7f848694302e858e1211f94eddfe742dda5a3735426",
+      "lastUpdatedUtc": "2026-02-25T11:01:31.5901155Z"
+    },
+    "3505588": {
+      "providerHotelId": "3505588",
+      "provider": "STUBA",
+      "hotelName": "LiT BANGKOK Hotel and Residence",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/3505588.json",
+      "contentHash": "d7c7063764693c46e98cf75130018158b391d68defa3b098e272d12a468347b0",
+      "lastUpdatedUtc": "2026-02-25T11:01:31.603846Z"
+    },
+    "82468": {
+      "providerHotelId": "82468",
+      "provider": "STUBA",
+      "hotelName": "Ambassador Bangkok Hotel",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/82468.json",
+      "contentHash": "4e220368b218bba699ceebf91f526f433756d17b345d842a7000374a44b74542",
+      "lastUpdatedUtc": "2026-02-25T11:01:32.9890678Z"
+    },
+    "85315": {
+      "providerHotelId": "85315",
+      "provider": "STUBA",
+      "hotelName": "Royal Benja Hotel",
+      "city": "Bangkok 10110",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/85315.json",
+      "contentHash": "e403daab6e9ca45a82b34b4a17a846db7af71bdc106e812720ecf9c1ae0c730b",
+      "lastUpdatedUtc": "2026-02-25T11:01:32.9879289Z"
+    },
+    "67156": {
+      "providerHotelId": "67156",
+      "provider": "STUBA",
+      "hotelName": "Pullman Bangkok King Power",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/67156.json",
+      "contentHash": "7f44bbfb6656be5d0cd8e7de8d3331ee6e0c36dc5970437c169e7d5f7002f88b",
+      "lastUpdatedUtc": "2026-02-25T11:01:33.0737827Z"
+    },
+    "66706": {
+      "providerHotelId": "66706",
+      "provider": "STUBA",
+      "hotelName": "Banyan Tree Bangkok",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/66706.json",
+      "contentHash": "0f9e8f5f2272a52a8d16a35380e4df5912feded7b193f184ecd85a0a1c940802",
+      "lastUpdatedUtc": "2026-02-25T11:01:34.1178528Z"
+    },
+    "74797": {
+      "providerHotelId": "74797",
+      "provider": "STUBA",
+      "hotelName": "Dusit Princess Srinakarin Bangkok",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/74797.json",
+      "contentHash": "d2e1acfae72822e10c89c4ad9e79265ac30d4d5f3f3a97bd0d8542888f827ad6",
+      "lastUpdatedUtc": "2026-02-25T11:01:34.122342Z"
+    },
+    "66094": {
+      "providerHotelId": "66094",
+      "provider": "STUBA",
+      "hotelName": "Jasmine City Hotel",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/66094.json",
+      "contentHash": "14db6e56e5c35406f7f48d61ad18190a121e29a6e5244ebb33ec34145cfb6e15",
+      "lastUpdatedUtc": "2026-02-25T11:01:34.203926Z"
+    },
+    "717073": {
+      "providerHotelId": "717073",
+      "provider": "STUBA",
+      "hotelName": "Dusit Suites Hotel Ratchadamri (Formerly Anantara Baan Rajprasong)",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/717073.json",
+      "contentHash": "621916ac1bcc4c993147b0c3f891678ae8bd59bd9448e78179e606ec8766d330",
+      "lastUpdatedUtc": "2026-02-25T11:01:34.2315297Z"
+    },
+    "151841": {
+      "providerHotelId": "151841",
+      "provider": "STUBA",
+      "hotelName": "Centre Point Silom",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/151841.json",
+      "contentHash": "9efedbc6ee3bfebff5369b5109251e622bc565bd4e4825ff406375b8844a2839",
+      "lastUpdatedUtc": "2026-02-25T11:01:35.0351682Z"
+    },
+    "74977": {
+      "providerHotelId": "74977",
+      "provider": "STUBA",
+      "hotelName": "Amari Don Muang Airport Bangkok",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/74977.json",
+      "contentHash": "6402e4871be56dd00f6e891a9fc0db9fb93c3e47a66d7c1585648c18f0e66eec",
+      "lastUpdatedUtc": "2026-02-25T11:01:35.2342055Z"
+    },
+    "531719": {
+      "providerHotelId": "531719",
+      "provider": "STUBA",
+      "hotelName": "JC Kevin Sathorn Bangkok Hotel (Formerly Anantara)",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/531719.json",
+      "contentHash": "65ad29f88ccb1d14212a0b53fde4c3c5964f225739021de2923b0f2aa7a878e4",
+      "lastUpdatedUtc": "2026-02-25T11:01:36.9171797Z"
+    },
+    "87601": {
+      "providerHotelId": "87601",
+      "provider": "STUBA",
+      "hotelName": "Emporium Suites by Chatrium",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/87601.json",
+      "contentHash": "5aa3dd4297257617cc1142ca21443b57625c0159d2a6b5f00d1cd5cfb373d72c",
+      "lastUpdatedUtc": "2026-02-25T11:01:37.9222113Z"
+    },
+    "65530": {
+      "providerHotelId": "65530",
+      "provider": "STUBA",
+      "hotelName": "Grand China Hotel",
+      "city": "Bangkok 10100",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/65530.json",
+      "contentHash": "98406e68dfd788c7f9fc7b008ba87805669121e9373be6648b4d53192104393d",
+      "lastUpdatedUtc": "2026-02-25T11:01:38.2280638Z"
+    },
+    "729647": {
+      "providerHotelId": "729647",
+      "provider": "STUBA",
+      "hotelName": "Chatrium Hotel Riverside Bangkok",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/729647.json",
+      "contentHash": "e38b3d8570780f06c0f3601bc79647a3a42e543c58f6de595f48172b7aa10215",
+      "lastUpdatedUtc": "2026-02-25T11:01:39.4481116Z"
+    },
+    "73420": {
+      "providerHotelId": "73420",
+      "provider": "STUBA",
+      "hotelName": "Anantara Siam Bangkok",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/73420.json",
+      "contentHash": "4b1ca24541d9c46f7725f4d8232b74dca00ee12662b5c068083e91a69dadc44a",
+      "lastUpdatedUtc": "2026-02-25T11:01:39.7181723Z"
+    },
+    "85460": {
+      "providerHotelId": "85460",
+      "provider": "STUBA",
+      "hotelName": "Asia Hotel Bangkok",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/85460.json",
+      "contentHash": "111ef2a47735ec0d831aea6bc872b41ad0b95d83c06a3fa996e9db7a786e67d0",
+      "lastUpdatedUtc": "2026-02-25T11:01:40.4635782Z"
+    },
+    "72642": {
+      "providerHotelId": "72642",
+      "provider": "STUBA",
+      "hotelName": "Centara Grand at Central Plaza Ladprao Bangkok",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/72642.json",
+      "contentHash": "dcc3a42c8098deb577f07b7752256e87795d3e8078fa9358f8d96657f1201781",
+      "lastUpdatedUtc": "2026-02-25T11:01:41.1374744Z"
+    },
+    "1911366": {
+      "providerHotelId": "1911366",
+      "provider": "STUBA",
+      "hotelName": "Maitria Hotel Sukhumvit 18 Bangkok- A Chatrium Collection",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/1911366.json",
+      "contentHash": "4c12ff96bd076d7e75a721fa65a69d4f70c889c3f006100c6b117684b1c6ca4e",
+      "lastUpdatedUtc": "2026-02-25T11:01:41.5921884Z"
+    },
+    "4972163": {
+      "providerHotelId": "4972163",
+      "provider": "STUBA",
+      "hotelName": "Hansar Bangkok Hotel",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/4972163.json",
+      "contentHash": "0464df153ca30c415781827024d9a4f8d6fb2e7be6d57056374c6ac34b282f44",
+      "lastUpdatedUtc": "2026-02-25T11:01:41.7359833Z"
+    },
+    "1065345": {
+      "providerHotelId": "1065345",
+      "provider": "STUBA",
+      "hotelName": "S31 Sukhumvit Hotel",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/1065345.json",
+      "contentHash": "2c6df0f10be906500a4b71f709b0742730aba081e8dd94d1642b6dcb48bde0cb",
+      "lastUpdatedUtc": "2026-02-25T11:01:42.0368757Z"
+    },
+    "77358": {
+      "providerHotelId": "77358",
+      "provider": "STUBA",
+      "hotelName": "The Sukhothai Bangkok",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/77358.json",
+      "contentHash": "f728a420aadc9586873a69888a767c74550b0f183df0a5783e4d46e4ca8e1943",
+      "lastUpdatedUtc": "2026-02-25T11:01:42.0366454Z"
+    },
+    "168801": {
+      "providerHotelId": "168801",
+      "provider": "STUBA",
+      "hotelName": "Solitaire Bangkok Sukhumvit 11",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/168801.json",
+      "contentHash": "2276cdf291028ed3bfe1f131ba2ee6c7c0812fd0cc9273cb0895a0a676af3ebd",
+      "lastUpdatedUtc": "2026-02-25T11:01:42.2729452Z"
+    },
+    "69237": {
+      "providerHotelId": "69237",
+      "provider": "STUBA",
+      "hotelName": "Anantara Riverside Bangkok Resort",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/69237.json",
+      "contentHash": "9c7785adc0f176b4b4761afeeb027e4714e5d651cec85c2c94edf61035998277",
+      "lastUpdatedUtc": "2026-02-25T11:01:42.4575154Z"
+    },
+    "2250973": {
+      "providerHotelId": "2250973",
+      "provider": "STUBA",
+      "hotelName": "Column Bangkok Hotel",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/2250973.json",
+      "contentHash": "9e7d233d8d2e7526b1e28ff0fd11721cafe87d337cda28529a6ceae11b506a1c",
+      "lastUpdatedUtc": "2026-02-25T11:01:43.9530554Z"
+    },
+    "168924": {
+      "providerHotelId": "168924",
+      "provider": "STUBA",
+      "hotelName": "Fraser Suites Sukhumvit, Bangkok",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/168924.json",
+      "contentHash": "07676475fc572be6fcb517896b5e63ca2a2db23563fa6f576d605cf5deced89b",
+      "lastUpdatedUtc": "2026-02-25T11:01:44.4709965Z"
+    },
+    "67640": {
+      "providerHotelId": "67640",
+      "provider": "STUBA",
+      "hotelName": "Montien Hotel Bangkok",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "relativeFilePath": "stuba/hotels/67640.json",
+      "contentHash": "917c0de8286ba360b9e1ffdb59fd7b6c47673ce11690237fd51148a5c980a319",
+      "lastUpdatedUtc": "2026-02-25T11:01:45.2048736Z"
+    },
+    "2205419": {
+      "providerHotelId": "2205419",
+      "provider": "STUBA",
+      "hotelName": "Levni Hotel \u0026 Spa",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/2205419.json",
+      "contentHash": "3389ce61f577048358f52a9ace11c5ff48811605e250d001222ce124f79b20a5",
+      "lastUpdatedUtc": "2026-02-25T11:01:51.0891268Z"
+    },
+    "143375": {
+      "providerHotelId": "143375",
+      "provider": "STUBA",
+      "hotelName": "Deluxe Golden Horn Sultanahmet Hotel",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/143375.json",
+      "contentHash": "7815828f1a92bbbb75333e4d130055cd5321641bf28180847d4868c4d45ce306",
+      "lastUpdatedUtc": "2026-02-25T11:01:51.1819718Z"
+    },
+    "187496": {
+      "providerHotelId": "187496",
+      "provider": "STUBA",
+      "hotelName": "Adamar Hotel - Special Class",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/187496.json",
+      "contentHash": "8b3e2b820ddbe1b88e876afc81aaafa31862599eb1934ddff21d4d55461e7f91",
+      "lastUpdatedUtc": "2026-02-25T11:01:51.2649091Z"
+    },
+    "79030": {
+      "providerHotelId": "79030",
+      "provider": "STUBA",
+      "hotelName": "Pera Rose Hotel (Formerly Rose By Molton Hotels)",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/79030.json",
+      "contentHash": "b31da3b3990a065208c13c835f646c1a3eb5b78683f00e1bc38c33f05e581032",
+      "lastUpdatedUtc": "2026-02-25T11:01:51.3496538Z"
+    },
+    "440713": {
+      "providerHotelId": "440713",
+      "provider": "STUBA",
+      "hotelName": "Nippon Hotel",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/440713.json",
+      "contentHash": "8a99a8225f27035528c61dbfe4f481e78f711acb3844a839eadaa100aa55bda3",
+      "lastUpdatedUtc": "2026-02-25T11:01:52.0479316Z"
+    },
+    "181536": {
+      "providerHotelId": "181536",
+      "provider": "STUBA",
+      "hotelName": "Sude Konak Hotel",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/181536.json",
+      "contentHash": "b5b1c3565378903ca5951d4c48e2a587c4af8c4d0151e316d0abbd47777d28ce",
+      "lastUpdatedUtc": "2026-02-25T11:01:54.8529268Z"
+    },
+    "1337643": {
+      "providerHotelId": "1337643",
+      "provider": "STUBA",
+      "hotelName": "Klas Hotel",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/1337643.json",
+      "contentHash": "26b6ec7c14ac65c588e317baa7efd5c88ff3661ffdc29d497e442bf647a67e7e",
+      "lastUpdatedUtc": "2026-02-25T11:01:55.0146833Z"
+    },
+    "440700": {
+      "providerHotelId": "440700",
+      "provider": "STUBA",
+      "hotelName": "Kent Hotel Istanbul",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/440700.json",
+      "contentHash": "52f2f5ad8dd45a46896691dbf9924da79735d054cbca3e8263bcd83cb756c3e7",
+      "lastUpdatedUtc": "2026-02-25T11:01:55.263397Z"
+    },
+    "3282202": {
+      "providerHotelId": "3282202",
+      "provider": "STUBA",
+      "hotelName": "The Bostanci",
+      "city": "BOSTANCI/ISTANBUL",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/3282202.json",
+      "contentHash": "c564823e7d21e50c6b560fc12c381d81f736a9edbd89f5c009b9aaebc9776c38",
+      "lastUpdatedUtc": "2026-02-25T11:01:55.7476702Z"
+    },
+    "3282375": {
+      "providerHotelId": "3282375",
+      "provider": "STUBA",
+      "hotelName": "Germir Palas Hotel - Special Class",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/3282375.json",
+      "contentHash": "543cdff03d7740d3648311397168b29e4c5d319d05c486c1860bc1319189eaa9",
+      "lastUpdatedUtc": "2026-02-25T11:01:56.7832808Z"
+    },
+    "84334": {
+      "providerHotelId": "84334",
+      "provider": "STUBA",
+      "hotelName": "Orka Royal Hotel \u0026 Spa",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/84334.json",
+      "contentHash": "08f0a6afee04e650f3a02d6b1e427e2c2aab245f04257a6261ccb30d83143c34",
+      "lastUpdatedUtc": "2026-02-25T11:01:57.1476159Z"
+    },
+    "1338075": {
+      "providerHotelId": "1338075",
+      "provider": "STUBA",
+      "hotelName": "Legacy Ottoman Hotel",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/1338075.json",
+      "contentHash": "7dd091f5065757646417e713b6d120ff3ee9b664edb5f4186358abb908b2134f",
+      "lastUpdatedUtc": "2026-02-25T11:01:58.3375964Z"
+    },
+    "308955": {
+      "providerHotelId": "308955",
+      "provider": "STUBA",
+      "hotelName": "Taksim Gonen Hotel",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/308955.json",
+      "contentHash": "d0facf258dc2cd866f32da80d01d1685af3a584ab9a82fb7f573cb017159bcee",
+      "lastUpdatedUtc": "2026-02-25T11:01:58.389716Z"
+    },
+    "86108": {
+      "providerHotelId": "86108",
+      "provider": "STUBA",
+      "hotelName": "Sultanhan Hotel - Special Class",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/86108.json",
+      "contentHash": "4c853a0ae798527bb7207b6be0ceed200e67bdc5308d16c6dc7a7e2848806401",
+      "lastUpdatedUtc": "2026-02-25T11:01:58.7382976Z"
+    },
+    "73992": {
+      "providerHotelId": "73992",
+      "provider": "STUBA",
+      "hotelName": "Orient Express Hotel",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/73992.json",
+      "contentHash": "0cbf32e182e29a78c759e210b49aa61cbb22860921761740a44d121e2cb0dc75",
+      "lastUpdatedUtc": "2026-02-25T11:01:59.6645126Z"
+    },
+    "197608": {
+      "providerHotelId": "197608",
+      "provider": "STUBA",
+      "hotelName": "Gunes Hotel Merter",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/197608.json",
+      "contentHash": "f0ed8bddf85dd3cde51923f5c4967212884a14832f9d7e1260c33e2ab96685f6",
+      "lastUpdatedUtc": "2026-02-25T11:02:00.9057064Z"
+    },
+    "4779324": {
+      "providerHotelId": "4779324",
+      "provider": "STUBA",
+      "hotelName": "Sura Design Hotel and Suites - Boutique Class",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/4779324.json",
+      "contentHash": "1b70a7ab80b5bd9bc06ea22e74bd476a0ea0c59b094624962b7e4ebc62c1c4a6",
+      "lastUpdatedUtc": "2026-02-25T11:02:01.0810628Z"
+    },
+    "181406": {
+      "providerHotelId": "181406",
+      "provider": "STUBA",
+      "hotelName": "Marble Hotel",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/181406.json",
+      "contentHash": "da2aeac18608bbef4132a7be7a4b194149958f152b87e5cac60844e46c41ab5e",
+      "lastUpdatedUtc": "2026-02-25T11:02:01.3711838Z"
+    },
+    "65875": {
+      "providerHotelId": "65875",
+      "provider": "STUBA",
+      "hotelName": "Ramada Plaza by Wyndham Istanbul City Center",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/65875.json",
+      "contentHash": "2c12a33875734e15afd90c2aa0a3f13d12782e405c90c8f20f2204b5c397f7fd",
+      "lastUpdatedUtc": "2026-02-25T11:02:01.8922136Z"
+    },
+    "143383": {
+      "providerHotelId": "143383",
+      "provider": "STUBA",
+      "hotelName": "Grand Star Hotel Bosphorus",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/143383.json",
+      "contentHash": "3438406cf43331b0f6f37e0817447572d6b20e1382c9398513804bce56303ac7",
+      "lastUpdatedUtc": "2026-02-25T11:02:02.7006753Z"
+    },
+    "74938": {
+      "providerHotelId": "74938",
+      "provider": "STUBA",
+      "hotelName": "Eresin Hotels Topkapi",
+      "city": "Istanbul",
+      "countryCode": "Turkey",
+      "relativeFilePath": "stuba/hotels/74938.json",
+      "contentHash": "4e8ca1f4abb91f9605b94940ec5e08e9b68804ffd4bb2ea579a7de61fde6b10d",
+      "lastUpdatedUtc": "2026-02-25T11:02:03.8221707Z"
+    },
+    "1483628": {
+      "providerHotelId": "1483628",
+      "provider": "STUBA",
+      "hotelName": "Smana Hotel Al Raffa (Formerly Rio Hotel Dubai)",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/1483628.json",
+      "contentHash": "c8d7eb31bfa087d465eed3d54557a8792831eeddd5d9e8c0fbc8960d579cd5a4",
+      "lastUpdatedUtc": "2026-02-25T11:02:09.2043234Z"
+    },
+    "90944": {
+      "providerHotelId": "90944",
+      "provider": "STUBA",
+      "hotelName": "Abjad Crown Hotel",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/90944.json",
+      "contentHash": "4eb5a697c5db8cb4a4edc0d532b0194c73ba3891d69e335367cf36c8bd4eeb56",
+      "lastUpdatedUtc": "2026-02-25T11:02:10.8253073Z"
+    },
+    "4983183": {
+      "providerHotelId": "4983183",
+      "provider": "STUBA",
+      "hotelName": "Asiana Hotel Dubai",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/4983183.json",
+      "contentHash": "38651c9be3328a2a571824c4c3fdf42040c5e7cb1580452bc1876f7bf9aafc6a",
+      "lastUpdatedUtc": "2026-02-25T11:02:11.2234765Z"
+    },
+    "191600": {
+      "providerHotelId": "191600",
+      "provider": "STUBA",
+      "hotelName": "The H Hotel, Dubai",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/191600.json",
+      "contentHash": "739d6fc4354a32b86991642d73477e68b08990f8ff56f3558624f7bfd1aa46c9",
+      "lastUpdatedUtc": "2026-02-25T11:02:11.2703352Z"
+    },
+    "77677": {
+      "providerHotelId": "77677",
+      "provider": "STUBA",
+      "hotelName": "Howard Johnson by Wyndham Bur Dubai",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/77677.json",
+      "contentHash": "6ad6bfc4c8384fa67e20125e363a862d55fe40739bafbd7ea4098afa06309072",
+      "lastUpdatedUtc": "2026-02-25T11:02:11.4050601Z"
+    },
+    "528996": {
+      "providerHotelId": "528996",
+      "provider": "STUBA",
+      "hotelName": "TIME Oak Hotel \u0026 Suites",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/528996.json",
+      "contentHash": "cdf74d9a57eb467f13ae4c82e685797bc14cb5b4f0f69bab5cf0dff3ec06d983",
+      "lastUpdatedUtc": "2026-02-25T11:02:12.1718319Z"
+    },
+    "2079453": {
+      "providerHotelId": "2079453",
+      "provider": "STUBA",
+      "hotelName": "Citymax Bur Dubai",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/2079453.json",
+      "contentHash": "029d04254986ae0178fd849771f6c5dda5717e66920b9638405631a1b3f580e6",
+      "lastUpdatedUtc": "2026-02-25T11:02:15.1686048Z"
+    },
+    "81469": {
+      "providerHotelId": "81469",
+      "provider": "STUBA",
+      "hotelName": "Landmark Hotel",
+      "city": "Dubai City",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/81469.json",
+      "contentHash": "07118087c37ebebea5aeca406a976fb3dada3a92ef803ce6a8c30847922d631b",
+      "lastUpdatedUtc": "2026-02-25T11:02:16.7965393Z"
+    },
+    "3123593": {
+      "providerHotelId": "3123593",
+      "provider": "STUBA",
+      "hotelName": "Pearl Executive Hotel Apartments",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/3123593.json",
+      "contentHash": "b4195d59342a6902e33f1bae3f07eff2c5da4e92964a520a0d089bdacd2e0c99",
+      "lastUpdatedUtc": "2026-02-25T11:02:17.1793179Z"
+    },
+    "528977": {
+      "providerHotelId": "528977",
+      "provider": "STUBA",
+      "hotelName": "JA Hatta Fort Hotel",
+      "city": "DUBAI",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/528977.json",
+      "contentHash": "f8e4d932d87e3ff0df1de0c9ef3cfe2d9b11e7c13c5ffaed087b97ca5e0ca9b0",
+      "lastUpdatedUtc": "2026-02-25T11:02:17.2729786Z"
+    },
+    "1695853": {
+      "providerHotelId": "1695853",
+      "provider": "STUBA",
+      "hotelName": "MD Hotel by Gewan",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/1695853.json",
+      "contentHash": "a434ebb1c301bdebc09aee1b68a5bb00b60c3e9f456d1d780f33c69fd936589a",
+      "lastUpdatedUtc": "2026-02-25T11:02:17.986019Z"
+    },
+    "1346126": {
+      "providerHotelId": "1346126",
+      "provider": "STUBA",
+      "hotelName": "Tulip Hotel Apartment",
+      "city": "BUR DUBAI",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/1346126.json",
+      "contentHash": "8b7137e83c3ef5b7d0a8a996751f5a90035fd6a0b10974dc9ad6cbf28185e21a",
+      "lastUpdatedUtc": "2026-02-25T11:02:18.1389849Z"
+    },
+    "167898": {
+      "providerHotelId": "167898",
+      "provider": "STUBA",
+      "hotelName": "JA Palm Tree Court Dubai",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/167898.json",
+      "contentHash": "5547ec7b5d72d3b48a8670e35a045fe00a22bbe3b8064bc26a125190dff4daca",
+      "lastUpdatedUtc": "2026-02-25T11:02:18.3709264Z"
+    },
+    "81659": {
+      "providerHotelId": "81659",
+      "provider": "STUBA",
+      "hotelName": "Lotus Grand Hotel",
+      "city": "DUBAI",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/81659.json",
+      "contentHash": "75bb427110c6dc39b375d1480c599acff2b248927dcac637d331035d94fe2de5",
+      "lastUpdatedUtc": "2026-02-25T11:02:18.3705015Z"
+    },
+    "2079352": {
+      "providerHotelId": "2079352",
+      "provider": "STUBA",
+      "hotelName": "Two Seasons Hotel \u0026 Apartments",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/2079352.json",
+      "contentHash": "ef2ab97ad4374000f6969dfc772fa00f1d300dbcbf2e4620fb5380c24ff1930a",
+      "lastUpdatedUtc": "2026-02-25T11:02:18.3870644Z"
+    },
+    "65101": {
+      "providerHotelId": "65101",
+      "provider": "STUBA",
+      "hotelName": "Hotel Riviera",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/65101.json",
+      "contentHash": "6d49faa1bead4c5fce64e7ff6836cc9b4d782b7a285212b09916c7cbbf3f252e",
+      "lastUpdatedUtc": "2026-02-25T11:02:20.449153Z"
+    },
+    "81166": {
+      "providerHotelId": "81166",
+      "provider": "STUBA",
+      "hotelName": "Marco Polo Hotel",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/81166.json",
+      "contentHash": "75ddc66b185d2174a1b608be721cb2c763c2c6679b9802fc1c59ad6b7410ac63",
+      "lastUpdatedUtc": "2026-02-25T11:02:22.2982156Z"
+    },
+    "1695841": {
+      "providerHotelId": "1695841",
+      "provider": "STUBA",
+      "hotelName": "Oaks Ibn Battuta Gate Dubai (Formerly Movenpick)",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/1695841.json",
+      "contentHash": "c79da732454cf783ffaadce2eeabb547df3c6938736ff6b2f5adc3621ec08cae",
+      "lastUpdatedUtc": "2026-02-25T11:02:23.1911611Z"
+    },
+    "80935": {
+      "providerHotelId": "80935",
+      "provider": "STUBA",
+      "hotelName": "The Park Hotel Dubai",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/80935.json",
+      "contentHash": "bf774225e366c6e5d6bfcfe0eabea6511fd54a8aefd1160e6e303f949fe7aa3a",
+      "lastUpdatedUtc": "2026-02-25T11:02:23.3207111Z"
+    },
+    "78973": {
+      "providerHotelId": "78973",
+      "provider": "STUBA",
+      "hotelName": "Avenue Hotel",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/78973.json",
+      "contentHash": "55f50005b69c20641b6c43fca47d4b5e9e185612a819af6269226eb0d2919919",
+      "lastUpdatedUtc": "2026-02-25T11:02:24.0067279Z"
+    },
+    "191553": {
+      "providerHotelId": "191553",
+      "provider": "STUBA",
+      "hotelName": "Palace Downtown",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/191553.json",
+      "contentHash": "409a273686b683d6e8356b5bc146358df22507a17aaf1ecf87b34552ea609d5a",
+      "lastUpdatedUtc": "2026-02-25T11:02:24.7042207Z"
+    },
+    "143582": {
+      "providerHotelId": "143582",
+      "provider": "STUBA",
+      "hotelName": "Tulip Creek Hotel Apartments",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/143582.json",
+      "contentHash": "92c404ce376cfcb6c5dea2a4a1bc7d9351d9a16f79e74aaeb6c35b7db90effef",
+      "lastUpdatedUtc": "2026-02-25T11:02:24.7043263Z"
+    },
+    "76467": {
+      "providerHotelId": "76467",
+      "provider": "STUBA",
+      "hotelName": "Royal Falcon Hotel",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/76467.json",
+      "contentHash": "e6f15ce1a1bd568f8c330d25c9c8389f99b9ff240a95bca412f95eabf81e0f00",
+      "lastUpdatedUtc": "2026-02-25T11:02:26.4405129Z"
+    },
+    "1750613": {
+      "providerHotelId": "1750613",
+      "provider": "STUBA",
+      "hotelName": "Signature Hotel Apartment \u0026 Spa Marina (Formerly Lotus)",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/1750613.json",
+      "contentHash": "c311494547bfc158d82cf433e40e551ad815489715fc28485f9c51a7cb8ff962",
+      "lastUpdatedUtc": "2026-02-25T11:02:29.8113859Z"
+    },
+    "4688896": {
+      "providerHotelId": "4688896",
+      "provider": "STUBA",
+      "hotelName": "Hues Boutique Hotel",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/4688896.json",
+      "contentHash": "8ae9b9d15fcda173ea3ae783ec979b99172d5d75121c0341e8c9308b429e29b9",
+      "lastUpdatedUtc": "2026-02-25T11:02:30.2150586Z"
+    },
+    "1695273": {
+      "providerHotelId": "1695273",
+      "provider": "STUBA",
+      "hotelName": "Landmark Hotel Riqqa",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "relativeFilePath": "stuba/hotels/1695273.json",
+      "contentHash": "c3349ce2774271b01096aa1de8bf15ef006f0a247cc27e00b740ddc5c1ea87b9",
+      "lastUpdatedUtc": "2026-02-25T11:02:31.7613839Z"
+    },
+    "59597": {
+      "providerHotelId": "59597",
+      "provider": "STUBA",
+      "hotelName": "Westgate Las Vegas Resort \u0026 Casino",
+      "city": "Las Vegas",
+      "countryCode": "USA",
+      "relativeFilePath": "stuba/hotels/59597.json",
+      "contentHash": "d1ee5d2c485f3323bbb555fdd88c73153b657adf5a98449f251f9071e4696eba",
+      "lastUpdatedUtc": "2026-02-25T11:02:46.7864769Z"
+    },
+    "59498": {
+      "providerHotelId": "59498",
+      "provider": "STUBA",
+      "hotelName": "Alexis Park All Suite Resort",
+      "city": "Las Vegas",
+      "countryCode": "USA",
+      "relativeFilePath": "stuba/hotels/59498.json",
+      "contentHash": "9a97043eed84c5c2b5640188c6be9e6661b4b1b4a42efe18b1c75593d4556d62",
+      "lastUpdatedUtc": "2026-02-25T11:02:46.8713155Z"
+    },
+    "61064": {
+      "providerHotelId": "61064",
+      "provider": "STUBA",
+      "hotelName": "Golden Nugget Las Vegas Hotel \u0026 Casino",
+      "city": "Las Vegas",
+      "countryCode": "USA",
+      "relativeFilePath": "stuba/hotels/61064.json",
+      "contentHash": "df9a6e602dd82b649dcd9c69f44335800ea5070955bb31c44fc518a4f552a1fa",
+      "lastUpdatedUtc": "2026-02-25T11:02:46.8717852Z"
+    },
+    "694648": {
+      "providerHotelId": "694648",
+      "provider": "STUBA",
+      "hotelName": "Plaza Hotel and Casino - Las Vegas",
+      "city": "Las Vegas",
+      "countryCode": "USA",
+      "relativeFilePath": "stuba/hotels/694648.json",
+      "contentHash": "c572800180ab255335f6af05f338665db38f976a3b14a8886de852f02507e0a9",
+      "lastUpdatedUtc": "2026-02-25T11:02:46.973024Z"
+    },
+    "62459": {
+      "providerHotelId": "62459",
+      "provider": "STUBA",
+      "hotelName": "Treasure Island - TI Hotel \u0026 Casino, A Radisson Hotel",
+      "city": "Las Vegas",
+      "countryCode": "USA",
+      "relativeFilePath": "stuba/hotels/62459.json",
+      "contentHash": "d5c456327a524d1e65c9526c09ecbce38eb95a464116c30d3e0326149e444669",
+      "lastUpdatedUtc": "2026-02-25T11:02:47.1511404Z"
+    },
+    "121971": {
+      "providerHotelId": "121971",
+      "provider": "STUBA",
+      "hotelName": "RIU Plaza Miami Beach",
+      "city": "Miami Beach",
+      "countryCode": "USA",
+      "relativeFilePath": "stuba/hotels/121971.json",
+      "contentHash": "1b8920eba190e4e7eca9ddd72e10621546825ce6f3e9d8923b8b93801f7dd785",
+      "lastUpdatedUtc": "2026-02-25T11:02:47.619248Z"
+    },
+    "257799": {
+      "providerHotelId": "257799",
+      "provider": "STUBA",
+      "hotelName": "Viajero Miami (Formerly Stiles)",
+      "city": "Miami Beach",
+      "countryCode": "USA",
+      "relativeFilePath": "stuba/hotels/257799.json",
+      "contentHash": "1d03f3e8c12cbc45d948477dd9b86374ccb1fbc8b96cb1269c534cba2b6de347",
+      "lastUpdatedUtc": "2026-02-25T11:02:48.486102Z"
+    },
+    "127100": {
+      "providerHotelId": "127100",
+      "provider": "STUBA",
+      "hotelName": "Cavalier Hotel South Beach",
+      "city": "Miami Beach",
+      "countryCode": "USA",
+      "relativeFilePath": "stuba/hotels/127100.json",
+      "contentHash": "ea54959de1c11330145b1cd9132b385f055592ff321d81573d8e991bd2071920",
+      "lastUpdatedUtc": "2026-02-25T11:02:49.139868Z"
+    },
+    "160895": {
+      "providerHotelId": "160895",
+      "provider": "STUBA",
+      "hotelName": "Marenas Beach Resort",
+      "city": "Sunny Isles Beach",
+      "countryCode": "USA",
+      "relativeFilePath": "stuba/hotels/160895.json",
+      "contentHash": "a67dd34b1b966f71aa3c4c5c885c296f6cb2dc696eaeef52c3665fa62b9606d6",
+      "lastUpdatedUtc": "2026-02-25T11:02:50.0518719Z"
+    },
+    "58970": {
+      "providerHotelId": "58970",
+      "provider": "STUBA",
+      "hotelName": "The Manhattan Club",
+      "city": "New York",
+      "countryCode": "USA",
+      "relativeFilePath": "stuba/hotels/58970.json",
+      "contentHash": "d9c4bd16a35d97ff7e0ef9a15bcf00360ab168029845cf07a1181adc7e6febb8",
+      "lastUpdatedUtc": "2026-02-25T11:02:50.9580885Z"
+    },
+    "161170": {
+      "providerHotelId": "161170",
+      "provider": "STUBA",
+      "hotelName": "Broadway Plaza Hotel",
+      "city": "New York",
+      "countryCode": "USA",
+      "relativeFilePath": "stuba/hotels/161170.json",
+      "contentHash": "15ab1c301734ee7295107f4472abc4462d0ec43cbe2aa2b9577f66721d9d4845",
+      "lastUpdatedUtc": "2026-02-25T11:02:51.1324314Z"
+    },
+    "59336": {
+      "providerHotelId": "59336",
+      "provider": "STUBA",
+      "hotelName": "Night Hotel Broadway",
+      "city": "NEW YORK, NY 10025",
+      "countryCode": "USA",
+      "relativeFilePath": "stuba/hotels/59336.json",
+      "contentHash": "3071618f42be07b72cedc7ff1e5df19350439f65426af71ee982989fbba69ae1",
+      "lastUpdatedUtc": "2026-02-25T11:02:51.4737626Z"
+    },
+    "62582": {
+      "providerHotelId": "62582",
+      "provider": "STUBA",
+      "hotelName": "Hotel Beacon",
+      "city": "New York",
+      "countryCode": "USA",
+      "relativeFilePath": "stuba/hotels/62582.json",
+      "contentHash": "368b1b1e22ef6ed5c540152598c34a8a279f845c287278386f42cd2d16f82ec6",
+      "lastUpdatedUtc": "2026-02-25T11:02:52.4176259Z"
+    },
+    "62156": {
+      "providerHotelId": "62156",
+      "provider": "STUBA",
+      "hotelName": "Washington Square Hotel",
+      "city": "New York",
+      "countryCode": "USA",
+      "relativeFilePath": "stuba/hotels/62156.json",
+      "contentHash": "245c1e8282bef585876cc39e8aa1bb8c35cb024070a9070cfa763c7f3ee1c71c",
+      "lastUpdatedUtc": "2026-02-25T11:02:52.5653486Z"
+    },
+    "57760": {
+      "providerHotelId": "57760",
+      "provider": "STUBA",
+      "hotelName": "The Milestone Hotel and Residences",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/57760.json",
+      "contentHash": "55501b2530ead7f81aef2b7cf8004d63c545e261137b1a1a70c5772c629848e6",
+      "lastUpdatedUtc": "2026-02-25T11:02:58.5086979Z"
+    },
+    "53395": {
+      "providerHotelId": "53395",
+      "provider": "STUBA",
+      "hotelName": "The Rubens At The Palace",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/53395.json",
+      "contentHash": "6a189b3e0208e86302922c5f7e4bc3eae0570924d436894f00b6570dee4f859c",
+      "lastUpdatedUtc": "2026-02-25T11:02:58.5862767Z"
+    },
+    "55348": {
+      "providerHotelId": "55348",
+      "provider": "STUBA",
+      "hotelName": "The Dilly Piccadilly (Formerly Le Meridien)",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/55348.json",
+      "contentHash": "391d79ad61b900d2fb9b00360c06b2d20e6dbe9b10552d15a2414e3cba73a7cc",
+      "lastUpdatedUtc": "2026-02-25T11:02:58.8849334Z"
+    },
+    "56059": {
+      "providerHotelId": "56059",
+      "provider": "STUBA",
+      "hotelName": "The Cumberland (Formerly Hard Rock)",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/56059.json",
+      "contentHash": "38404cda4e8b5f8713937b5252b5cc8e2ea4d0d88424d22a97914cda87cdf702",
+      "lastUpdatedUtc": "2026-02-25T11:02:59.608702Z"
+    },
+    "53269": {
+      "providerHotelId": "53269",
+      "provider": "STUBA",
+      "hotelName": "The Clermont, Victoria (Formerly Amba Hotel Grosvenor)",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/53269.json",
+      "contentHash": "7c7b0debdd37eafa15994b8ce3552d13e568daaded943995863d479423e2303f",
+      "lastUpdatedUtc": "2026-02-25T11:03:01.2128154Z"
+    },
+    "57481": {
+      "providerHotelId": "57481",
+      "provider": "STUBA",
+      "hotelName": "Oliver Plaza",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/57481.json",
+      "contentHash": "1a90e1094ff77e17853653ea8427f0673d5ff6ea279f457697076c68a71edf42",
+      "lastUpdatedUtc": "2026-02-25T11:03:01.1951919Z"
+    },
+    "324034": {
+      "providerHotelId": "324034",
+      "provider": "STUBA",
+      "hotelName": "Grand Plaza Serviced Apartments",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/324034.json",
+      "contentHash": "32c400b67ecff762af3a1ebf0333d6a64506f702fe6ec639611e46058c38771e",
+      "lastUpdatedUtc": "2026-02-25T11:03:01.4980044Z"
+    },
+    "56230": {
+      "providerHotelId": "56230",
+      "provider": "STUBA",
+      "hotelName": "Nayland Hotel",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/56230.json",
+      "contentHash": "0a8d9653c1c3f007e68d855573e1a1befa5fafd72f7ca955f1adc7b0a91894a8",
+      "lastUpdatedUtc": "2026-02-25T11:03:02.4786762Z"
+    },
+    "57919": {
+      "providerHotelId": "57919",
+      "provider": "STUBA",
+      "hotelName": "Hutton\u0027s Hotel",
+      "city": "London SW1V 2BB",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/57919.json",
+      "contentHash": "530b23ccb8b5470448b74b56d5a76f8f86f2f0ca2d3688b1070cc5107c72dede",
+      "lastUpdatedUtc": "2026-02-25T11:03:02.5769513Z"
+    },
+    "161967": {
+      "providerHotelId": "161967",
+      "provider": "STUBA",
+      "hotelName": "Marlin Apartments London Bridge - Empire Square",
+      "city": "LONDON",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/161967.json",
+      "contentHash": "0876f713f9669e116ef584b12e0d497bf1379bfdf1b7318f37a207e9d197bbd3",
+      "lastUpdatedUtc": "2026-02-25T11:03:02.6619443Z"
+    },
+    "57742": {
+      "providerHotelId": "57742",
+      "provider": "STUBA",
+      "hotelName": "The Biltmore Mayfair",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/57742.json",
+      "contentHash": "4117443c47831314c3ccf2215ab2ffc37461c5ee213d4700ade3eb813f53312e",
+      "lastUpdatedUtc": "2026-02-25T11:03:03.0152165Z"
+    },
+    "56332": {
+      "providerHotelId": "56332",
+      "provider": "STUBA",
+      "hotelName": "Caesar Hotel",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/56332.json",
+      "contentHash": "592b893a1c855fdeedd5bacaa87a3cbabe320ba06656e13d9229cf5afc998cb5",
+      "lastUpdatedUtc": "2026-02-25T11:03:03.2235091Z"
+    },
+    "57118": {
+      "providerHotelId": "57118",
+      "provider": "STUBA",
+      "hotelName": "The Chesterfield Mayfair",
+      "city": "W1X 8LX",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/57118.json",
+      "contentHash": "25041ecbd2df1f538008dedba606d4ae113820e1fd33ea23f0ff480850644361",
+      "lastUpdatedUtc": "2026-02-25T11:03:03.5349927Z"
+    },
+    "57565": {
+      "providerHotelId": "57565",
+      "provider": "STUBA",
+      "hotelName": "Ambassadors Bloomsbury",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/57565.json",
+      "contentHash": "44f80466bd3790dadf62bd00ea6cfc93718e0e56a290c30f394e166bec96dc33",
+      "lastUpdatedUtc": "2026-02-25T11:03:03.7222267Z"
+    },
+    "1896823": {
+      "providerHotelId": "1896823",
+      "provider": "STUBA",
+      "hotelName": "The Egerton House Hotel",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/1896823.json",
+      "contentHash": "1fe410ad5a926ab137f353a2672cb4cf4b56a10c54254840fc717dfbdae01f6b",
+      "lastUpdatedUtc": "2026-02-25T11:03:03.7226171Z"
+    },
+    "120647": {
+      "providerHotelId": "120647",
+      "provider": "STUBA",
+      "hotelName": "Citadines Trafalgar Square London",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/120647.json",
+      "contentHash": "0ee12fb8d3670f23a917225ee36f55a3ed2b5394ee3d8ce6c58f490b1f28caf1",
+      "lastUpdatedUtc": "2026-02-25T11:03:04.3120889Z"
+    },
+    "54871": {
+      "providerHotelId": "54871",
+      "provider": "STUBA",
+      "hotelName": "Byron Hotel London",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/54871.json",
+      "contentHash": "f41105fd848e612666111c63e07f3df4d28ec8784344100894237b91b80f8198",
+      "lastUpdatedUtc": "2026-02-25T11:03:06.3778153Z"
+    },
+    "271562": {
+      "providerHotelId": "271562",
+      "provider": "STUBA",
+      "hotelName": "Hotel 41",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/271562.json",
+      "contentHash": "f0170ff175d8d9e750da2ee4aa8fd519e1cfd3675ebf65fc79eccd1dfb6ee32b",
+      "lastUpdatedUtc": "2026-02-25T11:03:06.7069481Z"
+    },
+    "56824": {
+      "providerHotelId": "56824",
+      "provider": "STUBA",
+      "hotelName": "Copthorne Tara Hotel London Kensington",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/56824.json",
+      "contentHash": "aa2ae89758fbb07538a5764f89ef34b44202e94a1deeb6584662b9ca01e1d4b2",
+      "lastUpdatedUtc": "2026-02-25T11:03:07.7442546Z"
+    },
+    "58423": {
+      "providerHotelId": "58423",
+      "provider": "STUBA",
+      "hotelName": "Kingsway Park Hotel at Park Avenue",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/58423.json",
+      "contentHash": "78b2690e4fd0d2e8a29d6f7cd3c64c1caf0c8c348079e2d02fd488ecfc953186",
+      "lastUpdatedUtc": "2026-02-25T11:03:08.5274731Z"
+    },
+    "71184": {
+      "providerHotelId": "71184",
+      "provider": "STUBA",
+      "hotelName": "Royal Lancaster London",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/71184.json",
+      "contentHash": "1316cbe6b8fdb5b435233a7328fff92f04dd2c6ffc1835d23975c96d63f7f74a",
+      "lastUpdatedUtc": "2026-02-25T11:03:08.5227447Z"
+    },
+    "54238": {
+      "providerHotelId": "54238",
+      "provider": "STUBA",
+      "hotelName": "Troy",
+      "city": "UNITED KINGDOM",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/54238.json",
+      "contentHash": "a795268abb7f58da9691431e41cfc320baf250929192541de85ca6da7dbbe500",
+      "lastUpdatedUtc": "2026-02-25T11:03:09.2013019Z"
+    },
+    "1296412": {
+      "providerHotelId": "1296412",
+      "provider": "STUBA",
+      "hotelName": "Pestana Chelsea Bridge Hotel \u0026 Spa",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/1296412.json",
+      "contentHash": "c5ac731504205cea824f04c24235d5b09f420bf1424fea9dc5be69443f9f27b5",
+      "lastUpdatedUtc": "2026-02-25T11:03:09.1495131Z"
+    },
+    "56551": {
+      "providerHotelId": "56551",
+      "provider": "STUBA",
+      "hotelName": "Norfolk Towers Paddington Hotel",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/56551.json",
+      "contentHash": "014029dc5fcb975bd70436388c0d4b7d6bf8cf2bcc4aa18c42481e7d9b0fb159",
+      "lastUpdatedUtc": "2026-02-25T11:03:09.4444593Z"
+    },
+    "54502": {
+      "providerHotelId": "54502",
+      "provider": "STUBA",
+      "hotelName": "The Landmark London",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/54502.json",
+      "contentHash": "1e8eb1338ea13de2011c82706d4145d486386e54ecb97bd75d8b9a322faf2b50",
+      "lastUpdatedUtc": "2026-02-25T11:03:09.6490347Z"
+    },
+    "120891": {
+      "providerHotelId": "120891",
+      "provider": "STUBA",
+      "hotelName": "Leonardo Royal London City",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/120891.json",
+      "contentHash": "a1ea382a76b507f4aa3d3ba897e39730fa7f75ede481487d5a98f12f9453405a",
+      "lastUpdatedUtc": "2026-02-25T11:03:11.6840566Z"
+    },
+    "120799": {
+      "providerHotelId": "120799",
+      "provider": "STUBA",
+      "hotelName": "The May Fair,A Radisson Collection Hotel",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/120799.json",
+      "contentHash": "31c15efaf767a243cb68433aeb45d19ba1f316160a1d3ac92d406aa1f8c33051",
+      "lastUpdatedUtc": "2026-02-25T11:03:12.4114907Z"
+    },
+    "53599": {
+      "providerHotelId": "53599",
+      "provider": "STUBA",
+      "hotelName": "White House Hotel London",
+      "city": "London W2 1UH",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/53599.json",
+      "contentHash": "c5e0c82cc97156e6796706da7b861a468b2b7fc984a70ed9bd9d6cfd44c19126",
+      "lastUpdatedUtc": "2026-02-25T11:03:13.4495096Z"
+    },
+    "53536": {
+      "providerHotelId": "53536",
+      "provider": "STUBA",
+      "hotelName": "My Place Hotel",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/53536.json",
+      "contentHash": "1b02ec4247c0943c768e8a6d937bd702f8e6106663bf8744acdc47370c247544",
+      "lastUpdatedUtc": "2026-02-25T11:03:13.5789415Z"
+    },
+    "1296373": {
+      "providerHotelId": "1296373",
+      "provider": "STUBA",
+      "hotelName": "Marlin Apartments - Aldgate Tower Bridge",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/1296373.json",
+      "contentHash": "afcdd87d7525b4e9549579140de6a151c12c0d0c3dd32620e40dd29cb664ba1b",
+      "lastUpdatedUtc": "2026-02-25T11:03:13.6970974Z"
+    },
+    "54310": {
+      "providerHotelId": "54310",
+      "provider": "STUBA",
+      "hotelName": "The Strand Palace Hotel",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/54310.json",
+      "contentHash": "3126c956f53288aefddc50366e71500d2c77251d49aa988da35892a472d73c22",
+      "lastUpdatedUtc": "2026-02-25T11:03:13.7007124Z"
+    },
+    "55750": {
+      "providerHotelId": "55750",
+      "provider": "STUBA",
+      "hotelName": "The Montague On The Gardens",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/55750.json",
+      "contentHash": "eabfd36ff4891d4b685b22e6f4720700826879e20aeaf2f8e88d2a1560941e40",
+      "lastUpdatedUtc": "2026-02-25T11:03:14.63437Z"
+    },
+    "55720": {
+      "providerHotelId": "55720",
+      "provider": "STUBA",
+      "hotelName": "Bayswater Inn",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/55720.json",
+      "contentHash": "97558bcf930c6299c0ac02a61e73669cdab4df279e82b583c4f1846598c847c1",
+      "lastUpdatedUtc": "2026-02-25T11:03:15.4887696Z"
+    },
+    "416445": {
+      "providerHotelId": "416445",
+      "provider": "STUBA",
+      "hotelName": "London Lodge Hotel",
+      "city": "",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/416445.json",
+      "contentHash": "45d89a66492e3d8ee0aad5d0ddcb12bf8818864f051afb172413f9617a21eb9b",
+      "lastUpdatedUtc": "2026-02-25T11:03:15.4811265Z"
+    },
+    "186640": {
+      "providerHotelId": "186640",
+      "provider": "STUBA",
+      "hotelName": "W6 Hotel (Formerly So Sienna Aparthotel)",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/186640.json",
+      "contentHash": "0ff19b70172acda2547fbc74f490014a256024e20c7944e90403b06e24d57c1b",
+      "lastUpdatedUtc": "2026-02-25T11:03:15.6777542Z"
+    },
+    "120867": {
+      "providerHotelId": "120867",
+      "provider": "STUBA",
+      "hotelName": "Flemings Mayfair",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/120867.json",
+      "contentHash": "82dd3216e798f0e2d2cbf3d066bc67c81197c4ed3839f3477116a1864d12d8f7",
+      "lastUpdatedUtc": "2026-02-25T11:03:16.530677Z"
+    },
+    "53434": {
+      "providerHotelId": "53434",
+      "provider": "STUBA",
+      "hotelName": "Admiral Hotel at Park Avenue",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/53434.json",
+      "contentHash": "3f2a1aedb9d0a60ae58f7a427d6db743fbf2884a082c11669a593d140c0db1fd",
+      "lastUpdatedUtc": "2026-02-25T11:03:16.6732031Z"
+    },
+    "157354": {
+      "providerHotelId": "157354",
+      "provider": "STUBA",
+      "hotelName": "The Park City Grand Plaza Kensington",
+      "city": "London",
+      "countryCode": "UK - England",
+      "relativeFilePath": "stuba/hotels/157354.json",
+      "contentHash": "1198204df6d9bb83463b83ec36e5fd10edcae07c717d8ed0ac6ab02ae281616c",
+      "lastUpdatedUtc": "2026-02-25T11:03:16.6812892Z"
+    }
+  }
+}

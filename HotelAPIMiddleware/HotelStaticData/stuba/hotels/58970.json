@@ -1,0 +1,319 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "58970",
+  "name": "The Manhattan Club",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "64653"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at The Manhattan Club, you\u0027ll be centrally located in New York, steps from Carnegie Hall and within a 5-minute walk of Ed Sullivan Theater.  This hotel is 0.7 mi (1.1 km) from Rockefeller Center and 1.5 mi (2.5 km) from Jacob K. Javits Convention Center."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 50 individually decorated guestrooms, featuring refrigerators and microwaves. Your pillowtop bed comes with premium bedding. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Bathrooms have complimentary toiletries and hair dryers."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take advantage of recreation opportunities such as a fitness center, or other amenities including complimentary wireless internet access and concierge services."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ECarnegie Hall - 0.1 km / 0.1 mi \u003Cbr /\u003E Broadway - 0.3 km / 0.2 mi \u003Cbr /\u003E Ed Sullivan Theater - 0.3 km / 0.2 mi \u003Cbr /\u003E Broadway Theatre - 0.4 km / 0.2 mi \u003Cbr /\u003E Central Park - 0.4 km / 0.3 mi \u003Cbr /\u003E Columbus Circle - 0.6 km / 0.4 mi \u003Cbr /\u003E Museum of Modern Art - 0.7 km / 0.4 mi \u003Cbr /\u003E Madison Avenue - 0.7 km / 0.4 mi \u003Cbr /\u003E 5th Avenue - 0.7 km / 0.4 mi \u003Cbr /\u003E Times Square - 0.7 km / 0.4 mi \u003Cbr /\u003E Radio City Music Hall - 0.7 km / 0.5 mi \u003Cbr /\u003E Top of the Rock Observation Deck - 0.9 km / 0.6 mi \u003Cbr /\u003E Lincoln Center - 1 km / 0.6 mi \u003Cbr /\u003E St. Patrick\u0027s Cathedral - 1.1 km / 0.7 mi \u003Cbr /\u003E Rockefeller Center - 1.1 km / 0.7 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ELaGuardia Airport (LGA) - 16.1 km / 10 mi\u003Cbr /\u003E Teterboro, NJ (TEB) - 19.6 km / 12.2 mi\u003Cbr /\u003E Newark Liberty Intl. Airport (EWR) - 28 km / 17.4 mi\u003Cbr /\u003E John F. Kennedy Intl. Airport (JFK) - 29.3 km / 18.2 mi\u003Cbr /\u003E Linden, NJ (LDJ) - 37.3 km / 23.2 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for The Manhattan Club is John F. Kennedy Intl. Airport (JFK). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and debit cards; cash is not accepted\u003C/li\u003E  \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Quench your thirst with your favorite drink at the bar/lounge. Continental breakfasts are available daily from 6:30 AM to 11 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "200 West 56th Street",
+    "line2": "",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "countryCode": "",
+    "postalCode": "10019"
+  },
+  "geo": {
+    "latitude": 40.764858,
+    "longitude": -73.981219
+  },
+  "phone": "1-212-4538855",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/58970/58970_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_4.jpg",
+      "caption": "Private kitchenette",
+      "photoType": "22004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_5.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_6.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_7.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_8.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_9.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_10.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_11.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_14.jpg",
+      "caption": "Private kitchenette",
+      "photoType": "22004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_17.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_18.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_19.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_20.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_21.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_24.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_27.jpg",
+      "caption": "Private kitchenette",
+      "photoType": "22004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_28.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_29.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_30.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_31.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_33.jpg",
+      "caption": "Private kitchenette",
+      "photoType": "22004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_34.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_35.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_36.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_38.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/58970_img_39.jpg",
+      "caption": "Private kitchenette",
+      "photoType": "22004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/58970/Main_58970.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "d9c4bd16a35d97ff7e0ef9a15bcf00360ab168029845cf07a1181adc7e6febb8",
+  "lastSyncedUtc": "2026-02-25T11:02:50.9580885Z"
+}

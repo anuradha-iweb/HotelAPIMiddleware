@@ -1,0 +1,319 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "80935",
+  "name": "The Park Hotel Dubai",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "10175890"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at THE PARK HOTEL Formerly Al Jawhara Gardens in Dubai (Deira), you\u0027ll be within a 5-minute drive of City Centre Deira and Al Ghurair Centre.  This hotel is 4 mi (6.5 km) from Gold Souk and 4.9 mi (7.8 km) from Dubai World Trade Centre."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 115 air-conditioned guestrooms. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms with bathtubs or showers feature complimentary toiletries and hair dryers. Conveniences include safes and complimentary newspapers, and housekeeping is provided daily."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Don\u0027t miss out on the many recreational opportunities, including a health club, an outdoor pool, and a steam room. Additional features at this hotel include complimentary wireless internet access, concierge services, and a banquet hall."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ECity Centre Deira - 0.7 km / 0.4 mi \u003Cbr /\u003E Deira Clocktower - 1.2 km / 0.7 mi \u003Cbr /\u003E Dubai Tennis Stadium - 2.3 km / 1.4 mi \u003Cbr /\u003E Creek Park - 2.6 km / 1.6 mi \u003Cbr /\u003E Reef Mall - 2.7 km / 1.7 mi \u003Cbr /\u003E Al Ghurair Centre - 2.7 km / 1.7 mi \u003Cbr /\u003E Al Nasr Leisureland - 3 km / 1.9 mi \u003Cbr /\u003E Fish Roundabout - 3.2 km / 2 mi \u003Cbr /\u003E Deira Twin Towers Shopping Centre - 3.3 km / 2 mi \u003Cbr /\u003E Dubai Creek Golf \u0026 Yacht Club - 3.4 km / 2.1 mi \u003Cbr /\u003E Mohammed Bin Rashid University Of Medicine and Health Sciences - 3.8 km / 2.4 mi \u003Cbr /\u003E Al Seef - 4.1 km / 2.5 mi \u003Cbr /\u003E American Hospital Dubai - 4.2 km / 2.6 mi \u003Cbr /\u003E Naif Souq - 4.4 km / 2.7 mi \u003Cbr /\u003E Wafi City Mall - 4.6 km / 2.9 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDubai Intl. Airport (DXB) - 3.8 km / 2.4 mi\u003Cbr /\u003E Sharjah (SHJ-Sharjah Intl.) - 28.5 km / 17.7 mi\u003Cbr /\u003E Al Maktoum Intl. Airport (DWC) - 66.5 km / 41.3 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for THE PARK HOTEL Formerly Al Jawhara Gardens is Dubai Intl. Airport (DXB). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003ELocal laws may restrict unmarried guests from sharing rooms. Guests are responsible for providing proof of marriage, if requested by the property. \u003C/li\u003E \u003Cli\u003EAlcohol is not served or permitted at this property. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy a meal at Gardenia or snacks in the coffee shop/cafe. The hotel also offers 24-hour room service. Buffet breakfasts are available daily from 6:30 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "Port Saeed Street",
+    "line2": "Opposite Deira City Centre",
+    "city": "Dubai",
+    "state": "",
+    "country": "UAE",
+    "countryCode": "",
+    "postalCode": ""
+  },
+  "geo": {
+    "latitude": 25.254826,
+    "longitude": 55.335152
+  },
+  "phone": "\u002B971 4 2107777",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/80935/Main_80935.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_6.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_7.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_8.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_9.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_11.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_15.jpg",
+      "caption": "Interior entrance",
+      "photoType": "10000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_16.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_17.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_20.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_21.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_24.jpg",
+      "caption": "Interior entrance",
+      "photoType": "10000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_26.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_30.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_31.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_32.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_33.jpg",
+      "caption": "Business center",
+      "photoType": "83010",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_34.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/80935/80935_img_35.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "bf774225e366c6e5d6bfcfe0eabea6511fd54a8aefd1160e6e303f949fe7aa3a",
+  "lastSyncedUtc": "2026-02-25T11:02:23.3207111Z"
+}

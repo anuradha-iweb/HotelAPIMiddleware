@@ -1,0 +1,153 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "59336",
+  "name": "Night Hotel Broadway",
+  "starRating": 3,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "General",
+      "text": "***ONLY 2 GUEST ALLOWED IN ROOMS WITH ONE BED, ONLY 4 GUESTS ALLOWED IN ROOMS WITH TWO BEDS, HOTEL WILL NOT HONOR ANY OTHER RESERVATIONS*** * Located only two express subway stops to Times Square and the Theatre District * Hotel is Located in Manhattan - New York City * Close to Columbia University and many other schools * Within walking distance to numerous Manhattan attractions and Restaurants * Short walk to Central Park * Free Wireless High Speed Internet * All rooms include Coffee Maker, Iron and Ironing-board, Safe and Hair dryer * Business Center on site * Fitness Room on site * World renowned 5th. Avenue shopping and attractions within 3 miles * Lincoln Center for the Performing Arts within 1.5 miles * Symphony Space performing art center across street * Madison Square Garden within 4 miles * Major Transportation hubs and local Transportation adjacent to hotel * Sorry, No Pets Allowed"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "Conveniently located in Manhattan\u0027s upper west side, the excitement and activity of New York City is only moments away from this comfortable and cozy hotel, perfect for all of your traveling needs. \nThe Days Inn Broadway at 94th Street is surrounded by some of the city\u0027s most famous attractions. Central Park, museums and gourmet restaurants are all located within walking distance from the hotel. \nThe Days Broadway is a 2 minute walk to the nearest metro station.\nAfter a long day in the city, guest can relax at the Days Inn Broadway and enjoy a number of modern amenities provided for their convenience, including a fitness center as well as free wireless internet."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "The rooms are simply decorated and vary in size from medium to large rooms. Hotel features standard rooms with 1 full size bed. All rooms include Safety Deposit Box, TV, Telephone, Air Conditioning, Cable TV, Tea/Coffee Maker, Hairdryer, Iron, Work Desk, Ironing Facilities and Complimentary Wifi in all guest rooms. The bathrooms are small and in a good condition.\n\nPlease see essential info."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "The building is traditional, built in 1915."
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "No on-site restaurant, but there is a restaurant next to the hotel serving breakfast, lunch and dinner. Numerous dining options and lounges are within walking distance."
+    },
+    {
+      "language": "en",
+      "type": "Short",
+      "text": "The lobby is fairly large with some seating and a spacious corner reception area. The decor is in a traditional style with marbled flooring."
+    }
+  ],
+  "address": {
+    "line1": "215 WEST 94TH STREET",
+    "line2": "",
+    "city": "NEW YORK, NY 10025",
+    "state": "",
+    "country": "USA",
+    "countryCode": "",
+    "postalCode": ""
+  },
+  "geo": {
+    "latitude": 40.793253,
+    "longitude": -73.972228
+  },
+  "phone": "1-212-8666400",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/59336/130721179.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/59336/130721406.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/59336/177495733.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/59336/177495830.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/59336/177496118.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/59336/285854681.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/59336/285854709.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/59336/285855481.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/59336/287087935.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/59336/498462139.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/59336/498462331.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/59336/60554300.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/59336/Main_59336.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "3071618f42be07b72cedc7ff1e5df19350439f65426af71ee982989fbba69ae1",
+  "lastSyncedUtc": "2026-02-25T11:02:51.4737626Z"
+}

@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "54310",
+  "name": "The Strand Palace Hotel",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "179"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "Strand Palace Hotel is centrally located in London, a 3-minute walk from Covent Garden Market and 13 minutes by foot from Piccadilly Circus.  This hotel is 1 mi (1.7 km) from Big Ben and 1.2 mi (1.9 km) from London Dungeon."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 788 air-conditioned rooms featuring LCD televisions. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Private bathrooms with showers feature designer toiletries and hair dryers. Conveniences include phones, as well as laptop-compatible safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take advantage of recreation opportunities such as a 24-hour fitness center, or other amenities including complimentary wireless internet access and concierge services."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EThe Strand - 0.1 km / 0.1 mi \u003Cbr /\u003E Covent Garden Market - 0.3 km / 0.2 mi \u003Cbr /\u003E King\u0027s College London - 0.4 km / 0.2 mi \u003Cbr /\u003E Royal Opera House - 0.4 km / 0.3 mi \u003Cbr /\u003E Charing Cross - 0.6 km / 0.4 mi \u003Cbr /\u003E National Gallery - 0.7 km / 0.4 mi \u003Cbr /\u003E Trafalgar Square - 0.7 km / 0.4 mi \u003Cbr /\u003E Leicester Square - 0.7 km / 0.5 mi \u003Cbr /\u003E Thames River - 0.8 km / 0.5 mi \u003Cbr /\u003E Regent Street - 0.9 km / 0.6 mi \u003Cbr /\u003E Royal National Theatre - 1 km / 0.6 mi \u003Cbr /\u003E St. James Park - 1 km / 0.6 mi \u003Cbr /\u003E Piccadilly Circus - 1.1 km / 0.7 mi \u003Cbr /\u003E Piccadilly - 1.1 km / 0.7 mi \u003Cbr /\u003E Tottenham Court Road - 1.1 km / 0.7 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ELondon City Airport (LCY) - 13.9 km / 8.6 mi\u003Cbr /\u003E Heathrow Airport (LHR) - 27.8 km / 17.3 mi\u003Cbr /\u003E Gatwick Airport (LGW) - 88.4 km / 54.9 mi\u003Cbr /\u003E Luton Airport (LTN) - 55.8 km / 34.6 mi\u003Cbr /\u003E Stansted Airport (STN) - 63.7 km / 39.6 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, and a first aid kit\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003ESome facilities may have restricted access. Guests can contact the property for details using the contact information on the booking confirmation. \u003C/li\u003E\u003Cli\u003EContactless check-out is available.\u003C/li\u003E\u003Cli\u003EThis property welcomes guests of all sexual orientations and gender identities (LGBTQ\u002B friendly).\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy British cuisine at Haxells Restaurant \u0026 Bar, a restaurant which features a bar/lounge, or stay in and take advantage of the room service (during limited hours). Full breakfasts are served on weekdays from 6:30 AM to 10:30 AM and on weekends from 6:30 AM to 11:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "372 The Strand",
+    "line2": "",
+    "city": "London",
+    "state": "",
+    "country": "UK - England",
+    "countryCode": "",
+    "postalCode": "WC2R 0JJ"
+  },
+  "geo": {
+    "latitude": 51.510844,
+    "longitude": -0.120851
+  },
+  "phone": "\u002B44 20 7379 4737",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/54310/54310_img_1.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_6.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_7.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_8.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_9.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_10.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_15.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_17.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_18.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_20.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_24.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_25.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_29.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_31.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_33.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_34.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_35.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/54310_img_39.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/54310/Main_54310.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "3126c956f53288aefddc50366e71500d2c77251d49aa988da35892a472d73c22",
+  "lastSyncedUtc": "2026-02-25T11:03:13.7007124Z"
+}

@@ -1,0 +1,139 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "83646",
+  "name": "Baiyoke Sky Hotel",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "Baiyoke Sky Hotel is in the heart of Bangkok, walking distance from Pratunam Market and Platinum Fashion Mall. This family-friendly hotel is within close proximity of Suan Pakkard Palace and Pantip Plaza. \u003Cbr/\u003E Distances are calculated in a straight line from the property\u0027s location to the point of interest or attraction, and may not reflect actual travel distance. \u003Cbr /\u003E\u003Cbr /\u003E Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cp\u003EPratunam Market - 0.4 km / 0.2 mi \u003Cbr /\u003EPlatinum Fashion Mall - 0.4 km / 0.3 mi \u003Cbr /\u003ESuan Pakkard Palace - 0.4 km / 0.3 mi \u003Cbr /\u003EPantip Plaza - 0.4 km / 0.3 mi \u003Cbr /\u003EGanesha Shrine - 0.7 km / 0.4 mi \u003Cbr /\u003ETrimurti Shrine - 0.7 km / 0.4 mi \u003Cbr /\u003ECentralWorld Shopping Complex - 0.9 km / 0.6 mi \u003Cbr /\u003EGaysorn Plaza - 1 km / 0.6 mi \u003Cbr /\u003ESiam Paragon Mall - 1 km / 0.6 mi \u003Cbr /\u003EErawan Mall - 1.1 km / 0.7 mi \u003Cbr /\u003EAmarin Plaza - 1.1 km / 0.7 mi \u003Cbr /\u003EErawan Shrine - 1.1 km / 0.7 mi \u003Cbr /\u003ESiam Ocean World - 1.1 km / 0.7 mi \u003Cbr /\u003EPolice General Hospital - 1.1 km / 0.7 mi \u003Cbr /\u003ECentral Chidlom Department Store - 1.2 km / 0.7 mi \u003Cbr /\u003E\u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EBangkok (DMK-Don Mueang Intl.) - 19.6 km / 12.2 mi\u003Cbr /\u003EBangkok (BKK-Suvarnabhumi Intl.) - 23.8 km / 14.8 mi\u003Cbr /\u003E\u003C/p\u003E\u003Cp\u003EThe preferred airport for Baiyoke Sky Hotel is Bangkok (BKK-Suvarnabhumi Intl.). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": " "
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": " "
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": " "
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "You must present a photo ID when checking in. Your credit card is charged at the time you book. Bed type and smoking preferences are not guaranteed.Your reservation is prepaid and is guaranteed for late arrival. The total charge includes all room charges and taxes, as well as fees for access and booking. Any incidental charges such as parking, phone calls, and room service will be handled directly between you and the property."
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": " "
+    }
+  ],
+  "address": {
+    "line1": "222 Ratchaprarop Rd.,",
+    "line2": "Ratchathewi",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": "10400"
+  },
+  "geo": {
+    "latitude": 13.754537,
+    "longitude": 100.540329
+  },
+  "phone": "\u002B66 2656 3000",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/83646/83646_img_8.jpg",
+      "caption": null,
+      "photoType": null,
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/83646/83646_img_9.jpg",
+      "caption": null,
+      "photoType": null,
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/83646/83646_img_7.jpg",
+      "caption": null,
+      "photoType": null,
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/83646/83646_img_10.jpg",
+      "caption": null,
+      "photoType": null,
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/83646/Main_83646.jpg",
+      "caption": null,
+      "photoType": null,
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/83646/Main_83646.jpg",
+      "caption": null,
+      "photoType": null,
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/83646/83646_img_5.jpg",
+      "caption": null,
+      "photoType": null,
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/83646/83646_img_4.jpg",
+      "caption": null,
+      "photoType": null,
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/83646/83646_img_2.jpg",
+      "caption": null,
+      "photoType": null,
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/83646/83646_img_6.jpg",
+      "caption": null,
+      "photoType": null,
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/83646/83646_img_3.jpg",
+      "caption": null,
+      "photoType": null,
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "cb97178c60dd35e0d663b7b65fac20dfcfbfb6c90ccb81496e25e31e147d4b5d",
+  "lastSyncedUtc": "2026-02-25T11:01:28.5197977Z"
+}

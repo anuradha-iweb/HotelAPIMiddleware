@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "1911366",
+  "name": "Maitria Hotel Sukhumvit 18 Bangkok- A Chatrium Collection",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "3191945"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Maitria Hotel Sukhumvit 18 Bangkok, you\u0027ll be centrally located in Bangkok, a 8-minute walk from Terminal 21 Shopping Mall and 10 minutes by foot from Benjakitti Park.  This upscale hotel is 0.9 mi (1.5 km) from EmQuartier and 1.2 mi (1.9 km) from Emporium."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 131 individually decorated guestrooms, featuring kitchenettes with full-sized refrigerators/freezers and stovetops. Your bed comes with down comforters and premium bedding. Wired and wireless internet access is complimentary, while 42-inch Smart televisions with satellite programming provide entertainment. Conveniences include phones, as well as laptop-compatible safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Enjoy recreational amenities such as a health club and an outdoor pool. Additional features at this hotel include complimentary wireless internet access, concierge services, and babysitting (surcharge).Featured amenities include limo/town car service, dry cleaning/laundry services, and a 24-hour front desk. A roundtrip airport shuttle is provided for a surcharge (available 24 hours), and free self parking is available onsite."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ETerminal 21 Shopping Mall - 0.7 km / 0.4 mi \u003Cbr /\u003E Soi Cowboy - 0.7 km / 0.5 mi \u003Cbr /\u003E Benjakitti Park - 0.9 km / 0.5 mi \u003Cbr /\u003E Benchasiri Park - 0.9 km / 0.6 mi \u003Cbr /\u003E EmQuartier - 1.1 km / 0.7 mi \u003Cbr /\u003E Emporium - 1.3 km / 0.8 mi \u003Cbr /\u003E Nana Square - 1.6 km / 1 mi \u003Cbr /\u003E Queen Sirikit National Convention Center - 1.8 km / 1.1 mi \u003Cbr /\u003E Bumrungrad Hospital - 2 km / 1.2 mi \u003Cbr /\u003E Stock Exchange of Thailand - 2.1 km / 1.3 mi \u003Cbr /\u003E Central Embassy - 2.3 km / 1.4 mi \u003Cbr /\u003E Embassy of Switzerland - 2.4 km / 1.5 mi \u003Cbr /\u003E Samitivej Sukhumvit Hospital - 2.6 km / 1.6 mi \u003Cbr /\u003E Central Chidlom Department Store - 2.7 km / 1.7 mi \u003Cbr /\u003E Embassy of the United States - 2.8 km / 1.7 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ESuvarnabhumi Intl. Airport (BKK) - 32.2 km / 20 mi\u003Cbr /\u003E Don Mueang Intl. Airport (DMK) - 25.1 km / 15.6 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Maitria Hotel Sukhumvit 18 Bangkok is Suvarnabhumi Intl. Airport (BKK). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": null
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Satisfy your appetite for lunch, dinner, or brunch at The Coffee Club, a restaurant which specializes in local and international cuisine, or stay in and take advantage of the room service (during limited hours). English breakfasts are available daily from 6 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "26 Sukhumvit Soi 18, Klong Toey",
+    "line2": "",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": "10110"
+  },
+  "geo": {
+    "latitude": 13.732969,
+    "longitude": 100.562604
+  },
+  "phone": "\u002B66 (0) 2302 5777",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_4.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_5.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_6.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_7.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_8.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_9.jpg",
+      "caption": "Point of interest",
+      "photoType": "100000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_10.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_13.jpg",
+      "caption": "Point of interest",
+      "photoType": "100000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_14.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_16.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_17.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_18.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_19.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_20.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_21.jpg",
+      "caption": "Point of interest",
+      "photoType": "100000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_23.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_24.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_26.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_27.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_30.jpg",
+      "caption": "Point of interest",
+      "photoType": "100000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_31.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_32.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_33.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_34.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_35.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_36.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_38.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/1911366_img_39.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1911366/Main_1911366.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "4c12ff96bd076d7e75a721fa65a69d4f70c889c3f006100c6b117684b1c6ca4e",
+  "lastSyncedUtc": "2026-02-25T11:01:41.5921884Z"
+}

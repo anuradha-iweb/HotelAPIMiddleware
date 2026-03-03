@@ -1,0 +1,333 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "531719",
+  "name": "JC Kevin Sathorn Bangkok Hotel (Formerly Anantara)",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "3347945"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "In the heart of Bangkok, JC Kevin Sathorn Bangkok Hotel is within a 5-minute drive of Lumphini Park and Siam Paragon Mall.  This spa hotel is 2.6 mi (4.2 km) from Siam Center and 2.9 mi (4.6 km) from ICONSIAM."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 310 guestrooms featuring minibars and LED televisions. Your pillowtop bed comes with down comforters and premium bedding. Rooms have private balconies. Complimentary wired and wireless internet access keeps you connected, and satellite programming provides entertainment. Bathrooms have complimentary toiletries and hair dryers."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Relax at the full-service spa, where you can enjoy massages, body treatments, and facials. You can take advantage of recreational amenities such as an outdoor pool, an outdoor tennis court, and a sauna. This hotel also features complimentary wireless internet access, concierge services, and wedding services."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EKing Power MahaNakhon - 1.2 km / 0.8 mi \u003Cbr /\u003E Silom Complex Shopping Mall - 1.9 km / 1.2 mi \u003Cbr /\u003E Thaniya Plaza - 2 km / 1.2 mi \u003Cbr /\u003E Lumphini Park - 2.3 km / 1.4 mi \u003Cbr /\u003E Samyan Mitrtown - 2.4 km / 1.5 mi \u003Cbr /\u003E Chulalongkorn Hospital - 2.5 km / 1.6 mi \u003Cbr /\u003E Chulalongkorn University - 2.7 km / 1.7 mi \u003Cbr /\u003E Central Rama 3 Mall - 2.8 km / 1.8 mi \u003Cbr /\u003E Chao Praya River - 3.2 km / 2 mi \u003Cbr /\u003E MBK Center - 3.7 km / 2.3 mi \u003Cbr /\u003E Embassy of the United States - 3.7 km / 2.3 mi \u003Cbr /\u003E Erawan Shrine - 4.1 km / 2.5 mi \u003Cbr /\u003E Yaowarat Road - 4.1 km / 2.6 mi \u003Cbr /\u003E Siam Center - 4.3 km / 2.6 mi \u003Cbr /\u003E CentralWorld Shopping Complex - 4.3 km / 2.7 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ESuvarnabhumi Intl. Airport (BKK) - 36.5 km / 22.7 mi\u003Cbr /\u003E Don Mueang Intl. Airport (DMK) - 28.7 km / 17.8 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and cash\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EReservations are required for massage services and spa treatments. Reservations can be made by contacting the hotel prior to arrival, using the contact information on the booking confirmation. \u003C/li\u003E \u003Cli\u003EOne child 3 years old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E  \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy international cuisine at ZOOM Sky Bar \u0026 Restaurant, one of the hotel\u0027s 4 restaurants, or stay in and take advantage of the 24-hour room service. Snacks are also available at the coffee shop/cafe. Relax with a refreshing drink from the poolside bar or one of the 3 bars/lounges. Buffet breakfasts are available daily from 6:00 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "36 Narathiwat Ratchanakarin Rd",
+    "line2": "Yan Nawa",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": "10120"
+  },
+  "geo": {
+    "latitude": 13.716047,
+    "longitude": 100.531684
+  },
+  "phone": "",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/531719/531719_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_4.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_5.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_6.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_7.jpg",
+      "caption": "Children\u0027s play area - indoor",
+      "photoType": "72003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_8.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_9.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_10.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_13.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_14.jpg",
+      "caption": "Children\u0027s play area - indoor",
+      "photoType": "72003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_15.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_16.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_17.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_19.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_20.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_24.jpg",
+      "caption": "Children\u0027s play area - indoor",
+      "photoType": "72003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_25.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_26.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_27.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_30.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_31.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_32.jpg",
+      "caption": "Children\u0027s play area - indoor",
+      "photoType": "72003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_34.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_36.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_37.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/531719_img_39.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/531719/Main_531719.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "65ad29f88ccb1d14212a0b53fde4c3c5964f225739021de2923b0f2aa7a878e4",
+  "lastSyncedUtc": "2026-02-25T11:01:36.9171797Z"
+}

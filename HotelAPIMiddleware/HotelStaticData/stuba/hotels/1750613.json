@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "1750613",
+  "name": "Signature Hotel Apartment \u0026 Spa Marina (Formerly Lotus)",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "2699605"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Signature Hotel Apartments \u0026 Spa in Dubai (Dubai Marina), you\u0027ll be within a 10-minute drive of Ibn Battuta Mall and The Walk.  This luxury aparthotel is 1.5 mi (2.4 km) from Marina Beach and 4.1 mi (6.7 km) from Dubai Marina Mall."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 95 air-conditioned rooms featuring kitchens with full-sized refrigerators/freezers and stovetops. Wired and wireless internet access is complimentary, while 32-inch LCD televisions with satellite programming provide entertainment. Conveniences include phones, as well as laptop-compatible safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take advantage of recreational opportunities offered, including a 24-hour health club, an outdoor pool, and a sauna. Additional features at this aparthotel include complimentary wireless internet access, concierge services, and shopping on site. Guests can catch a ride to nearby destinations on the area shuttle (surcharge)."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EThe Beach Mall - 1 km / 0.6 mi \u003Cbr /\u003E The Walk - 1.1 km / 0.7 mi \u003Cbr /\u003E Marina Beach - 1.3 km / 0.8 mi \u003Cbr /\u003E Dubai Marina Mall - 1.6 km / 1 mi \u003Cbr /\u003E Thrill Zone - 1.7 km / 1.1 mi \u003Cbr /\u003E Bluewaters Island - 2.2 km / 1.3 mi \u003Cbr /\u003E Ain Dubai - 2.4 km / 1.5 mi \u003Cbr /\u003E Mohammad Bin Ahmed Al Mulla Mosque - 2.6 km / 1.6 mi \u003Cbr /\u003E Caesars Forum - 2.6 km / 1.6 mi \u003Cbr /\u003E Skydive Dubai - 3.6 km / 2.2 mi \u003Cbr /\u003E American University of Dubai (AUD) - 3.9 km / 2.4 mi \u003Cbr /\u003E Ibn Battuta Mall - 4.8 km / 3 mi \u003Cbr /\u003E Dubai Harbour Viewpoint - 6.6 km / 4.1 mi \u003Cbr /\u003E Dubai College - 7.2 km / 4.5 mi \u003Cbr /\u003E Gurunanak Darbar Sikh Gurudwara - 7.4 km / 4.6 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EAl Maktoum Intl. Airport (DWC) - 36.3 km / 22.5 mi\u003Cbr /\u003E Dubai Intl. Airport (DXB) - 35.9 km / 22.3 mi\u003Cbr /\u003E Sharjah (SHJ-Sharjah Intl.) - 62.7 km / 39 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Signature Hotel Apartments \u0026 Spa is Dubai Intl. Airport (DXB). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003ENoise-free guestrooms cannot be guaranteed\u003C/li\u003E\u003Cli\u003EHost has not indicated whether there is a carbon monoxide detector on the property; consider bringing a portable detector with you on the trip\u003C/li\u003E\u003Cli\u003EHost has indicated there is a smoke detector on the property\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, and a first aid kit\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EReservations are required for massage services and spa treatments. Reservations can be made by contacting the aparthotel prior to arrival, using the contact information on the booking confirmation. \u003C/li\u003E \u003Cli\u003EOne child 5 years old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy international cuisine at Aura, a restaurant where you can take in the golf course view, or stay in and take advantage of the 24-hour room service. Buffet breakfasts are available daily from 7:30 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "Al Seba Street Marina Waterfront",
+    "line2": "Near Sheikh Zayed Road,P.O Box: 172747",
+    "city": "Dubai",
+    "state": "",
+    "country": "UAE",
+    "countryCode": "",
+    "postalCode": "376332"
+  },
+  "geo": {
+    "latitude": 25.068680704823,
+    "longitude": 55.131202340126
+  },
+  "phone": "971 4 440 2888",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_1.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_4.jpg",
+      "caption": "Private kitchenette",
+      "photoType": "22004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_5.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_6.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_7.jpg",
+      "caption": "Spa treatment",
+      "photoType": "52002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_8.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_9.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_10.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_11.jpg",
+      "caption": "Spa treatment",
+      "photoType": "52002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_12.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_13.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_15.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_16.jpg",
+      "caption": "Private kitchenette",
+      "photoType": "22004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_17.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_21.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_23.jpg",
+      "caption": "Private kitchenette",
+      "photoType": "22004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_24.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_25.jpg",
+      "caption": "Spa treatment",
+      "photoType": "52002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_26.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_27.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_28.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_30.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_33.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_34.jpg",
+      "caption": "Private kitchenette",
+      "photoType": "22004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_35.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_36.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_38.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/1750613_img_39.jpg",
+      "caption": "Spa treatment",
+      "photoType": "52002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1750613/Main_1750613.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "c311494547bfc158d82cf433e40e551ad815489715fc28485f9c51a7cb8ff962",
+  "lastSyncedUtc": "2026-02-25T11:02:29.8113859Z"
+}

@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "717073",
+  "name": "Dusit Suites Hotel Ratchadamri (Formerly Anantara Baan Rajprasong)",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "2543884"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "You\u0027ll be centrally located in Bangkok with a stay at Dusit Suites Hotel Ratchadamri, Bangkok, within a 15-minute walk of Erawan Shrine and CentralWorld Shopping Complex.  This family-friendly hotel is 1.1 mi (1.8 km) from Siam Paragon Mall and 1.4 mi (2.2 km) from Pratunam Market."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 97 air-conditioned rooms featuring kitchens with refrigerators and stovetops. Rooms have private balconies. Wired and wireless internet access is complimentary, while 32-inch LCD televisions with satellite programming provide entertainment. Bathrooms with separate bathtubs and showers feature deep soaking bathtubs and complimentary toiletries."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Enjoy a range of recreational amenities, including an outdoor pool, a sauna, and a fitness center. Additional amenities at this hotel include complimentary wireless internet access, concierge services, and babysitting."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EErawan Shrine - 0.9 km / 0.5 mi \u003Cbr /\u003E Chulalongkorn University - 0.9 km / 0.6 mi \u003Cbr /\u003E Embassy of the United States - 1 km / 0.6 mi \u003Cbr /\u003E Chulalongkorn Hospital - 1 km / 0.6 mi \u003Cbr /\u003E CentralWorld Shopping Complex - 1.1 km / 0.7 mi \u003Cbr /\u003E Lumphini Park - 1.2 km / 0.7 mi \u003Cbr /\u003E Siam Square - 1.6 km / 1 mi \u003Cbr /\u003E Siam Paragon Mall - 1.6 km / 1 mi \u003Cbr /\u003E Central Chidlom Department Store - 1.6 km / 1 mi \u003Cbr /\u003E Siam Center - 1.6 km / 1 mi \u003Cbr /\u003E Nana Square - 1.7 km / 1 mi \u003Cbr /\u003E Silom Complex Shopping Mall - 1.7 km / 1 mi \u003Cbr /\u003E Pratunam Market - 1.7 km / 1.1 mi \u003Cbr /\u003E Platinum Fashion Mall - 1.7 km / 1.1 mi \u003Cbr /\u003E Central Embassy - 1.8 km / 1.1 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDon Mueang Intl. Airport (DMK) - 24.3 km / 15.1 mi\u003Cbr /\u003E Suvarnabhumi Intl. Airport (BKK) - 31.4 km / 19.5 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Dusit Suites Hotel Ratchadamri, Bangkok is Suvarnabhumi Intl. Airport (BKK). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher and a first aid kit\u003C/li\u003E\u003Cli\u003EThis property affirms that it follows the cleaning and disinfection practices of Dusit Care (Dusit Hotels \u0026 Resorts)\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EPool access available from 7:00 AM to 8:00 PM.\u003C/li\u003E\u003Cli\u003EUp to 2 children 11 years old and younger stay free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Grab a bite from the snack bar/deli, or stay in and take advantage of the hotel\u0027s room service. Quench your thirst with your favorite drink at the bar/lounge. Continental breakfasts are available daily from 6:00 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "3 Soi Mahardlekluang 3\u00A0",
+    "line2": "Rajdamri Road\u00A0",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": ""
+  },
+  "geo": {
+    "latitude": 13.73864,
+    "longitude": 100.541235
+  },
+  "phone": "\u002B66 2 264 6464",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/717073/717073_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_3.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_4.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_5.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_6.jpg",
+      "caption": "Children\u0027s play area - outdoor",
+      "photoType": "72004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_7.jpg",
+      "caption": "Couples dining",
+      "photoType": "81010",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_8.jpg",
+      "caption": "Front of property - evening/night",
+      "photoType": "91003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_9.jpg",
+      "caption": "Sundeck",
+      "photoType": "91013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_10.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_11.jpg",
+      "caption": "Front of property - evening/night",
+      "photoType": "91003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_15.jpg",
+      "caption": "Children\u0027s play area - outdoor",
+      "photoType": "72004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_16.jpg",
+      "caption": "Couples dining",
+      "photoType": "81010",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_17.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_18.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_19.jpg",
+      "caption": "Sundeck",
+      "photoType": "91013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_20.jpg",
+      "caption": "Couples dining",
+      "photoType": "81010",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_21.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_23.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_24.jpg",
+      "caption": "Front of property - evening/night",
+      "photoType": "91003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_25.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_26.jpg",
+      "caption": "Children\u0027s play area - outdoor",
+      "photoType": "72004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_29.jpg",
+      "caption": "Sundeck",
+      "photoType": "91013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_30.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_31.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_33.jpg",
+      "caption": "Couples dining",
+      "photoType": "81010",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_34.jpg",
+      "caption": "Sundeck",
+      "photoType": "91013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_36.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_37.jpg",
+      "caption": "Front of property - evening/night",
+      "photoType": "91003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/717073_img_39.jpg",
+      "caption": "Children\u0027s play area - outdoor",
+      "photoType": "72004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/717073/Main_717073.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "621916ac1bcc4c993147b0c3f891678ae8bd59bd9448e78179e606ec8766d330",
+  "lastSyncedUtc": "2026-02-25T11:01:34.2315297Z"
+}

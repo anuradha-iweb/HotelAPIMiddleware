@@ -1,0 +1,347 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "271562",
+  "name": "Hotel 41",
+  "starRating": 5,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "Information about the surrounding area",
+      "text": "A stay at Hotel 41 places you in the heart of London, within a 10-minute walk of Buckingham Palace and St. James Park.  This luxury hotel is 0.6 mi (1 km) from Hyde Park and 0.8 mi (1.2 km) from Westminster Abbey."
+    },
+    {
+      "language": "en",
+      "type": "Details of room types available",
+      "text": "Make yourself at home in one of the 28 individually decorated guestrooms, featuring iPod docking stations and minibars. Plasma televisions with satellite programming provide entertainment, while complimentary wireless internet access keeps you connected. Private bathrooms have designer toiletries and hair dryers. Conveniences include phones, as well as safes and complimentary newspapers."
+    },
+    {
+      "language": "en",
+      "type": "Information about the hotel property",
+      "text": "Take advantage of recreation opportunities such as bicycles to rent, or other amenities including complimentary wireless internet access and concierge services. This hotel also features discounted use of a nearby fitness facility and a banquet hall."
+    },
+    {
+      "language": "en",
+      "type": "Activities available near the hotel",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EApollo Victoria Theatre - 0.4 km / 0.3 mi \u003Cbr /\u003E Victoria Station Travel Information Centre - 0.5 km / 0.3 mi \u003Cbr /\u003E Buckingham Palace - 0.5 km / 0.3 mi \u003Cbr /\u003E St. James Park - 0.5 km / 0.3 mi \u003Cbr /\u003E Green Park - 0.7 km / 0.4 mi \u003Cbr /\u003E Hyde Park Corner - 0.9 km / 0.6 mi \u003Cbr /\u003E Park Lane - 1 km / 0.6 mi \u003Cbr /\u003E Hyde Park - 1 km / 0.6 mi \u003Cbr /\u003E Piccadilly - 1.1 km / 0.7 mi \u003Cbr /\u003E Sloane Square - 1.2 km / 0.8 mi \u003Cbr /\u003E Westminster Abbey - 1.2 km / 0.8 mi \u003Cbr /\u003E Bond Street - 1.3 km / 0.8 mi \u003Cbr /\u003E Houses of Parliament - 1.4 km / 0.9 mi \u003Cbr /\u003E Big Ben - 1.5 km / 0.9 mi \u003Cbr /\u003E Harrods - 1.6 km / 1 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ELondon City Airport (LCY) - 17.4 km / 10.8 mi\u003Cbr /\u003E Heathrow Airport (LHR) - 26.1 km / 16.2 mi\u003Cbr /\u003E Gatwick Airport (LGW) - 65 km / 40.4 mi\u003Cbr /\u003E Luton Airport (LTN) - 53.9 km / 33.5 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Hotel 41 is Heathrow Airport (LHR). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "Hotel policies and disclaimer",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003EThis property reserves the right to pre-authorize the guest\u0027s credit card prior to arrival.\u003C/li\u003E\u003Cli\u003EThis property uses eco-friendly cleaning products\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EThis hotel will place an authorization prior to arrival for the total amount of the reservation for any bookings where payment for the stay will be made on site instead of at the time of booking.\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EGuests can arrange to bring pets by contacting the property directly, using the contact information on the booking confirmation (surcharges apply and can be found in the Fees section). \u003C/li\u003E  \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "Meals and restaurants at the hotel",
+      "text": "Enjoy Regional cuisine at Executive Lounge, a restaurant which features a bar/lounge, or stay in and take advantage of the 24-hour room service. English breakfasts are available daily from 6:30 AM to 11 AM for a fee."
+    },
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "899176"
+    }
+  ],
+  "address": {
+    "line1": "41 Buckingham Palace Road",
+    "line2": "",
+    "city": "London",
+    "state": "",
+    "country": "UK - England",
+    "countryCode": "",
+    "postalCode": "SW1W 0PS"
+  },
+  "geo": {
+    "latitude": 51.49823,
+    "longitude": -0.143536
+  },
+  "phone": "020 7300 0041",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/271562/Main_271562.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_1.jpg",
+      "caption": "Interior entrance",
+      "photoType": "10000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_6.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_7.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_8.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_9.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_13.jpg",
+      "caption": "Room service - dining",
+      "photoType": "22003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_14.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_15.jpg",
+      "caption": "Room amenity",
+      "photoType": "22009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_16.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_17.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_18.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_19.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_20.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_21.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_22.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_23.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_24.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_25.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_26.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_27.jpg",
+      "caption": "Couples dining",
+      "photoType": "81010",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_28.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_29.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_30.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_31.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_32.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_33.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_34.jpg",
+      "caption": "Lounge",
+      "photoType": "82001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_35.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_36.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_37.jpg",
+      "caption": "Executive lounge",
+      "photoType": "83013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_38.jpg",
+      "caption": "Executive lounge",
+      "photoType": "83013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271562/271562_img_39.jpg",
+      "caption": "Executive lounge",
+      "photoType": "83013",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "f0170ff175d8d9e750da2ee4aa8fd519e1cfd3675ebf65fc79eccd1dfb6ee32b",
+  "lastSyncedUtc": "2026-02-25T11:03:06.7069481Z"
+}

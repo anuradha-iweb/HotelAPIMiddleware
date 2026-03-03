@@ -1,0 +1,347 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "127100",
+  "name": "Cavalier Hotel South Beach",
+  "starRating": 3,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "Information about the surrounding area",
+      "text": "With a stay at Cavalier Hotel South Beach in Miami Beach (South Beach), you\u0027ll be steps from Ocean Drive and Collins Avenue Shopping Area.  This hotel is 0.1 mi (0.1 km) from Art Deco Historic District and 0.9 mi (1.5 km) from Miami Beach Convention Center."
+    },
+    {
+      "language": "en",
+      "type": "Details of room types available",
+      "text": "Make yourself at home in one of the 46 guestrooms featuring refrigerators and LCD televisions. Your bed comes with down comforters and Egyptian cotton sheets. Satellite television is provided for your entertainment. Private bathrooms with showers feature rainfall showerheads and complimentary toiletries."
+    },
+    {
+      "language": "en",
+      "type": "Information about the hotel property",
+      "text": "Take in the views from a terrace and make use of amenities such as concierge services and a banquet hall."
+    },
+    {
+      "language": "en",
+      "type": "Activities available near the hotel",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EArt Deco Historic District - 0.1 km / 0.1 mi \u003Cbr /\u003E Miami Beach Beaches - 0.1 km / 0.1 mi \u003Cbr /\u003E Ocean Drive - 0.1 km / 0.1 mi \u003Cbr /\u003E Lummus Park Beach - 0.1 km / 0.1 mi \u003Cbr /\u003E Collins Avenue Shopping Area - 0.2 km / 0.1 mi \u003Cbr /\u003E Espanola Way and Washington Avenue - 0.3 km / 0.2 mi \u003Cbr /\u003E Espa\u00F1ola Way - 0.4 km / 0.2 mi \u003Cbr /\u003E Art Deco Welcome Center - 0.5 km / 0.3 mi \u003Cbr /\u003E 8th Street Designer District - 0.8 km / 0.5 mi \u003Cbr /\u003E Colony Hotel - 0.8 km / 0.5 mi \u003Cbr /\u003E South Pointe Beach - 1.2 km / 0.7 mi \u003Cbr /\u003E Fillmore Miami Beach - 1.2 km / 0.8 mi \u003Cbr /\u003E Miami Beach Convention Center - 1.5 km / 0.9 mi \u003Cbr /\u003E Miami Beach Botanical Garden - 1.7 km / 1 mi \u003Cbr /\u003E Flamingo Park - 1.8 km / 1.1 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EMiami, FL (MPB-Public Seaplane Base) - 6.9 km / 4.3 mi\u003Cbr /\u003E Miami Intl. Airport (MIA) - 18 km / 11.2 mi\u003Cbr /\u003E Miami, FL (OPF-Opa Locka Executive) - 34.4 km / 21.4 mi\u003Cbr /\u003E Fort Lauderdale-Hollywood Intl. Airport (FLL) - 46.4 km / 28.8 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Cavalier Hotel South Beach is Miami Intl. Airport (MIA). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "Hotel policies and disclaimer",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EGuests must contact this property in advance to reserve cribs/infant beds\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003ESafety features at this property include a security system and window guards\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "Meals and restaurants at the hotel",
+      "text": "Enjoy a satisfying meal at Restaurant Cavalier serving guests of Cavalier Hotel South Beach. Quench your thirst with your favorite drink at the bar/lounge. A complimentary cooked-to-order breakfast is served daily from 8:00 AM to 10:30 AM."
+    },
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "13579"
+    }
+  ],
+  "address": {
+    "line1": "1320 Ocean Dr",
+    "line2": "",
+    "city": "Miami Beach",
+    "state": "FL",
+    "country": "USA",
+    "countryCode": "",
+    "postalCode": "33139"
+  },
+  "geo": {
+    "latitude": 25.784343,
+    "longitude": -80.130056
+  },
+  "phone": "305 673-1199",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/127100/Main_127100.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_1.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_2.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_3.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_4.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_5.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_6.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_7.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_8.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_9.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_10.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_11.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_12.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_13.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_14.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_15.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_16.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_17.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_24.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_31.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_33.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_34.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/127100/127100_img_39.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "ea54959de1c11330145b1cd9132b385f055592ff321d81573d8e991bd2071920",
+  "lastSyncedUtc": "2026-02-25T11:02:49.139868Z"
+}

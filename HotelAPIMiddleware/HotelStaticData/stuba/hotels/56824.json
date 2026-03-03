@@ -1,0 +1,347 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "56824",
+  "name": "Copthorne Tara Hotel London Kensington",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "26145"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "A stay at Copthorne Tara Hotel London Kensington places you in the heart of London, a 4-minute drive from Hyde Park and 8 minutes from Buckingham Palace.  This eco-certified hotel is 3.5 mi (5.6 km) from Piccadilly Circus and 3.5 mi (5.7 km) from Trafalgar Square."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 833 guestrooms featuring refrigerators and flat-screen televisions. Complimentary wired and wireless internet access keeps you connected, and satellite programming provides entertainment. Private bathrooms with shower/tub combinations feature complimentary toiletries and hair dryers. Conveniences include phones, as well as laptop-compatible safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take advantage of recreation opportunities such as a fitness center, or other amenities including complimentary wireless internet access and concierge services. This hotel also features gift shops/newsstands, wedding services, and a television in a common area."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EKensington High Street - 0.3 km / 0.2 mi \u003Cbr /\u003E Cromwell Road - 0.6 km / 0.3 mi \u003Cbr /\u003E Kensington Gardens - 0.8 km / 0.5 mi \u003Cbr /\u003E Kensington Palace - 1.2 km / 0.7 mi \u003Cbr /\u003E Imperial College London - 1.4 km / 0.9 mi \u003Cbr /\u003E Olympia Conference and Exhibition Centre - 1.5 km / 1 mi \u003Cbr /\u003E Royal Albert Hall - 1.5 km / 1 mi \u003Cbr /\u003E Hyde Park - 1.7 km / 1 mi \u003Cbr /\u003E Portobello Road Market - 1.7 km / 1.1 mi \u003Cbr /\u003E Natural History Museum - 1.7 km / 1.1 mi \u003Cbr /\u003E Queensway - 1.8 km / 1.1 mi \u003Cbr /\u003E Science Museum - 1.9 km / 1.2 mi \u003Cbr /\u003E Victoria and Albert Museum - 2.1 km / 1.3 mi \u003Cbr /\u003E Harrods - 2.7 km / 1.7 mi \u003Cbr /\u003E Westfield London Shopping Centre - 2.8 km / 1.8 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ELondon City Airport (LCY) - 19.7 km / 12.3 mi\u003Cbr /\u003E Heathrow Airport (LHR) - 22.6 km / 14 mi\u003Cbr /\u003E Gatwick Airport (LGW) - 90.3 km / 56.1 mi\u003Cbr /\u003E Luton Airport (LTN) - 52.7 km / 32.7 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Copthorne Tara Hotel London Kensington is Heathrow Airport (LHR). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and debit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003ECashless transactions are available\u003C/li\u003E\u003Cli\u003ESafety features at this property include a security system and window guards\u003C/li\u003E\u003Cli\u003EThis property affirms that it follows the cleaning and disinfection practices of We Clean. We Care. We Welcome. (Millennium)\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EChildren 5 years old and younger stay free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003ECashless payment methods are available for all transactions.\u003C/li\u003E\u003Cli\u003EContactless check-out is available.\u003C/li\u003E\u003Cli\u003EThis property welcomes guests of all sexual orientations and gender identities (LGBTQ\u002B friendly).\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy British cuisine at The Brasserie, one of the hotel\u0027s 2 restaurants, or stay in and take advantage of the 24-hour room service. Snacks are also available at the coffee shop/cafe. Quench your thirst with your favorite drink at the bar/lounge. Full breakfasts are available daily from 6:30 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "Scarsdale Place",
+    "line2": "Kensington",
+    "city": "London",
+    "state": "",
+    "country": "UK - England",
+    "countryCode": "",
+    "postalCode": "W8 5SY"
+  },
+  "geo": {
+    "latitude": 51.498523,
+    "longitude": -0.190889
+  },
+  "phone": "\u002B44 20 7937 7211",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/56824/Main_56824.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_5.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_6.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_7.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_8.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_9.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/Main_56824.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_12.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_14.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_15.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_17.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_19.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_20.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/Main_56824.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_23.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_24.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_27.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_29.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_31.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_32.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/Main_56824.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_34.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_35.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_38.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/56824/56824_img_39.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "aa2ae89758fbb07538a5764f89ef34b44202e94a1deeb6584662b9ca01e1d4b2",
+  "lastSyncedUtc": "2026-02-25T11:03:07.7442546Z"
+}

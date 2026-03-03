@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "81469",
+  "name": "Landmark Hotel",
+  "starRating": 3,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "897743"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Landmark Hotel in Dubai (Deira), you\u0027ll be within a 5-minute drive of Gold Souk and Al Ghurair Centre.  This hotel is 3.8 mi (6.1 km) from Dubai Creek and 4.6 mi (7.5 km) from Dubai Cruise Terminal."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 168 air-conditioned rooms featuring minibars. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Bathrooms feature shower/tub combinations, complimentary toiletries, and bathrobes. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Be sure to enjoy recreational amenities, including an outdoor pool, a sauna, and a fitness center. This hotel also features complimentary wireless internet access, concierge services, and a banquet hall."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ENaif Souq - 0.4 km / 0.3 mi \u003Cbr /\u003E Deira Twin Towers Shopping Centre - 0.5 km / 0.3 mi \u003Cbr /\u003E Spice Souk - 0.9 km / 0.6 mi \u003Cbr /\u003E Gold Souk - 1 km / 0.6 mi \u003Cbr /\u003E Deira Spice Souq - 1 km / 0.6 mi \u003Cbr /\u003E Fish Roundabout - 1.3 km / 0.8 mi \u003Cbr /\u003E Al Ghurair Centre - 1.5 km / 0.9 mi \u003Cbr /\u003E Reef Mall - 1.8 km / 1.1 mi \u003Cbr /\u003E Grand Mosque - 2 km / 1.3 mi \u003Cbr /\u003E Sheikh Saeed Al Maktoum House - 2.1 km / 1.3 mi \u003Cbr /\u003E The Dubai Heritage Village - 2.1 km / 1.3 mi \u003Cbr /\u003E Dubai Museum - 2.2 km / 1.4 mi \u003Cbr /\u003E Textile Souk - 2.2 km / 1.4 mi \u003Cbr /\u003E Meena Bazaar - 2.3 km / 1.4 mi \u003Cbr /\u003E Deira Clocktower - 3.3 km / 2.1 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDubai Intl. Airport (DXB) - 7.2 km / 4.5 mi\u003Cbr /\u003E Sharjah (SHJ-Sharjah Intl.) - 31.3 km / 19.5 mi\u003Cbr /\u003E Al Maktoum Intl. Airport (DWC) - 68.3 km / 42.4 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Landmark Hotel is Dubai Intl. Airport (DXB). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, and a first aid kit\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Grab a bite at THE PALMS, one of the hotel\u0027s 2 restaurants, or stay in and take advantage of the 24-hour room service. Continental breakfasts are available daily from 7:00 AM to 10:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "Baniyas Square, Deira",
+    "line2": "",
+    "city": "Dubai City",
+    "state": "",
+    "country": "UAE",
+    "countryCode": "",
+    "postalCode": ""
+  },
+  "geo": {
+    "latitude": 25.26939,
+    "longitude": 55.306919
+  },
+  "phone": "\u002B971 4 274 0111",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/81469/81469_img_1.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_5.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_6.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_7.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_8.jpg",
+      "caption": "Sauna",
+      "photoType": "51004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_9.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_10.jpg",
+      "caption": "Sauna",
+      "photoType": "51004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_12.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_13.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_16.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_18.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_19.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_20.jpg",
+      "caption": "Sauna",
+      "photoType": "51004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_22.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_25.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_26.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_28.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_29.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_30.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_31.jpg",
+      "caption": "Sauna",
+      "photoType": "51004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_33.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_34.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_37.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_38.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/81469_img_39.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81469/Main_81469.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "07118087c37ebebea5aeca406a976fb3dada3a92ef803ce6a8c30847922d631b",
+  "lastSyncedUtc": "2026-02-25T11:02:16.7965393Z"
+}

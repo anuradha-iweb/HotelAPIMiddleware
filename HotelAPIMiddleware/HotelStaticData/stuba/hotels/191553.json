@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "191553",
+  "name": "Palace Downtown",
+  "starRating": 5,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "1725259"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Palace Downtown, you\u0027ll be centrally located in Dubai, within a 10-minute walk of Dubai Mall and Dubai Fountain.  This family-friendly hotel is 1.3 mi (2.1 km) from Burj Khalifa and 4.4 mi (7.1 km) from Dubai International Convention and Exhibition Centre."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 242 guestrooms featuring minibars and LCD televisions. Rooms have private balconies. Complimentary wired and wireless internet access keeps you connected, and satellite programming provides entertainment. Private bathrooms with separate bathtubs and showers feature complimentary toiletries and bidets."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Relax at the full-service spa, where you can enjoy massages, body treatments, and facials. You\u0027re sure to appreciate the recreational amenities, including a health club, an outdoor pool, and a sauna. Additional amenities at this hotel include complimentary wireless internet access, concierge services, and gift shops/newsstands. Getting to nearby attractions is a breeze with the area shuttle (surcharge)."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ESouk al Bahar - 0.2 km / 0.1 mi \u003Cbr /\u003E Dubai Mall - 0.5 km / 0.3 mi \u003Cbr /\u003E KidZania - 0.8 km / 0.5 mi \u003Cbr /\u003E Dubai Fountain - 0.8 km / 0.5 mi \u003Cbr /\u003E Dubai Opera - 1.4 km / 0.8 mi \u003Cbr /\u003E Dubai Aquarium \u0026 Underwater Zoo - 1.4 km / 0.8 mi \u003Cbr /\u003E Dubai Water Canal - 1.4 km / 0.9 mi \u003Cbr /\u003E Burj Khalifa - 1.6 km / 1 mi \u003Cbr /\u003E Emaar Square - 1.8 km / 1.1 mi \u003Cbr /\u003E Coca-Cola Arena - 3 km / 1.9 mi \u003Cbr /\u003E City Walk - 3.3 km / 2 mi \u003Cbr /\u003E Dubai Water Canal Waterfall - 3.6 km / 2.2 mi \u003Cbr /\u003E Safa Park - 3.7 km / 2.3 mi \u003Cbr /\u003E Museum of the Future - 4.2 km / 2.6 mi \u003Cbr /\u003E Dubai World Trade Centre - 4.7 km / 2.9 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDubai Intl. Airport (DXB) - 15.4 km / 9.5 mi\u003Cbr /\u003E Sharjah (SHJ-Sharjah Intl.) - 40.1 km / 24.9 mi\u003Cbr /\u003E Al Maktoum Intl. Airport (DWC) - 52.3 km / 32.5 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Palace Downtown is Dubai Intl. Airport (DXB). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003EThis property reserves the right to pre-authorize the guest\u0027s credit card prior to arrival.\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, and a first aid kit\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EPool access available from 7:00 AM to 7:00 PM.\u003C/li\u003E \u003Cli\u003EOne child 4 years old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003EContactless check-in and contactless check-out are available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy a meal at the restaurant or snacks in the coffee shop/cafe. The hotel also offers 24-hour room service. Unwind at the end of the day with a drink at the bar/lounge or the poolside bar. Buffet breakfasts are available daily from 6:30 AM to 10:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "Mohammed Bin Rashid Boulevard",
+    "line2": "",
+    "city": "Dubai",
+    "state": "",
+    "country": "UAE",
+    "countryCode": "",
+    "postalCode": "9770"
+  },
+  "geo": {
+    "latitude": 25.1937,
+    "longitude": 55.27572
+  },
+  "phone": "\u002B971 4 428 7888",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/191553/191553_img_1.jpg",
+      "caption": "Lobby lounge",
+      "photoType": "10006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_5.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_6.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_7.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_8.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_9.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_11.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_12.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_13.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_15.jpg",
+      "caption": "Lobby lounge",
+      "photoType": "10006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_16.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_17.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_19.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_20.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_21.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_22.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_23.jpg",
+      "caption": "Lobby lounge",
+      "photoType": "10006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_24.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_28.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_30.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_31.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_32.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_33.jpg",
+      "caption": "Lobby lounge",
+      "photoType": "10006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_34.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/191553_img_39.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/191553/Main_191553.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "409a273686b683d6e8356b5bc146358df22507a17aaf1ecf87b34552ea609d5a",
+  "lastSyncedUtc": "2026-02-25T11:02:24.7042207Z"
+}

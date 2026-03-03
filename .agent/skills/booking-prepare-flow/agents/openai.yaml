@@ -1,0 +1,3 @@
+display_name: Booking Prepare Flow
+short_description: Implement and validate provider-specific prepare/prebook behavior.
+default_prompt: Work on booking prepare flow with strict provider validation and unified response/error mapping.

@@ -1,0 +1,319 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "57742",
+  "name": "The Biltmore Mayfair",
+  "starRating": 5,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "47581"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "Located in London (London City Centre), The Biltmore Mayfair is within a 10-minute walk of Hyde Park and Oxford Street.  This eco-certified hotel is 0.5 mi (0.8 km) from Marble Arch and 0.3 mi (0.5 km) from Park Lane."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 307 guestrooms featuring espresso makers and Smart televisions. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Bathrooms feature bathtubs or showers, designer toiletries, and hair dryers. Conveniences include safes and desks, and housekeeping is provided daily."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take advantage of recreation opportunities such as a 24-hour fitness center, or other amenities including complimentary wireless internet access and concierge services."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ESelfridges - 0.4 km / 0.3 mi \u003Cbr /\u003E Park Lane - 0.5 km / 0.3 mi \u003Cbr /\u003E Hyde Park - 0.6 km / 0.4 mi \u003Cbr /\u003E Bond Street - 0.7 km / 0.4 mi \u003Cbr /\u003E Oxford Street - 0.7 km / 0.5 mi \u003Cbr /\u003E Marble Arch - 0.8 km / 0.5 mi \u003Cbr /\u003E Baker Street - 0.9 km / 0.5 mi \u003Cbr /\u003E Regent Street - 0.9 km / 0.6 mi \u003Cbr /\u003E London Palladium Theatre - 0.9 km / 0.6 mi \u003Cbr /\u003E Piccadilly - 1 km / 0.6 mi \u003Cbr /\u003E Oxford Circus - 1 km / 0.6 mi \u003Cbr /\u003E Hyde Park Corner - 1.1 km / 0.7 mi \u003Cbr /\u003E Marylebone High Street - 1.1 km / 0.7 mi \u003Cbr /\u003E Green Park - 1.2 km / 0.7 mi \u003Cbr /\u003E Piccadilly Circus - 1.5 km / 0.9 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ELondon City Airport (LCY) - 19 km / 11.8 mi\u003Cbr /\u003E Heathrow Airport (LHR) - 26.6 km / 16.5 mi\u003Cbr /\u003E Gatwick Airport (LGW) - 67.3 km / 41.8 mi\u003Cbr /\u003E Luton Airport (LTN) - 53.6 km / 33.3 mi\u003Cbr /\u003E Stansted Airport (STN) - 67.2 km / 41.8 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EThe cost of an extra bed does not include breakfast.\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EChildren stay free when occupying the parent or guardian\u0027s room, using existing bedding.\u003C/li\u003E\u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003EContactless check-out is available.\u003C/li\u003E\u003Cli\u003EThis property welcomes guests of all sexual orientations and gender identities (LGBTQ\u002B friendly).\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy a meal at the restaurant, or stay in and take advantage of the hotel\u0027s 24-hour room service. Quench your thirst with your favorite drink at the bar/lounge. Full breakfasts are available daily from 7:00 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "44 Grosvenor Square",
+    "line2": "Mayfair",
+    "city": "London",
+    "state": "",
+    "country": "UK - England",
+    "countryCode": "",
+    "postalCode": "W1K 2HP"
+  },
+  "geo": {
+    "latitude": 51.51053,
+    "longitude": -0.150928
+  },
+  "phone": "44 20 7629 9400",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/57742/57742_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_4.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_5.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_6.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_7.jpg",
+      "caption": "Bathroom shower",
+      "photoType": "23004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_8.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_9.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_10.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_12.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_13.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_16.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_18.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_19.jpg",
+      "caption": "Bathroom shower",
+      "photoType": "23004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_22.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_23.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_24.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_26.jpg",
+      "caption": "Bathroom shower",
+      "photoType": "23004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_27.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_29.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_30.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_31.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_34.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_35.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_37.jpg",
+      "caption": "Bathroom shower",
+      "photoType": "23004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_38.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/57742_img_39.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57742/Main_57742.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "4117443c47831314c3ccf2215ab2ffc37461c5ee213d4700ade3eb813f53312e",
+  "lastSyncedUtc": "2026-02-25T11:03:03.0152165Z"
+}

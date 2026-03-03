@@ -1,0 +1,515 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "1337643",
+  "name": "Klas Hotel",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "3005776"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "Klas Hotel is centrally located in Istanbul, a 5-minute walk from Sehzade Mosque and 5 minutes by foot from Beyazit Bath.  This hotel is 0.8 mi (1.3 km) from Museum of Turkish Calligraphic Art and 2.9 mi (4.7 km) from Taksim Square."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 145 guestrooms featuring minibars and LCD televisions. Your Select Comfort bed comes with premium bedding. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms have complimentary toiletries and hair dryers."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take advantage of recreation opportunities including a seasonal outdoor pool and bicycles to rent. This hotel also features complimentary wireless internet access, concierge services, and shopping on site."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ESehzade Mosque - 0.4 km / 0.3 mi \u003Cbr /\u003E Beyazit Bath - 0.4 km / 0.3 mi \u003Cbr /\u003E Istanbul University - 0.5 km / 0.3 mi \u003Cbr /\u003E Museum of Turkish Calligraphic Art - 0.6 km / 0.3 mi \u003Cbr /\u003E Beyazit Square - 0.7 km / 0.4 mi \u003Cbr /\u003E S\u00FCleymaniye Mosque - 0.9 km / 0.5 mi \u003Cbr /\u003E Grand Bazaar - 0.9 km / 0.6 mi \u003Cbr /\u003E Fatih Mosque - 1.4 km / 0.8 mi \u003Cbr /\u003E Egyptian Bazaar - 1.5 km / 0.9 mi \u003Cbr /\u003E Golden Horn - 1.6 km / 1 mi \u003Cbr /\u003E Emin\u00F6n\u00FC Square - 1.6 km / 1 mi \u003Cbr /\u003E Turkish and Islamic Art Museum - 1.7 km / 1.1 mi \u003Cbr /\u003E Sultanahmet Square - 1.8 km / 1.1 mi \u003Cbr /\u003E Little Hagia Sophia - 1.8 km / 1.1 mi \u003Cbr /\u003E Basilica Cistern - 1.9 km / 1.2 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EIstanbul Sabiha Gokcen Intl. Airport (SAW) - 43.5 km / 27 mi\u003Cbr /\u003E Istanbul Airport (IST) - 45.5 km / 28.3 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Klas Hotel is Istanbul Airport (IST). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and cash\u003C/li\u003E\u003Cli\u003ECashless transactions are available\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EThe seasonal pool will be open from June to September. \u003C/li\u003E\u003Cli\u003EPool access available from 10:00 AM to 8:00 PM.\u003C/li\u003E \u003Cli\u003EOne child 6 years old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003ECashless payment methods are available for all transactions.\u003C/li\u003E\u003Cli\u003EContactless check-in and contactless check-out are available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Stop by the hotel\u0027s restaurant, Tulipa Restaurant, for lunch or dinner. Dining is also available at the coffee shop/cafe, and 24-hour room service is provided. Quench your thirst with your favorite drink at the bar/lounge. Continental breakfasts are available daily from 7:00 AM to 10:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "Harikzedeler Sok 48 Laleli",
+    "line2": "",
+    "city": "Istanbul",
+    "state": "",
+    "country": "Turkey",
+    "countryCode": "",
+    "postalCode": "34127"
+  },
+  "geo": {
+    "latitude": 41.01178,
+    "longitude": 28.958403
+  },
+  "phone": "02125117874",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/1337643/Main_1337643.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_5.jpg",
+      "caption": "Jetted tub",
+      "photoType": "23001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_6.jpg",
+      "caption": "Sauna",
+      "photoType": "51004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_7.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_8.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_9.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_10.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_11.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_15.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_16.jpg",
+      "caption": "Sauna",
+      "photoType": "51004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_17.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "22007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_19.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_21.jpg",
+      "caption": "Rooftop pool",
+      "photoType": "30013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_22.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_23.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_24.jpg",
+      "caption": "Coffee and/or coffee maker",
+      "photoType": "22023",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_26.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_29.jpg",
+      "caption": "Rooftop pool",
+      "photoType": "30013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_31.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_32.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_33.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_34.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_38.jpg",
+      "caption": "Rooftop pool",
+      "photoType": "30013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_39.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_40.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_41.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_42.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_43.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_44.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_45.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_46.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_47.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_48.jpg",
+      "caption": "Sauna",
+      "photoType": "51004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_49.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_50.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_51.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_52.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_53.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_54.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_55.jpg",
+      "caption": "Business center",
+      "photoType": "83010",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_56.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_57.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_58.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_59.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "91008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_60.jpg",
+      "caption": "Lounge",
+      "photoType": "82001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_61.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_62.jpg",
+      "caption": "Sundeck",
+      "photoType": "91013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1337643/1337643_img_63.jpg",
+      "caption": "Sundeck",
+      "photoType": "91013",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "26b6ec7c14ac65c588e317baa7efd5c88ff3661ffdc29d497e442bf647a67e7e",
+  "lastSyncedUtc": "2026-02-25T11:01:55.0146833Z"
+}
