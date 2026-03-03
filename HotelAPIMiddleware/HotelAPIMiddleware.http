@@ -4,3 +4,39 @@ GET {{HotelAPIMiddleware_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+POST {{HotelAPIMiddleware_HostAddress}}/api/hotel/booling-prep
+Content-Type: application/json
+
+{
+  "provider": "Stuba",
+  "data": {
+    "quoteId": "1090488596-0"
+  }
+}
+
+###
+
+POST {{HotelAPIMiddleware_HostAddress}}/api/hotel/booling-prep
+Content-Type: application/json
+
+{
+  "provider": "RateHawk",
+  "data": {
+    "hid": "13649126",
+    "checkIn": "2026-03-25",
+    "checkOut": "2026-03-26",
+    "residency": "ae",
+    "language": "en",
+    "currency": "USD",
+    "guests": [
+      {
+        "adults": 2,
+        "children": []
+      }
+    ],
+    "priceIncreasePercent": 20
+  }
+}
+
+###
