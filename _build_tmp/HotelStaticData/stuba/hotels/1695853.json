@@ -1,0 +1,200 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "1695853",
+  "name": "MD Hotel by Gewan",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "3806375"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "A stay at MD Hotel by Gewan places you in the heart of Dubai, within a 15-minute walk of Mall of the Emirates and Ski Dubai.  This family-friendly hotel is 3.8 mi (6.1 km) from Burj Al Arab and 5.4 mi (8.7 km) from Dubai Marina Mall."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 312 air-conditioned rooms featuring minibars. Complimentary wired and wireless internet access keeps you connected, and satellite programming provides entertainment. Private bathrooms with shower/tub combinations feature deep soaking bathtubs and complimentary toiletries. Conveniences include phones, as well as safes and coffee/tea makers."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Pamper yourself with a visit to the spa, which offers massages. You\u0027re sure to appreciate the recreational amenities, including a health club, an outdoor pool, and a spa tub. This hotel also features complimentary wireless internet access, concierge services, and a hair salon. Getting to the surf and sand is a breeze with the complimentary beach shuttle."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ESki Dubai - 1.1 km / 0.7 mi \u003Cbr /\u003E Mall of the Emirates - 1.1 km / 0.7 mi \u003Cbr /\u003E Al Barsha Pond Park - 1.5 km / 0.9 mi \u003Cbr /\u003E Souk Madinat Jumeirah - 3.7 km / 2.3 mi \u003Cbr /\u003E Jebel Ali Race Course - 3.8 km / 2.4 mi \u003Cbr /\u003E Wild Wadi Water Park - 4.3 km / 2.6 mi \u003Cbr /\u003E Al Sufouh Beach - 4.3 km / 2.7 mi \u003Cbr /\u003E Burj Al Arab - 4.4 km / 2.8 mi \u003Cbr /\u003E Palm Islands - 4.7 km / 2.9 mi \u003Cbr /\u003E Umm Suqeim Beach - 7.2 km / 4.4 mi \u003Cbr /\u003E Alserkal Avenue Arts District - 7.2 km / 4.5 mi \u003Cbr /\u003E Dubai Hills Mall - 7.5 km / 4.7 mi \u003Cbr /\u003E Kite Beach - 8.2 km / 5.1 mi \u003Cbr /\u003E Dubai Marina Mall - 8.7 km / 5.4 mi \u003Cbr /\u003E Circle Mall - 8.7 km / 5.4 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDubai Intl. Airport (DXB) - 26.5 km / 16.5 mi\u003Cbr /\u003E Al Maktoum Intl. Airport (DWC) - 47.3 km / 29.4 mi\u003Cbr /\u003E Sharjah (SHJ-Sharjah Intl.) - 52.8 km / 32.8 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, a first aid kit, and window guards\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy international cuisine at Emarati Restaurant, one of the hotel\u0027s 3 restaurants, or stay in and take advantage of the 24-hour room service. Snacks are also available at the coffee shop/cafe. Relax with a refreshing drink from the poolside bar or one of the 3 bars/lounges. Buffet breakfasts are available daily from 6:30 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "Street 38 Al Barsha-1,Near Mashreq Metro Station",
+    "line2": "Sheikh Zayed Rd",
+    "city": "Dubai",
+    "state": "",
+    "country": "UAE",
+    "countryCode": "",
+    "postalCode": ""
+  },
+  "geo": {
+    "latitude": 25.113528,
+    "longitude": 55.191354
+  },
+  "phone": "971-4-2049999",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_14.jpg",
+      "caption": "Children\u0027s play area - outdoor",
+      "photoType": "72004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_10.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_8.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_11.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_1.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/Main_1695853.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_16.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_17.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_18.jpg",
+      "caption": "Property entrance",
+      "photoType": "91002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_12.jpg",
+      "caption": "Rooftop pool",
+      "photoType": "30013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_2.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_9.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_15.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_13.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_6.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1695853/1695853_img_7.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "a434ebb1c301bdebc09aee1b68a5bb00b60c3e9f456d1d780f33c69fd936589a",
+  "lastSyncedUtc": "2026-02-25T11:02:17.986019Z"
+}

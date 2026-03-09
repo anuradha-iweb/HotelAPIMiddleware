@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "157354",
+  "name": "The Park City Grand Plaza Kensington",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "1348282"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "Located in London (London City Centre), The Park City Grand Plaza Kensington is within a 15-minute walk of Kensington High Street and Natural History Museum.  This hotel is 0.6 mi (0.9 km) from Kensington Gardens and 0.6 mi (0.9 km) from Imperial College London."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 76 air-conditioned rooms featuring refrigerators and minibars. Complimentary wired and wireless internet access keeps you connected, and satellite programming provides entertainment. Private bathrooms with shower/tub combinations feature complimentary toiletries and hair dryers. Conveniences include phones, as well as laptop-compatible safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take advantage of recreation opportunities such as a 24-hour fitness center or take in the view from a terrace and a garden. Additional features at this hotel include complimentary wireless internet access, concierge services, and a banquet hall."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ECromwell Road - 0.2 km / 0.1 mi \u003Cbr /\u003E Imperial College London - 0.9 km / 0.6 mi \u003Cbr /\u003E Kensington Gardens - 0.9 km / 0.6 mi \u003Cbr /\u003E Kensington High Street - 1 km / 0.6 mi \u003Cbr /\u003E Natural History Museum - 1.2 km / 0.7 mi \u003Cbr /\u003E Science Museum - 1.3 km / 0.8 mi \u003Cbr /\u003E Kensington Palace - 1.4 km / 0.8 mi \u003Cbr /\u003E Royal Albert Hall - 1.5 km / 0.9 mi \u003Cbr /\u003E Victoria and Albert Museum - 1.5 km / 0.9 mi \u003Cbr /\u003E Olympia Conference and Exhibition Centre - 1.6 km / 1 mi \u003Cbr /\u003E Hyde Park - 1.7 km / 1.1 mi \u003Cbr /\u003E Queensway - 2 km / 1.2 mi \u003Cbr /\u003E Harrods - 2.1 km / 1.3 mi \u003Cbr /\u003E Portobello Road Market - 2.2 km / 1.4 mi \u003Cbr /\u003E Thames River - 2.4 km / 1.5 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ELondon City Airport (LCY) - 20.9 km / 13 mi\u003Cbr /\u003E Heathrow Airport (LHR) - 22.3 km / 13.9 mi\u003Cbr /\u003E Gatwick Airport (LGW) - 90.1 km / 56 mi\u003Cbr /\u003E Luton Airport (LTN) - 74.5 km / 46.3 mi\u003Cbr /\u003E Stansted Airport (STN) - 121 km / 75.2 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and debit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, and a first aid kit\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EContactless check-in and contactless check-out are available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "At The Park City Grand Plaza Kensington, enjoy a satisfying meal at the restaurant. Continental breakfasts are served on weekdays from 7:00 AM to 11:00 AM and on weekends from 7:00 AM to 11:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "18-30 Lexham Gardens",
+    "line2": "",
+    "city": "London",
+    "state": "",
+    "country": "UK - England",
+    "countryCode": "",
+    "postalCode": "W8 5JE"
+  },
+  "geo": {
+    "latitude": 51.495672,
+    "longitude": -0.18934
+  },
+  "phone": "44 (0)20 7341 7090",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/157354/Main_157354.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_1.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_6.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_7.jpg",
+      "caption": "Karaoke room",
+      "photoType": "71005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_8.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_9.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_12.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_14.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_16.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_17.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_18.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_19.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_23.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_24.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_25.jpg",
+      "caption": "Business center",
+      "photoType": "83010",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_27.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_28.jpg",
+      "caption": "Garden",
+      "photoType": "91005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_29.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_30.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_31.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_32.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_33.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_34.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_35.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/157354/157354_img_36.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "1198204df6d9bb83463b83ec36e5fd10edcae07c717d8ed0ac6ab02ae281616c",
+  "lastSyncedUtc": "2026-02-25T11:03:16.6812892Z"
+}

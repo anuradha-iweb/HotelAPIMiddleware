@@ -37,6 +37,17 @@ public class BookingPrepareResponse
 
     /// <summary>Populated when Status != "ok".</summary>
     public string? Error { get; set; }
+
+    /// <summary>
+    /// Optional hotel summary hydrated from cache using cacheId/searchId/hotelId.
+    /// Useful to render booking-prep UI with address and basic metadata.
+    /// </summary>
+    public BookingPrepareHotelSummary? BasicHotelDetails { get; set; }
+
+    /// <summary>
+    /// Optional static-content summary extracted from cached hotel staticData.
+    /// </summary>
+    public BookingPrepareStaticSummary? BookingSummary { get; set; }
 }
 
 public class BookingPrepareHotelInfo
@@ -87,4 +98,38 @@ public class BookingPrepareTax
     public string Name { get; set; } = string.Empty;
     public string Amount { get; set; } = string.Empty;
     public string CurrencyCode { get; set; } = string.Empty;
+}
+
+public class BookingPrepareHotelSummary
+{
+    public string UniqueId { get; set; } = string.Empty;
+    public string HotelId { get; set; } = string.Empty;
+    public string ProviderHotelId { get; set; } = string.Empty;
+    public string Name { get; set; } = string.Empty;
+    public int StarRating { get; set; }
+    public Address Address { get; set; } = new();
+}
+
+public class BookingPrepareStaticSummary
+{
+    public string Overview { get; set; } = string.Empty;
+    public string AreaActivities { get; set; } = string.Empty;
+    public string Policies { get; set; } = string.Empty;
+    public string DiningFacilities { get; set; } = string.Empty;
+    public string CheckInTime { get; set; } = string.Empty;
+    public string CheckOutTime { get; set; } = string.Empty;
+    public string Phone { get; set; } = string.Empty;
+    public string Email { get; set; } = string.Empty;
+    public string Website { get; set; } = string.Empty;
+    public decimal Latitude { get; set; }
+    public decimal Longitude { get; set; }
+    public List<string> Facilities { get; set; } = new();
+    public List<BookingPrepareImage> Images { get; set; } = new();
+}
+
+public class BookingPrepareImage
+{
+    public string Url { get; set; } = string.Empty;
+    public string Caption { get; set; } = string.Empty;
+    public string PhotoType { get; set; } = string.Empty;
 }

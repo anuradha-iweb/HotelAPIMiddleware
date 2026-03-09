@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "121978",
+  "name": "President Hotel",
+  "starRating": 3,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "575859"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at President Hotel in Miami Beach (South Beach), you\u0027ll be steps from Collins Avenue Shopping Area and Ocean Drive.  This hotel is 0.8 mi (1.2 km) from Miami Beach Convention Center and 0.1 mi (0.1 km) from Art Deco Historic District."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 64 individually decorated guestrooms, featuring refrigerators and plasma televisions. Cable television is provided for your entertainment. Private bathrooms with showers feature rainfall showerheads and hair dryers. Conveniences include laptop-compatible safes and complimentary bottled water, as well as phones with free local calls."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take advantage of recreation opportunities such as an outdoor pool or take in the view from a terrace and a garden. Additional features at this hotel include concierge services and a picnic area."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EArt Deco Historic District - 0.1 km / 0.1 mi \u003Cbr /\u003E Espa\u00F1ola Way - 0.1 km / 0.1 mi \u003Cbr /\u003E Collins Avenue Shopping Area - 0.1 km / 0.1 mi \u003Cbr /\u003E Espanola Way and Washington Avenue - 0.1 km / 0.1 mi \u003Cbr /\u003E Ocean Drive - 0.2 km / 0.1 mi \u003Cbr /\u003E Miami Beach Beaches - 0.2 km / 0.1 mi \u003Cbr /\u003E Lummus Park Beach - 0.3 km / 0.2 mi \u003Cbr /\u003E Flamingo Park - 0.7 km / 0.4 mi \u003Cbr /\u003E Art Deco Welcome Center - 0.7 km / 0.5 mi \u003Cbr /\u003E 8th Street Designer District - 0.9 km / 0.5 mi \u003Cbr /\u003E Fillmore Miami Beach - 0.9 km / 0.6 mi \u003Cbr /\u003E Colony Hotel - 1.1 km / 0.7 mi \u003Cbr /\u003E Miami Beach Convention Center - 1.2 km / 0.8 mi \u003Cbr /\u003E Miami City Ballet - 1.4 km / 0.9 mi \u003Cbr /\u003E Miami Beach Botanical Garden - 1.4 km / 0.9 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EMiami, FL (MPB-Public Seaplane Base) - 7.1 km / 4.4 mi\u003Cbr /\u003E Miami Intl. Airport (MIA) - 17.9 km / 11.1 mi\u003Cbr /\u003E Miami, FL (OPF-Opa Locka Executive) - 34.6 km / 21.5 mi\u003Cbr /\u003E Fort Lauderdale-Hollywood Intl. Airport (FLL) - 46.1 km / 28.6 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for President Hotel is Miami Intl. Airport (MIA). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003ENoise-free guestrooms cannot be guaranteed\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher and window guards\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EChildren 12 years old and younger stay free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E  \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Quench your thirst with your favorite drink at the bar/lounge. A complimentary buffet breakfast is served daily from 7:30 AM to 10:30 AM."
+    }
+  ],
+  "address": {
+    "line1": "1423 Collins Ave",
+    "line2": "",
+    "city": "Miami Beach",
+    "state": "FL",
+    "country": "USA",
+    "countryCode": "",
+    "postalCode": "33139"
+  },
+  "geo": {
+    "latitude": 25.78604,
+    "longitude": -80.13067
+  },
+  "phone": "\u002B1 305 538 2882",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/121978/121978_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_6.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_7.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_8.jpg",
+      "caption": "Bathroom amenities",
+      "photoType": "23005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_9.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_14.jpg",
+      "caption": "Bathroom amenities",
+      "photoType": "23005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_17.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_19.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_24.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_28.jpg",
+      "caption": "Bathroom amenities",
+      "photoType": "23005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_29.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_30.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_31.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_33.jpg",
+      "caption": "Bathroom amenities",
+      "photoType": "23005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_34.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/121978_img_39.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121978/Main_121978.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "c93342c99baa7f4dcff0971b15af0a4712a1ff213744d08a4062b9db7ec4cab5",
+  "lastSyncedUtc": "2026-03-04T05:43:30.0298329Z"
+}

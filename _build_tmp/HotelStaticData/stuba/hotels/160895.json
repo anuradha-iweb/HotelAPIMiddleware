@@ -1,0 +1,347 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "160895",
+  "name": "Marenas Beach Resort",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "1182952"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "Located in Sunny Isles Beach, Marenas Beach Resort is on the Strip, a 4-minute drive from Aventura Mall and 7 minutes from Haulover Park.  This beach resort is 4.5 mi (7.3 km) from Bal Harbour Shops and 8.8 mi (14.2 km) from Hard Rock Stadium."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 186 air-conditioned guestrooms. Rooms have private furnished balconies. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Bathrooms feature shower/tub combinations, designer toiletries, and hair dryers."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take advantage of recreational opportunities offered, including an outdoor pool, a sauna, and a 24-hour fitness center. Additional features at this resort include concierge services, an arcade/game room, and wedding services."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ESunny Isles Beach Beach - 0.3 km / 0.2 mi \u003Cbr /\u003E Newport Fishing Pier - 2.3 km / 1.4 mi \u003Cbr /\u003E Oleta River State Park - 3.1 km / 1.9 mi \u003Cbr /\u003E Haulover Beach - 3.3 km / 2 mi \u003Cbr /\u003E Haulover Park - 3.4 km / 2.1 mi \u003Cbr /\u003E Hallandale Beach - 3.8 km / 2.4 mi \u003Cbr /\u003E Hollywood Beach - 4.6 km / 2.8 mi \u003Cbr /\u003E Haulover Park Marina - 5 km / 3.1 mi \u003Cbr /\u003E Aventura Mall - 2.7 km / 1.7 mi \u003Cbr /\u003E Aventura Hospital \u0026 Medical Center - 5.3 km / 3.3 mi \u003Cbr /\u003E Gulfstream Park Racing and Casino - 6 km / 3.8 mi \u003Cbr /\u003E Baker\u0027s Haulover Inlet - 6.1 km / 3.8 mi \u003Cbr /\u003E Bal Harbour Beach - 6.9 km / 4.3 mi \u003Cbr /\u003E North Broadwalk - 7.2 km / 4.5 mi \u003Cbr /\u003E Bal Harbour Shops - 7.3 km / 4.5 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EFort Lauderdale-Hollywood Intl. Airport (FLL) - 25.5 km / 15.8 mi\u003Cbr /\u003E Miami, FL (OPF-Opa Locka Executive) - 22.1 km / 13.8 mi\u003Cbr /\u003E Miami, FL (MPB-Public Seaplane Base) - 31.5 km / 19.5 mi\u003Cbr /\u003E Miami Intl. Airport (MIA) - 33.2 km / 20.6 mi\u003Cbr /\u003E Boca Raton, FL (BCT) - 54.7 km / 34 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Marenas Beach Resort is Miami Intl. Airport (MIA). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003ENoise-free guestrooms cannot be guaranteed\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EUp to 2 children 12 years old and younger stay free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EConstruction is underway at a neighboring building and there may be noise disturbance from the construction work. \u003C/li\u003E\u003Cli\u003EContactless check-out is available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy Latin American cuisine at Piacere Restaurant, a beachfront restaurant where you can enjoy drinks at the bar/lounge, take in the pool view, and even dine alfresco. You can also stay in and take advantage of the room service (during limited hours). Wrap up your day with a drink at the poolside bar. Cooked-to-order breakfasts are available daily from 7:00 AM to 11:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "18683 Collins Avenue",
+    "line2": "",
+    "city": "Sunny Isles Beach",
+    "state": "FL",
+    "country": "USA",
+    "countryCode": "",
+    "postalCode": "33160"
+  },
+  "geo": {
+    "latitude": 25.94916,
+    "longitude": -80.119899
+  },
+  "phone": "3055036000",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/160895/Main_160895.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_2.jpg",
+      "caption": "In-room dining",
+      "photoType": "22001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_3.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_4.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "22007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_5.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_6.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_7.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_8.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_9.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_11.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_12.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/Main_160895.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_14.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "22007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_15.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_16.jpg",
+      "caption": "In-room dining",
+      "photoType": "22001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_17.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_18.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_19.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_20.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "22007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_21.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_22.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_23.jpg",
+      "caption": "In-room dining",
+      "photoType": "22001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/Main_160895.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_25.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_26.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_27.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_29.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_30.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_31.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "22007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_32.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_33.jpg",
+      "caption": "In-room dining",
+      "photoType": "22001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_34.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/Main_160895.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_36.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_37.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160895/160895_img_39.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "a67dd34b1b966f71aa3c4c5c885c296f6cb2dc696eaeef52c3665fa62b9606d6",
+  "lastSyncedUtc": "2026-02-25T11:02:50.0518719Z"
+}

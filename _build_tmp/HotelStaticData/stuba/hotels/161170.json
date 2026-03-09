@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "161170",
+  "name": "Broadway Plaza Hotel",
+  "starRating": 3,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "532999"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Broadway Plaza Hotel, you\u0027ll be centrally located in New York, steps from 5th Avenue and 8 minutes by foot from Empire State Building.  This hotel is 0.5 mi (0.8 km) from Madison Square Garden and 0.8 mi (1.2 km) from Broadway."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 69 guestrooms featuring iPod docking stations and LED televisions. Your pillowtop bed comes with premium bedding. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms have designer toiletries and hair dryers."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Make use of convenient amenities such as complimentary wireless internet access, concierge services, and a television in a common area. This hotel also features discounted use of a nearby fitness facility and a vending machine."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003E5th Avenue - 0.1 km / 0.1 mi \u003Cbr /\u003E Madison Square Park - 0.2 km / 0.1 mi \u003Cbr /\u003E Flatiron Building - 0.4 km / 0.2 mi \u003Cbr /\u003E Herald Square - 0.7 km / 0.4 mi \u003Cbr /\u003E Empire State Building - 0.7 km / 0.4 mi \u003Cbr /\u003E Macy\u0027s - 0.7 km / 0.4 mi \u003Cbr /\u003E Madison Square Garden - 0.8 km / 0.5 mi \u003Cbr /\u003E Gramercy Park - 0.8 km / 0.5 mi \u003Cbr /\u003E Union Square Park - 0.9 km / 0.5 mi \u003Cbr /\u003E Chelsea Hotel - 0.9 km / 0.6 mi \u003Cbr /\u003E Broadway - 1.2 km / 0.8 mi \u003Cbr /\u003E Bryant Park - 1.3 km / 0.8 mi \u003Cbr /\u003E Times Square - 1.3 km / 0.8 mi \u003Cbr /\u003E New York Public Library - 1.4 km / 0.9 mi \u003Cbr /\u003E The High Line Park - 1.5 km / 1 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ELaGuardia Airport (LGA) - 15 km / 9.3 mi\u003Cbr /\u003E Teterboro, NJ (TEB) - 20.1 km / 12.5 mi\u003Cbr /\u003E Newark Liberty Intl. Airport (EWR) - 28.1 km / 17.5 mi\u003Cbr /\u003E John F. Kennedy Intl. Airport (JFK) - 28.2 km / 17.5 mi\u003Cbr /\u003E Linden, NJ (LDJ) - 37.9 km / 23.5 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Broadway Plaza Hotel is John F. Kennedy Intl. Airport (JFK). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003EThis property reserves the right to pre-authorize the guest\u0027s credit card prior to arrival.\u003C/li\u003E\u003Cli\u003ENoise-free guestrooms cannot be guaranteed\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, window guards, and outdoor lighting\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EThis hotel will place an authorization for the cost of the first night plus tax on guests\u0027 cards 48 hours in advance of arrival for any bookings where payment for the stay will be made onsite instead of at the time of booking.\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EUp to 2 children 12 years old and younger stay free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003EAlcohol is not served at this property. \u003C/li\u003E\u003Cli\u003EA car is not required for transportation to and from this property. \u003C/li\u003E\u003Cli\u003EParking height restrictions apply. \u003C/li\u003E\u003Cli\u003EThis property welcomes guests of all sexual orientations and gender identities (LGBTQ\u002B friendly).\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": null
+    }
+  ],
+  "address": {
+    "line1": "1155 Broadway",
+    "line2": "",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "countryCode": "",
+    "postalCode": "10001"
+  },
+  "geo": {
+    "latitude": 40.744507,
+    "longitude": -73.989091
+  },
+  "phone": "(646) 513-2497",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/161170/161170_img_1.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_6.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_7.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_8.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_9.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_12.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_13.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_14.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_17.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_22.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_24.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_25.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_31.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_32.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_33.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_36.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/161170_img_39.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/161170/Main_161170.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "15ab1c301734ee7295107f4472abc4462d0ec43cbe2aa2b9577f66721d9d4845",
+  "lastSyncedUtc": "2026-02-25T11:02:51.1324314Z"
+}

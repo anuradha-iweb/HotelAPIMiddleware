@@ -1,0 +1,151 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "76467",
+  "name": "Royal Falcon Hotel",
+  "starRating": 3,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "2696807"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "A stay at Royal Falcon Hotel places you in the heart of Dubai, just a 5-minute walk from Al Ghurair Centre and within a 5-minute drive of Gold Souk.  This hotel is 3.4 mi (5.5 km) from Dubai Creek and 5 mi (8.1 km) from Dubai Cruise Terminal."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 81 guestrooms featuring refrigerators and LED televisions. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms with showers feature complimentary toiletries and bidets. Conveniences include phones, as well as safes and minibars."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take advantage of recreation opportunities such as a nightclub, or other amenities including complimentary wireless internet access and concierge services. This hotel also features shopping on site, a television in a common area, and a banquet hall."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EReef Mall - 0.2 km / 0.2 mi \u003Cbr /\u003E Al Ghurair Centre - 0.4 km / 0.2 mi \u003Cbr /\u003E Fish Roundabout - 0.4 km / 0.3 mi \u003Cbr /\u003E Deira Twin Towers Shopping Centre - 1.6 km / 1 mi \u003Cbr /\u003E Naif Souq - 1.9 km / 1.2 mi \u003Cbr /\u003E Deira Clocktower - 2.2 km / 1.3 mi \u003Cbr /\u003E Spice Souk - 2.4 km / 1.5 mi \u003Cbr /\u003E Gold Souk - 2.6 km / 1.6 mi \u003Cbr /\u003E Deira Spice Souq - 2.8 km / 1.7 mi \u003Cbr /\u003E Dubai Creek - 3.1 km / 1.9 mi \u003Cbr /\u003E Dubai Museum - 3.2 km / 2 mi \u003Cbr /\u003E Creek Park - 3.2 km / 2 mi \u003Cbr /\u003E City Centre Deira - 3.2 km / 2 mi \u003Cbr /\u003E Textile Souk - 3.5 km / 2.2 mi \u003Cbr /\u003E Sheikh Saeed Al Maktoum House - 3.6 km / 2.2 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDubai Intl. Airport (DXB) - 6.3 km / 3.9 mi\u003Cbr /\u003E Sharjah (SHJ-Sharjah Intl.) - 27.9 km / 17.4 mi\u003Cbr /\u003E Al Maktoum Intl. Airport (DWC) - 67.6 km / 42 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Royal Falcon Hotel is Dubai Intl. Airport (DXB). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E  \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy a meal at the restaurant or snacks in the coffee shop/cafe. The hotel also offers 24-hour room service. Need to unwind? Take a break with a tasty beverage at one of the 2 bars/lounges. Buffet breakfasts are available daily from 7 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "Salahuddin Street, Deira, P.O. Box : 25871",
+    "line2": "",
+    "city": "Dubai",
+    "state": "",
+    "country": "UAE",
+    "countryCode": "",
+    "postalCode": ""
+  },
+  "geo": {
+    "latitude": 25.270568,
+    "longitude": 55.320074
+  },
+  "phone": "971-4-2732222",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/76467/112809996.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/76467/124384116.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/76467/335694116.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/76467/335695477.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/76467/72738200.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/76467/72738201.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/76467/72738273.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/76467/72738333.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/76467/72738592.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/76467/73144447.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/76467/73144473.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/76467/Main_76467.jpg",
+      "caption": "",
+      "photoType": "",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "e6f15ce1a1bd568f8c330d25c9c8389f99b9ff240a95bca412f95eabf81e0f00",
+  "lastSyncedUtc": "2026-02-25T11:02:26.4405129Z"
+}

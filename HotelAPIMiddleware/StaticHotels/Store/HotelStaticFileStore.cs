@@ -1,6 +1,7 @@
 using System.Text.Json;
 using HotelAPIMiddleware.Infrastructure.Configuration;
 using HotelAPIMiddleware.StaticHotels.Models;
+using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Options;
 
 namespace HotelAPIMiddleware.StaticHotels.Store;
@@ -25,6 +26,11 @@ public sealed class HotelStaticFileStore : IHotelStaticStore
 {
     private readonly string _rootPath;
     private readonly ILogger<HotelStaticFileStore> _logger;
+    private readonly IMemoryCache _cache;
+    private readonly SearchTuningOptions _searchTuning;
+    private static readonly object NotFoundSentinel = new();
+    private long _cacheHitCount;
+    private long _cacheMissCount;
 
     // One semaphore per provider to serialize index writes
     private static readonly System.Collections.Concurrent.ConcurrentDictionary<string, SemaphoreSlim>
@@ -43,7 +49,9 @@ public sealed class HotelStaticFileStore : IHotelStaticStore
 
     public HotelStaticFileStore(
         IOptions<StaticHotelOptions> opts,
+        IOptions<SearchTuningOptions> searchTuning,
         IWebHostEnvironment env,
+        IMemoryCache cache,
         ILogger<HotelStaticFileStore> logger)
     {
         // Resolve StoragePath relative to content root when it's not absolute
@@ -52,6 +60,8 @@ public sealed class HotelStaticFileStore : IHotelStaticStore
             ? storagePath
             : Path.Combine(env.ContentRootPath, storagePath);
 
+        _searchTuning = searchTuning.Value;
+        _cache = cache;
         _logger = logger;
     }
 
@@ -64,6 +74,10 @@ public sealed class HotelStaticFileStore : IHotelStaticStore
         Directory.CreateDirectory(dir);
 
         await AtomicWriteJsonAsync(filePath, profile, ct);
+        _cache.Set(
+            BuildCacheKey(profile.Provider, profile.ProviderHotelId),
+            profile,
+            TimeSpan.FromMinutes(Math.Max(1, _searchTuning.StaticCacheTtlMinutes)));
 
         _logger.LogDebug("Saved hotel {HotelId} → {File}",
             profile.ProviderHotelId, Path.GetRelativePath(_rootPath, filePath));
@@ -72,14 +86,68 @@ public sealed class HotelStaticFileStore : IHotelStaticStore
     public async Task<HotelStaticProfile?> GetHotelAsync(
         string provider, string hotelId, CancellationToken ct = default)
     {
+        var cacheKey = BuildCacheKey(provider, hotelId);
+        if (_cache.TryGetValue(cacheKey, out object? cachedValue))
+        {
+            Interlocked.Increment(ref _cacheHitCount);
+
+            if (ReferenceEquals(cachedValue, NotFoundSentinel))
+            {
+                _logger.LogDebug(
+                    "Static profile cache hit (negative) provider={Provider} hotelId={HotelId} hitCount={HitCount} missCount={MissCount}",
+                    provider,
+                    hotelId,
+                    _cacheHitCount,
+                    _cacheMissCount);
+                return null;
+            }
+
+            _logger.LogDebug(
+                "Static profile cache hit provider={Provider} hotelId={HotelId} hitCount={HitCount} missCount={MissCount}",
+                provider,
+                hotelId,
+                _cacheHitCount,
+                _cacheMissCount);
+            return cachedValue as HotelStaticProfile;
+        }
+
+        Interlocked.Increment(ref _cacheMissCount);
+        _logger.LogDebug(
+            "Static profile cache miss provider={Provider} hotelId={HotelId} hitCount={HitCount} missCount={MissCount}",
+            provider,
+            hotelId,
+            _cacheHitCount,
+            _cacheMissCount);
+
         var filePath = HotelFilePath(provider, hotelId);
         if (!File.Exists(filePath))
+        {
+            _cache.Set(
+                cacheKey,
+                NotFoundSentinel,
+                TimeSpan.FromMinutes(Math.Max(1, _searchTuning.StaticNegativeCacheTtlMinutes)));
             return null;
+        }
 
         try
         {
             var json = await File.ReadAllTextAsync(filePath, ct);
-            return JsonSerializer.Deserialize<HotelStaticProfile>(json, _readOpts);
+            var profile = JsonSerializer.Deserialize<HotelStaticProfile>(json, _readOpts);
+            if (profile is null)
+            {
+                _cache.Set(
+                    cacheKey,
+                    NotFoundSentinel,
+                    TimeSpan.FromMinutes(Math.Max(1, _searchTuning.StaticNegativeCacheTtlMinutes)));
+                return null;
+            }
+
+            _cache.Set(
+                cacheKey,
+                profile,
+                TimeSpan.FromMinutes(Math.Max(1, _searchTuning.StaticCacheTtlMinutes)));
+
+            return profile;
         }
         catch (Exception ex) when (ex is not OperationCanceledException)
         {
@@ -192,4 +260,7 @@ public sealed class HotelStaticFileStore : IHotelStaticStore
         var invalid = Path.GetInvalidFileNameChars();
         return string.Concat(hotelId.Select(c => invalid.Contains(c) ? '_' : c));
     }
+
+    private static string BuildCacheKey(string provider, string hotelId)
+        => $"static_profile:{provider}:{hotelId}".ToLowerInvariant();
 }

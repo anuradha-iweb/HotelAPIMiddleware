@@ -22,6 +22,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.Configure<ProviderOptions>(builder.Configuration.GetSection("Providers"));
 builder.Services.Configure<StaticHotelOptions>(builder.Configuration.GetSection("StaticHotels"));
+builder.Services.Configure<SearchTuningOptions>(builder.Configuration.GetSection("SearchTuning"));
 
 // ── Named HTTP clients ────────────────────────────────────────────────────────
 
@@ -66,6 +67,7 @@ builder.Services.AddScoped<IHotelProvider, StubaHotelProvider>();
 builder.Services.AddScoped<HotelSearchAggregator>();
 builder.Services.AddScoped<HotelDetailsService>();
 builder.Services.AddScoped<BookingPrepareService>();
+builder.Services.AddScoped<BookingConfirmService>();
 
 // ── Static hotel feature ───────────────────────────────────────────────────────
 

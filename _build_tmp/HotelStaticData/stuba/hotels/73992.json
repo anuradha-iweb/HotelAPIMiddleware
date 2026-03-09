@@ -1,0 +1,319 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "73992",
+  "name": "Orient Express Hotel",
+  "starRating": 3,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "479525"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Orient Express \u0026 Spa by Orka Hotels, you\u0027ll be centrally located in Istanbul, a 8-minute walk from Egyptian Bazaar and 10 minutes by foot from Hagia Sophia.  This family-friendly hotel is 0.6 mi (1 km) from Grand Bazaar and 0.7 mi (1.2 km) from Sultanahmet Square."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 52 air-conditioned rooms featuring refrigerators and LCD televisions. Your bed comes with down comforters and Egyptian cotton sheets. Complimentary wired and wireless internet access keeps you connected, and satellite programming provides entertainment. Private bathrooms with showers feature complimentary toiletries and bidets."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Treat yourself with massages, body treatments, and facials. If you\u0027re looking for recreational opportunities, you\u0027ll find an outdoor pool, an indoor pool, and a sauna. This hotel also features complimentary wireless internet access, concierge services, and babysitting (surcharge)."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EG\u00FClhane Park - 0.3 km / 0.2 mi \u003Cbr /\u003E Istanbul Archaeology Museums - 0.5 km / 0.3 mi \u003Cbr /\u003E Eminonu Pier - 0.6 km / 0.4 mi \u003Cbr /\u003E Bosphorus - 0.6 km / 0.4 mi \u003Cbr /\u003E Egyptian Bazaar - 0.6 km / 0.4 mi \u003Cbr /\u003E Emin\u00F6n\u00FC Square - 0.7 km / 0.4 mi \u003Cbr /\u003E Basilica Cistern - 0.7 km / 0.4 mi \u003Cbr /\u003E Hagia Sophia - 0.8 km / 0.5 mi \u003Cbr /\u003E Sultanahmet Square - 0.9 km / 0.5 mi \u003Cbr /\u003E Grand Bazaar - 1 km / 0.6 mi \u003Cbr /\u003E Column of Constantine - 1 km / 0.6 mi \u003Cbr /\u003E Topkapi Palace - 1 km / 0.6 mi \u003Cbr /\u003E Turkish and Islamic Art Museum - 1.1 km / 0.7 mi \u003Cbr /\u003E Istanbul University - 1.2 km / 0.8 mi \u003Cbr /\u003E S\u00FCleymaniye Mosque - 1.3 km / 0.8 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EIstanbul Sabiha Gokcen Intl. Airport (SAW) - 47.4 km / 29.5 mi\u003Cbr /\u003E Istanbul Airport (IST) - 41.2 km / 25.6 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Orient Express \u0026 Spa by Orka Hotels is Istanbul Sabiha Gokcen Intl. Airport (SAW). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003ENoise-free guestrooms cannot be guaranteed\u003C/li\u003E\u003Cli\u003ESafety features at this property include window guards\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EPool access available from 9:00 AM to 9:00 PM.\u003C/li\u003E\u003Cli\u003EReservations are required for massage services and spa treatments. Reservations can be made by contacting the hotel prior to arrival, using the contact information on the booking confirmation. \u003C/li\u003E \u003Cli\u003EOne child 6 years old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy a meal at the restaurant, or stay in and take advantage of the hotel\u0027s room service (during limited hours). Mingle with other guests at the complimentary reception, held daily. Relax with your favorite drink at the bar/lounge or the poolside bar."
+    }
+  ],
+  "address": {
+    "line1": "Hudavendigar Street No: 24",
+    "line2": "",
+    "city": "Istanbul",
+    "state": "",
+    "country": "Turkey",
+    "countryCode": "",
+    "postalCode": "34120"
+  },
+  "geo": {
+    "latitude": 41.013279,
+    "longitude": 28.977549
+  },
+  "phone": "\u002B90 212 520 71 61",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/73992/73992_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_5.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_6.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_7.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_8.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_9.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_11.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_13.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_15.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_16.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_17.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_18.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_22.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_23.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_24.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_26.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_27.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_30.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_31.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_32.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_34.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_36.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/73992_img_38.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/73992/Main_73992.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "0cbf32e182e29a78c759e210b49aa61cbb22860921761740a44d121e2cb0dc75",
+  "lastSyncedUtc": "2026-02-25T11:01:59.6645126Z"
+}

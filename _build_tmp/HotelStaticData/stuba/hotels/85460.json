@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "85460",
+  "name": "Asia Hotel Bangkok",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "898972"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Asia Hotel Bangkok, you\u0027ll be centrally located in Bangkok, steps from Queen Savang Vadhana Museum and within a 5-minute walk of Saphan Huachang Pier.  This hotel is 0.6 mi (0.9 km) from Siam Discovery Centre and 0.6 mi (0.9 km) from Bangkok Art \u0026 Culture Centre."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 601 air-conditioned rooms featuring refrigerators and flat-screen televisions. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Bathrooms with shower/tub combinations feature deep soaking bathtubs and complimentary toiletries. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take advantage of recreational opportunities offered, including an outdoor pool, an outdoor tennis court, and a fitness center. Additional amenities at this hotel include complimentary wireless internet access, concierge services, and babysitting (surcharge)."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EQueen Savang Vadhana Museum - 0.2 km / 0.1 mi \u003Cbr /\u003E Saphan Huachang Pier - 0.3 km / 0.2 mi \u003Cbr /\u003E Siam Discovery Centre - 0.5 km / 0.3 mi \u003Cbr /\u003E Jim Thompson House Museum - 0.6 km / 0.4 mi \u003Cbr /\u003E Jim Thompson Art Center - 0.6 km / 0.4 mi \u003Cbr /\u003E Siam Center - 0.6 km / 0.4 mi \u003Cbr /\u003E Chulalongkorn University - 0.9 km / 0.5 mi \u003Cbr /\u003E MBK Center - 0.9 km / 0.5 mi \u003Cbr /\u003E Siam Paragon Mall - 1 km / 0.6 mi \u003Cbr /\u003E Siam Square - 1.1 km / 0.7 mi \u003Cbr /\u003E Bangkok Art \u0026 Culture Centre - 1.1 km / 0.7 mi \u003Cbr /\u003E Madam Tussaud\u2019s - 1.2 km / 0.7 mi \u003Cbr /\u003E Pratunam Market - 1.2 km / 0.7 mi \u003Cbr /\u003E Platinum Fashion Mall - 1.2 km / 0.7 mi \u003Cbr /\u003E Baiyoke Tower II - 1.5 km / 0.9 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDon Mueang Intl. Airport (DMK) - 23.6 km / 14.6 mi\u003Cbr /\u003E Suvarnabhumi Intl. Airport (BKK) - 30.7 km / 19.1 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Asia Hotel Bangkok is Suvarnabhumi Intl. Airport (BKK). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EGuests must contact this property in advance to reserve rollaway/extra beds\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Satisfy your appetite for lunch or dinner at the hotel\u0027s restaurant, The Buffet, or stay in and take advantage of the 24-hour room service. Wrap up your day with a drink at the poolside bar. Buffet breakfasts are available daily from 6:00 AM to 10:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "296 Phayathai Road",
+    "line2": "",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": "10400"
+  },
+  "geo": {
+    "latitude": 13.751371,
+    "longitude": 100.531142
+  },
+  "phone": "66-2-2170808",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/85460/85460_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_3.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_4.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_5.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_6.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_7.jpg",
+      "caption": "Billiards",
+      "photoType": "71006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_8.jpg",
+      "caption": "Poolside bar",
+      "photoType": "82003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_9.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_10.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_12.jpg",
+      "caption": "Billiards",
+      "photoType": "71006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_14.jpg",
+      "caption": "Poolside bar",
+      "photoType": "82003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_16.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_17.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_18.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_19.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_21.jpg",
+      "caption": "Billiards",
+      "photoType": "71006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_23.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_24.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_25.jpg",
+      "caption": "Poolside bar",
+      "photoType": "82003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_26.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_28.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_29.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_31.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_33.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_34.jpg",
+      "caption": "Billiards",
+      "photoType": "71006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_35.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_36.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_37.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_38.jpg",
+      "caption": "Poolside bar",
+      "photoType": "82003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/85460_img_39.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/85460/Main_85460.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "111ef2a47735ec0d831aea6bc872b41ad0b95d83c06a3fa996e9db7a786e67d0",
+  "lastSyncedUtc": "2026-02-25T11:01:40.4635782Z"
+}

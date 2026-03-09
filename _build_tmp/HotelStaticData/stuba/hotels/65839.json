@@ -1,0 +1,851 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "65839",
+  "name": "Amari Bangkok (Formerly Amari Watergate)",
+  "starRating": 5,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "527254"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "A stay at Amari Bangkok places you in the heart of Bangkok, steps from Pratunam Market and Platinum Fashion Mall.  This family-friendly hotel is 0.5 mi (0.8 km) from Erawan Shrine and 0.6 mi (1 km) from CentralWorld Shopping Complex."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 564 air-conditioned rooms featuring refrigerators and flat-screen televisions. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Bathrooms have complimentary toiletries and bidets. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Relax at the full-service spa, where you can enjoy massages, body treatments, and facials. You\u0027re sure to appreciate the recreational amenities, including an outdoor pool, a sauna, and a fitness center. This hotel also features complimentary wireless internet access, concierge services, and babysitting (surcharge)."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EPratunam Market - 0.1 km / 0.1 mi \u003Cbr /\u003E Platinum Fashion Mall - 0.1 km / 0.1 mi \u003Cbr /\u003E Baiyoke Tower II - 0.5 km / 0.3 mi \u003Cbr /\u003E Erawan Shrine - 0.8 km / 0.5 mi \u003Cbr /\u003E CentralWorld Shopping Complex - 1 km / 0.6 mi \u003Cbr /\u003E Central Chidlom Department Store - 1.2 km / 0.7 mi \u003Cbr /\u003E Siam Square - 1.3 km / 0.8 mi \u003Cbr /\u003E Siam Paragon Mall - 1.4 km / 0.8 mi \u003Cbr /\u003E Central Embassy - 1.5 km / 0.9 mi \u003Cbr /\u003E Chulalongkorn University - 1.5 km / 0.9 mi \u003Cbr /\u003E Siam Center - 1.6 km / 1 mi \u003Cbr /\u003E Jim Thompson House Museum - 1.7 km / 1.1 mi \u003Cbr /\u003E MBK Center - 1.9 km / 1.2 mi \u003Cbr /\u003E Victory Monument - 2 km / 1.3 mi \u003Cbr /\u003E Bumrungrad Hospital - 2.2 km / 1.4 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDon Mueang Intl. Airport (DMK) - 22.7 km / 14.1 mi\u003Cbr /\u003E Suvarnabhumi Intl. Airport (BKK) - 29.7 km / 18.5 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, mobile payments, and cash\u003C/li\u003E\u003Cli\u003EMobile payment options include: Alipay and WeChat Pay\u003C/li\u003E\u003Cli\u003EThis property reserves the right to pre-authorize the guest\u0027s credit card prior to arrival.\u003C/li\u003E\u003Cli\u003EThis property affirms that it follows the cleaning and disinfection practices of Onyx Clean (Onyx Hotels)\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EThis property will place an authorization for one night at time of booking for any reservations where payment for the stay will be made on site.\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EReservations are required for spa treatments. Reservations can be made by contacting the hotel prior to arrival, using the contact information on the booking confirmation. \u003C/li\u003E \u003Cli\u003EOne child 11 years old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003EParking height restrictions apply. \u003C/li\u003E\u003Cli\u003EContactless check-out is available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy international cuisine at Amaya Food Gallery, one of the hotel\u0027s 4 restaurants, or stay in and take advantage of the 24-hour room service. Relax with a refreshing drink from the poolside bar or one of the 2 bars/lounges. Buffet breakfasts are available daily from 6:00 AM to 10:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "847 Petchburi Road",
+    "line2": "",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": "10400"
+  },
+  "geo": {
+    "latitude": 13.75134,
+    "longitude": 100.5402
+  },
+  "phone": "",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/65839/Main_65839.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_3.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_4.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_5.jpg",
+      "caption": "Jetted tub",
+      "photoType": "23001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_6.jpg",
+      "caption": "Treatment room",
+      "photoType": "51008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_7.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_8.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_9.jpg",
+      "caption": "Shopping mall",
+      "photoType": "85011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_10.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_11.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_12.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_13.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_15.jpg",
+      "caption": "Garden",
+      "photoType": "91005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_16.jpg",
+      "caption": "Interior entrance",
+      "photoType": "10000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_17.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_18.jpg",
+      "caption": "Sports facility",
+      "photoType": "60000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_20.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_21.jpg",
+      "caption": "View from property",
+      "photoType": "92002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_22.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_23.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_24.jpg",
+      "caption": "Bathroom shower",
+      "photoType": "23004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_25.jpg",
+      "caption": "Game room",
+      "photoType": "71003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_27.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_29.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_31.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_32.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_33.jpg",
+      "caption": "Cleanliness standards",
+      "photoType": "93001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_34.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_37.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_38.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_39.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_40.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_41.jpg",
+      "caption": "Room amenity",
+      "photoType": "22009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_42.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_43.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_44.jpg",
+      "caption": "Cleanliness standards",
+      "photoType": "93001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_45.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_46.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_47.jpg",
+      "caption": "Interior detail",
+      "photoType": "83011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_48.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_49.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_50.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_51.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_52.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_53.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_54.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_55.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_56.jpg",
+      "caption": "Cleanliness standards",
+      "photoType": "93001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_57.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_58.jpg",
+      "caption": "Executive lounge",
+      "photoType": "83013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_59.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_60.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_61.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_62.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_63.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_64.jpg",
+      "caption": "Executive lounge",
+      "photoType": "83013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_65.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_66.jpg",
+      "caption": "Cleanliness standards",
+      "photoType": "93001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_67.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_68.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_69.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_70.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_71.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_72.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_73.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_74.jpg",
+      "caption": "Executive lounge",
+      "photoType": "83013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_75.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_76.jpg",
+      "caption": "Cleanliness standards",
+      "photoType": "93001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_77.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_78.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_79.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_80.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_81.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_82.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_83.jpg",
+      "caption": "Executive lounge",
+      "photoType": "83013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_84.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_85.jpg",
+      "caption": "Cleanliness standards",
+      "photoType": "93001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_86.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_87.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_88.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_89.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_90.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_91.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_92.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_93.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_94.jpg",
+      "caption": "Executive lounge",
+      "photoType": "83013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_95.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_96.jpg",
+      "caption": "Cleanliness standards",
+      "photoType": "93001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_97.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_98.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_99.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_100.jpg",
+      "caption": "Spa reception",
+      "photoType": "51007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_101.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_102.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_103.jpg",
+      "caption": "Cleanliness standards",
+      "photoType": "93001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_104.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_105.jpg",
+      "caption": "Executive lounge",
+      "photoType": "83013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_106.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_107.jpg",
+      "caption": "Cleanliness standards",
+      "photoType": "93001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_108.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_109.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_110.jpg",
+      "caption": "Shopping mall",
+      "photoType": "85011",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/65839/65839_img_111.jpg",
+      "caption": "Cleanliness standards",
+      "photoType": "93001",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "14ccb109086987db0650ea55861bc53a993763e31807e8ac319123c8c6ee3bec",
+  "lastSyncedUtc": "2026-02-25T11:01:30.1675448Z"
+}

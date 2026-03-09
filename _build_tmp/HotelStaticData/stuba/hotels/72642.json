@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "72642",
+  "name": "Centara Grand at Central Plaza Ladprao Bangkok",
+  "starRating": 5,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "19164"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "Located in Bangkok (Chatuchak), Centara Grand at Central Plaza Ladprao Bangkok is within a 5-minute walk of Central Plaza Ladprao Mall and within a 5-minute drive of Chatuchak Weekend Market.  This spa hotel is 7.1 mi (11.4 km) from Siam Center and 7.3 mi (11.8 km) from Lumphini Park."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 565 air-conditioned rooms featuring minibars and LCD televisions. Complimentary wired and wireless internet access keeps you connected, and satellite programming provides entertainment. Private bathrooms have complimentary toiletries and bidets. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Relax at the full-service spa, where you can enjoy massages, body treatments, and facials. You\u0027re sure to appreciate the recreational amenities, including an outdoor pool, a sauna, and a fitness center. Additional amenities at this hotel include complimentary wireless internet access, concierge services, and gift shops/newsstands."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ECentral Plaza Ladprao Mall - 0.3 km / 0.2 mi \u003Cbr /\u003E Union Mall - 1.4 km / 0.9 mi \u003Cbr /\u003E Chatuchak Weekend Market - 2.7 km / 1.7 mi \u003Cbr /\u003E Kasetsart University - 3.6 km / 2.2 mi \u003Cbr /\u003E The Mall Ngamwongwan - 7.7 km / 4.8 mi \u003Cbr /\u003E Chao Praya River - 7.9 km / 4.9 mi \u003Cbr /\u003E The One Ratchada - 8 km / 4.9 mi \u003Cbr /\u003E Victory Monument - 8 km / 5 mi \u003Cbr /\u003E Thailand Cultural Centre - 8.2 km / 5.1 mi \u003Cbr /\u003E Ramathibodi Hospital - 8.5 km / 5.3 mi \u003Cbr /\u003E Baiyoke Tower II - 8.6 km / 5.4 mi \u003Cbr /\u003E Central Ramintra - 8.8 km / 5.4 mi \u003Cbr /\u003E Dhurakij Pundit University - 9.1 km / 5.7 mi \u003Cbr /\u003E Pratunam Market - 9.4 km / 5.9 mi \u003Cbr /\u003E Platinum Fashion Mall - 9.4 km / 5.9 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDon Mueang Intl. Airport (DMK) - 16 km / 9.9 mi\u003Cbr /\u003E Suvarnabhumi Intl. Airport (BKK) - 36.2 km / 22.5 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Centara Grand at Central Plaza Ladprao Bangkok is Suvarnabhumi Intl. Airport (BKK). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003EThis property uses eco-friendly cleaning products\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EPool access available from 6:00 AM to 8:00 PM.\u003C/li\u003E\u003Cli\u003EReservations are required for massage services and spa treatments. Reservations can be made by contacting the hotel prior to arrival, using the contact information on the booking confirmation. \u003C/li\u003E \u003Cli\u003EOne child 11 years old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E\u003Cli\u003EA car is not required for transportation to and from this property. \u003C/li\u003E\u003Cli\u003EParking height restrictions apply. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "For lunch or dinner, stop by Suan Bua, a restaurant that specializes in Thai cuisine. Dining is also available at the coffee shop/cafe, and 24-hour room service is provided. Relax with a refreshing drink from the poolside bar or one of the 2 bars/lounges. Buffet breakfasts are available daily from 6 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "1695 Phaholyothin Road",
+    "line2": "Chatuchak",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": "10900"
+  },
+  "geo": {
+    "latitude": 13.81814,
+    "longitude": 100.5598
+  },
+  "phone": "\u002B66 2-5411234",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/72642/72642_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_2.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_3.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_4.jpg",
+      "caption": "Ballroom",
+      "photoType": "83002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_5.jpg",
+      "caption": "Banquet hall",
+      "photoType": "83003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_6.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_7.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_8.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_9.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_10.jpg",
+      "caption": "Banquet hall",
+      "photoType": "83003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_11.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_12.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_15.jpg",
+      "caption": "Ballroom",
+      "photoType": "83002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_16.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_17.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_18.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_19.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_20.jpg",
+      "caption": "Ballroom",
+      "photoType": "83002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_22.jpg",
+      "caption": "Banquet hall",
+      "photoType": "83003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_23.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_24.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_26.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_27.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_28.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_29.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_30.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_31.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_32.jpg",
+      "caption": "Ballroom",
+      "photoType": "83002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_34.jpg",
+      "caption": "Banquet hall",
+      "photoType": "83003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_35.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_37.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_38.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/72642_img_39.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/72642/Main_72642.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "dcc3a42c8098deb577f07b7752256e87795d3e8078fa9358f8d96657f1201781",
+  "lastSyncedUtc": "2026-02-25T11:01:41.1374744Z"
+}

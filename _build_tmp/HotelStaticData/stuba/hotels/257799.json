@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "257799",
+  "name": "Viajero Miami (Formerly Stiles)",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "425440"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "A stay at Viajero Miami places you in the heart of Miami Beach, steps from Collins Avenue Shopping Area and Art Deco Historic District.  This boutique hostel is 0.1 mi (0.2 km) from Ocean Drive and 1 mi (1.6 km) from Miami Beach Convention Center."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 54 guestrooms featuring iPod docking stations. Your room comes with a pillowtop bed. Complimentary wired and wireless internet access is available. Bathrooms feature showers with rainfall showerheads."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take in the views from a terrace and a garden and make use of amenities such as complimentary wireless internet access."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EEspanola Way and Washington Avenue - 0.1 km / 0.1 mi \u003Cbr /\u003E Collins Avenue Shopping Area - 0.1 km / 0.1 mi \u003Cbr /\u003E Art Deco Historic District - 0.1 km / 0.1 mi \u003Cbr /\u003E Ocean Drive - 0.2 km / 0.1 mi \u003Cbr /\u003E Miami Beach Beaches - 0.2 km / 0.1 mi \u003Cbr /\u003E Lummus Park Beach - 0.3 km / 0.2 mi \u003Cbr /\u003E Art Deco Welcome Center - 0.4 km / 0.2 mi \u003Cbr /\u003E 8th Street Designer District - 0.4 km / 0.2 mi \u003Cbr /\u003E Flamingo Park - 0.5 km / 0.3 mi \u003Cbr /\u003E Espa\u00F1ola Way - 0.6 km / 0.3 mi \u003Cbr /\u003E Colony Hotel - 0.7 km / 0.4 mi \u003Cbr /\u003E South Pointe Beach - 1.1 km / 0.7 mi \u003Cbr /\u003E Fillmore Miami Beach - 1.3 km / 0.8 mi \u003Cbr /\u003E Miami Beach Convention Center - 1.6 km / 1 mi \u003Cbr /\u003E Fifth and Alton Shopping Center - 1.6 km / 1 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EMiami, FL (MPB-Public Seaplane Base) - 6.8 km / 4.2 mi\u003Cbr /\u003E Miami Intl. Airport (MIA) - 17.9 km / 11.1 mi\u003Cbr /\u003E Miami, FL (OPF-Opa Locka Executive) - 34.4 km / 21.3 mi\u003Cbr /\u003E Fort Lauderdale-Hollywood Intl. Airport (FLL) - 46.1 km / 28.7 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and cash\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EGuests under 21 years old are not permitted at this adults-only property. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E  \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy a satisfying meal at Delirio serving guests of Viajero Miami. Wrap up your day with a drink at the bar/lounge."
+    }
+  ],
+  "address": {
+    "line1": "1120 Collins Ave",
+    "line2": "",
+    "city": "Miami Beach",
+    "state": "FL",
+    "country": "USA",
+    "countryCode": "",
+    "postalCode": "33139"
+  },
+  "geo": {
+    "latitude": 25.782196,
+    "longitude": -80.131691
+  },
+  "phone": "305.674.7800",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/257799/257799_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_6.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "22007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_7.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_8.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_9.jpg",
+      "caption": "Interior",
+      "photoType": "83000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_11.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_15.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_16.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "22007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_17.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_19.jpg",
+      "caption": "Interior",
+      "photoType": "83000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_21.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_24.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_26.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_27.jpg",
+      "caption": "Interior",
+      "photoType": "83000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_29.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "22007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_31.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_33.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_34.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "22007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_37.jpg",
+      "caption": "Interior",
+      "photoType": "83000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/257799_img_39.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257799/Main_257799.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "1d03f3e8c12cbc45d948477dd9b86374ccb1fbc8b96cb1269c534cba2b6de347",
+  "lastSyncedUtc": "2026-02-25T11:02:48.486102Z"
+}

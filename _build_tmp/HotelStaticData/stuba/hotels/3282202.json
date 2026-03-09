@@ -1,0 +1,342 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "3282202",
+  "name": "The Bostanci",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at The Bostanci Hotel in Istanbul (Kad\u0131k\u00F6y), you\u0027ll be a 3-minute drive from Ba\u011Fdat Avenue and 10 minutes from Bosphorus.  This hotel is 11.5 mi (18.5 km) from Blue Mosque and 11.7 mi (18.8 km) from Grand Bazaar."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 80 air-conditioned rooms featuring LED televisions. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Private bathrooms with showers feature rainfall showerheads and complimentary toiletries. Conveniences include safes, housekeeping is provided daily, and irons/ironing boards can be requested."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Enjoy recreational amenities such as an indoor pool and a sauna. Additional features at this hotel include complimentary wireless internet access, concierge services, and a banquet hall."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EBa\u011Fdat Avenue - 1.2 km / 0.8 mi \u003Cbr /\u003E Hilltown AVM - 2.6 km / 1.6 mi \u003Cbr /\u003E Ulker Sports Arena - 4.5 km / 2.8 mi \u003Cbr /\u003E Optimum Shopping Mall - 4.7 km / 2.9 mi \u003Cbr /\u003E Watergarden Istanbul - 4.9 km / 3.1 mi \u003Cbr /\u003E Yeditepe University - 5.6 km / 3.5 mi \u003Cbr /\u003E Emaar Square Mall - 7.1 km / 4.4 mi \u003Cbr /\u003E Akasya Acibadem Shopping Center - 7.6 km / 4.7 mi \u003Cbr /\u003E \u015E\u00FCkr\u00FC Saraco\u011Flu Stadium - 7.7 km / 4.8 mi \u003Cbr /\u003E Maltepe Park Mall - 8 km / 5 mi \u003Cbr /\u003E Kalam\u0131\u015F Marina - 8 km / 5 mi \u003Cbr /\u003E Sureyya Opera House - 8.3 km / 5.2 mi \u003Cbr /\u003E Kadikoy Fish Market - 9.2 km / 5.7 mi \u003Cbr /\u003E Kad\u0131k\u00F6y Port - 9.5 km / 5.9 mi \u003Cbr /\u003E Aya Nikola Halk Plaj\u0131 - 9.5 km / 5.9 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EIstanbul Sabiha Gokcen Intl. Airport (SAW) - 31.8 km / 19.8 mi\u003Cbr /\u003E Istanbul Airport (IST) - 56.4 km / 35 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003ENoise-free guestrooms cannot be guaranteed\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EPool access available from noon to 8:00 PM.\u003C/li\u003E\u003Cli\u003EReservations are required for spa treatments. Reservations can be made by contacting the hotel prior to arrival, using the contact information on the booking confirmation. \u003C/li\u003E\u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "At The Bostanci Hotel, enjoy a satisfying meal at the restaurant. Wrap up your day with a drink at the bar/lounge."
+    }
+  ],
+  "address": {
+    "line1": "MEHMET SEVKI PASA CAD. 20",
+    "line2": "",
+    "city": "BOSTANCI/ISTANBUL",
+    "state": "",
+    "country": "Turkey",
+    "countryCode": "",
+    "postalCode": ""
+  },
+  "geo": {
+    "latitude": 40.959453,
+    "longitude": 29.10219
+  },
+  "phone": "02163624848",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_9.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/Main_3282202.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_4.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_6.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_3.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_2.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_1.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_8.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_17.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_7.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_31.jpg",
+      "caption": "Indoor pool",
+      "photoType": "30002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_25.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_29.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_36.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_39.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_32.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_38.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_24.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_37.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_35.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_34.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_26.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_27.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_33.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_28.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/3282202/3282202_img_30.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "c564823e7d21e50c6b560fc12c381d81f736a9edbd89f5c009b9aaebc9776c38",
+  "lastSyncedUtc": "2026-02-25T11:01:55.7476702Z"
+}

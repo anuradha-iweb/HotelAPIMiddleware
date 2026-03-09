@@ -1,0 +1,13 @@
+{
+  "SyncStartedAt": "2026-02-23T07:04:02.5540251Z",
+  "SyncCompletedAt": "2026-02-23T07:04:03.3804831Z",
+  "RegionIds": [
+    56350
+  ],
+  "TotalHotelsFound": 0,
+  "TotalHotelsProcessed": 0,
+  "NewHotels": 0,
+  "UpdatedHotels": 0,
+  "UnchangedHotels": 0,
+  "ErrorCount": 1
+}

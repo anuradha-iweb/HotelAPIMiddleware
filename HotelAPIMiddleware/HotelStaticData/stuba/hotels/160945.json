@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "160945",
+  "name": "Sadigo Court",
+  "starRating": 3,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "1461939"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Berkeley Park MGallery Hotel Collection in Miami Beach (South Beach), you\u0027ll be steps from Collins Avenue Shopping Area and 2 minutes by foot from Miami Beach Convention Center.  This hotel is 0.6 mi (0.9 km) from Miami Beach Boardwalk and 0.7 mi (1.1 km) from Art Deco Historic District."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 80 air-conditioned rooms featuring flat-screen televisions. Your bed comes with down comforters and Egyptian cotton sheets. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Private bathrooms with bathtubs or showers feature rainfall showerheads and hair dryers."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Enjoy recreation amenities such as an outdoor pool or take in the view from a garden. This Art Deco hotel also features complimentary wireless internet access, concierge services, and a banquet hall."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ECollins Avenue Shopping Area - 0.2 km / 0.1 mi \u003Cbr /\u003E Bass Museum of Art - 0.2 km / 0.1 mi \u003Cbr /\u003E Miami Beach Convention Center - 0.2 km / 0.1 mi \u003Cbr /\u003E Miami City Ballet - 0.3 km / 0.2 mi \u003Cbr /\u003E Miami Beach Beaches - 0.5 km / 0.3 mi \u003Cbr /\u003E Fillmore Miami Beach - 0.5 km / 0.3 mi \u003Cbr /\u003E Espanola Way and Washington Avenue - 0.5 km / 0.3 mi \u003Cbr /\u003E Miami Beach Botanical Garden - 0.8 km / 0.5 mi \u003Cbr /\u003E Miami Beach Boardwalk - 0.9 km / 0.6 mi \u003Cbr /\u003E Art Deco Historic District - 1.1 km / 0.7 mi \u003Cbr /\u003E Espa\u00F1ola Way - 1.1 km / 0.7 mi \u003Cbr /\u003E Ocean Drive - 1.3 km / 0.8 mi \u003Cbr /\u003E Lummus Park Beach - 1.3 km / 0.8 mi \u003Cbr /\u003E Lincoln Road Mall - 1.5 km / 0.9 mi \u003Cbr /\u003E Flamingo Park - 1.6 km / 1 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EMiami, FL (MPB-Public Seaplane Base) - 8.5 km / 5.3 mi\u003Cbr /\u003E Miami Intl. Airport (MIA) - 19.3 km / 12 mi\u003Cbr /\u003E Miami, FL (OPF-Opa Locka Executive) - 33.3 km / 20.7 mi\u003Cbr /\u003E Fort Lauderdale-Hollywood Intl. Airport (FLL) - 48.7 km / 30.2 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Berkeley Park MGallery Hotel Collection is Miami Intl. Airport (MIA). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and debit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003ECashless transactions are available\u003C/li\u003E\u003Cli\u003ENoise-free guestrooms cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property affirms that it follows the cleaning and disinfection practices of ALLSAFE (Accor Hotels)\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EPool access available from 8:00 AM to 8:00 PM.\u003C/li\u003E\u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003ECashless payment methods are available for all transactions.\u003C/li\u003E\u003Cli\u003EThis property welcomes guests of all sexual orientations and gender identities (LGBTQ\u002B friendly).\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Stop by the hotel\u0027s restaurant, Garbriels, for lunch or dinner, or grab snacks at the coffee shop/cafe. Continental breakfasts are available daily from 8:30 AM to 11:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "334 20TH STREET",
+    "line2": "",
+    "city": "MIAMI BEACH",
+    "state": "",
+    "country": "USA",
+    "countryCode": "",
+    "postalCode": "33139"
+  },
+  "geo": {
+    "latitude": 25.796089,
+    "longitude": -80.130885
+  },
+  "phone": "305 672 9135",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/160945/160945_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_6.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_7.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_8.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_9.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_13.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_15.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_16.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_17.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_22.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_24.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_27.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_31.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_33.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_34.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_37.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/160945_img_38.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/160945/Main_160945.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "9033a5e47711e0bbf3bfa54b158d5e5a37de2036aadbafe0dbc639cfa6a5c36e",
+  "lastSyncedUtc": "2026-03-04T05:43:30.108056Z"
+}

@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "55348",
+  "name": "The Dilly Piccadilly (Formerly Le Meridien)",
+  "starRating": 5,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "21538"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "A stay at The Dilly places you in the heart of London, steps from Piccadilly Circus and Piccadilly.  This luxury hotel is 0.4 mi (0.6 km) from Leicester Square and 0.5 mi (0.7 km) from Trafalgar Square."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 283 guestrooms featuring minibars and flat-screen televisions. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms with shower/tub combinations feature hair dryers and bathrobes. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take advantage of recreation opportunities such as a health club, or other amenities including complimentary wireless internet access and concierge services."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EPiccadilly - 0.1 km / 0.1 mi \u003Cbr /\u003E Regent Street - 0.1 km / 0.1 mi \u003Cbr /\u003E Piccadilly Circus - 0.2 km / 0.1 mi \u003Cbr /\u003E Bond Street - 0.3 km / 0.2 mi \u003Cbr /\u003E Leicester Square - 0.6 km / 0.4 mi \u003Cbr /\u003E Green Park - 0.7 km / 0.4 mi \u003Cbr /\u003E Trafalgar Square - 0.7 km / 0.5 mi \u003Cbr /\u003E London Palladium Theatre - 0.8 km / 0.5 mi \u003Cbr /\u003E National Gallery - 0.8 km / 0.5 mi \u003Cbr /\u003E Charing Cross - 0.8 km / 0.5 mi \u003Cbr /\u003E The Strand - 0.9 km / 0.5 mi \u003Cbr /\u003E Oxford Circus - 0.9 km / 0.5 mi \u003Cbr /\u003E St. James Park - 0.9 km / 0.6 mi \u003Cbr /\u003E Covent Garden Market - 1 km / 0.6 mi \u003Cbr /\u003E Tottenham Court Road - 1.1 km / 0.7 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ELondon City Airport (LCY) - 16.7 km / 10.4 mi\u003Cbr /\u003E Heathrow Airport (LHR) - 27.3 km / 17 mi\u003Cbr /\u003E Gatwick Airport (LGW) - 68.3 km / 42.4 mi\u003Cbr /\u003E Luton Airport (LTN) - 54.7 km / 34 mi\u003Cbr /\u003E Stansted Airport (STN) - 65 km / 40.4 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and debit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003EThis property reserves the right to pre-authorize the guest\u0027s credit card prior to arrival.\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, a first aid kit, and window guards\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EThis hotel will place an authorization for the full amount of the stay and deposit for any bookings where payment for the stay will be made on site instead of at the time of booking.\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003EGuests can arrange to bring pets by contacting the property directly, using the contact information on the booking confirmation (surcharges apply and can be found in the Fees section). \u003C/li\u003E \u003Cli\u003EContactless check-in and contactless check-out are available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Grab a bite to eat at The Terrace On Piccadilly, a restaurant which features a bar/lounge, or stay in and take advantage of the 24-hour room service. Full breakfasts are served on weekdays from 7:00 AM to 10:30 AM and on weekends from 7:30 AM to 11:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "21 Piccadilly",
+    "line2": "",
+    "city": "London",
+    "state": "",
+    "country": "UK - England",
+    "countryCode": "",
+    "postalCode": "W1J 0BH"
+  },
+  "geo": {
+    "latitude": 51.509432,
+    "longitude": -0.136202
+  },
+  "phone": "44-20-77348000",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/55348/55348_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_4.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_5.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_6.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_7.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_8.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_9.jpg",
+      "caption": "Indoor wedding",
+      "photoType": "83006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_11.jpg",
+      "caption": "Indoor wedding",
+      "photoType": "83006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_12.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_14.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_15.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_16.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_17.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_18.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_20.jpg",
+      "caption": "Indoor wedding",
+      "photoType": "83006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_23.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_24.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_26.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_28.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_29.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_30.jpg",
+      "caption": "Indoor wedding",
+      "photoType": "83006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_31.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_32.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_33.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_37.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_38.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/55348_img_39.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55348/Main_55348.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "391d79ad61b900d2fb9b00360c06b2d20e6dbe9b10552d15a2414e3cba73a7cc",
+  "lastSyncedUtc": "2026-02-25T11:02:58.8849334Z"
+}

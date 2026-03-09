@@ -1,0 +1,97 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "1296373",
+  "name": "Marlin Apartments - Aldgate Tower Bridge",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": " "
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": " "
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": " "
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": " "
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": " "
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": " "
+    }
+  ],
+  "address": {
+    "line1": "58 Commercial Road",
+    "line2": "",
+    "city": "London",
+    "state": "",
+    "country": "UK - England",
+    "countryCode": "",
+    "postalCode": "E1 1LP"
+  },
+  "geo": {
+    "latitude": 51.514665,
+    "longitude": -0.067344
+  },
+  "phone": "\u002B44 (0)20 7680 7500",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/1296373/Main_1296373.jpg",
+      "caption": null,
+      "photoType": null,
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1296373/Main_1296373.jpg",
+      "caption": null,
+      "photoType": null,
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1296373/1296373_img_4.jpg",
+      "caption": null,
+      "photoType": null,
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1296373/1296373_img_2.jpg",
+      "caption": null,
+      "photoType": null,
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/1296373/1296373_img_3.jpg",
+      "caption": null,
+      "photoType": null,
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "afcdd87d7525b4e9549579140de6a151c12c0d0c3dd32620e40dd29cb664ba1b",
+  "lastSyncedUtc": "2026-02-25T11:03:13.6970974Z"
+}

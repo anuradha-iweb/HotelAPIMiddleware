@@ -1,0 +1,333 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "528996",
+  "name": "TIME Oak Hotel \u0026 Suites",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "2357274"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at TIME Oak Hotel \u0026 Suites in Dubai (Barsha Heights), you\u0027ll be within a 10-minute drive of Dubai Marina Mall and Mall of the Emirates.  This upscale hotel is 3.7 mi (5.9 km) from Marina Beach and 5.3 mi (8.5 km) from Burj Al Arab."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 216 air-conditioned rooms featuring flat-screen televisions. Rooms have private balconies. Complimentary wired internet access keeps you connected, and satellite programming is available for your entertainment. Bathrooms with shower/tub combinations feature deep soaking bathtubs and complimentary toiletries."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Pamper yourself with a visit to the spa, which offers massages. You can take advantage of recreational amenities such as an outdoor pool and a 24-hour fitness center. Additional amenities at this hotel include complimentary wireless internet access, concierge services, and a hair salon. Getting to nearby attractions is a breeze with the area shuttle (surcharge).Featured amenities include a business center, limo/town car service, and complimentary newspapers in the lobby. Free self parking is available onsite."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EJebel Ali Race Course - 0.9 km / 0.6 mi \u003Cbr /\u003E Emirates Golf Club - 2.7 km / 1.7 mi \u003Cbr /\u003E Al Sufouh Beach - 3.6 km / 2.2 mi \u003Cbr /\u003E Al Barsha Pond Park - 3.9 km / 2.4 mi \u003Cbr /\u003E Fatima Abdullah Mohammed Rasheed Mosque - 4.3 km / 2.7 mi \u003Cbr /\u003E Mall of the Emirates - 5 km / 3.1 mi \u003Cbr /\u003E Skydive Dubai - 5.8 km / 3.6 mi \u003Cbr /\u003E Dubai Marina Mall - 5.8 km / 3.6 mi \u003Cbr /\u003E The Walk - 5.8 km / 3.6 mi \u003Cbr /\u003E Marina Beach - 5.9 km / 3.7 mi \u003Cbr /\u003E Nakheel Mall - 6 km / 3.7 mi \u003Cbr /\u003E Mohammad Bin Ahmed Al Mulla Mosque - 6.4 km / 4 mi \u003Cbr /\u003E Dubai Harbour Viewpoint - 6.6 km / 4.1 mi \u003Cbr /\u003E Dubai Police Museum - 6.8 km / 4.2 mi \u003Cbr /\u003E The View at The Palm - 6.8 km / 4.2 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EAl Maktoum Intl. Airport (DWC) - 37.7 km / 23.4 mi\u003Cbr /\u003E Dubai Intl. Airport (DXB) - 28.9 km / 18 mi\u003Cbr /\u003E Sharjah (SHJ-Sharjah Intl.) - 55.2 km / 34.3 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for TIME Oak Hotel \u0026 Suites is Dubai Intl. Airport (DXB). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": null
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "For lunch or dinner, stop by Pranzo Eatery, a restaurant that specializes in international cuisine. Dining is also available at the coffee shop/cafe, and room service (during limited hours) is provided. Cooked-to-order breakfasts are available daily from 6:30 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "Al Barsha Heights",
+    "line2": "",
+    "city": "Dubai",
+    "state": "",
+    "country": "UAE",
+    "countryCode": "",
+    "postalCode": "283634"
+  },
+  "geo": {
+    "latitude": 25.096752,
+    "longitude": 55.172554
+  },
+  "phone": "\u002B971-44377888",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/528996/528996_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_2.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_3.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_4.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_5.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_6.jpg",
+      "caption": "Sports facility",
+      "photoType": "60000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_7.jpg",
+      "caption": "Children\u0027s play area - outdoor",
+      "photoType": "72004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_8.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_9.jpg",
+      "caption": "Coffee shop",
+      "photoType": "81007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_10.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_12.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_13.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_14.jpg",
+      "caption": "Coffee shop",
+      "photoType": "81007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_15.jpg",
+      "caption": "Sports facility",
+      "photoType": "60000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_16.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_17.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_18.jpg",
+      "caption": "Children\u0027s play area - outdoor",
+      "photoType": "72004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_20.jpg",
+      "caption": "Sports facility",
+      "photoType": "60000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_21.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_22.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_23.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_24.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_25.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_26.jpg",
+      "caption": "Children\u0027s play area - outdoor",
+      "photoType": "72004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_28.jpg",
+      "caption": "Coffee shop",
+      "photoType": "81007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_29.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_30.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_31.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_32.jpg",
+      "caption": "Sports facility",
+      "photoType": "60000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_33.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_34.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_35.jpg",
+      "caption": "Children\u0027s play area - outdoor",
+      "photoType": "72004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_38.jpg",
+      "caption": "Coffee shop",
+      "photoType": "81007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/528996_img_39.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/528996/Main_528996.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "cdf74d9a57eb467f13ae4c82e685797bc14cb5b4f0f69bab5cf0dff3ec06d983",
+  "lastSyncedUtc": "2026-02-25T11:02:12.1718319Z"
+}

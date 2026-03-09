@@ -1,0 +1,342 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "90944",
+  "name": "Abjad Crown Hotel",
+  "starRating": 3,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Il Principe Hotel, you\u0027ll be centrally located in Catania, steps from Via Etnea and 3 minutes by foot from Piazza del Duomo.  This hotel is 0.4 mi (0.7 km) from Catania Port and 11.5 mi (18.5 km) from Mount Etna."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 80 guestrooms featuring minibars and flat-screen televisions. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms have complimentary toiletries and bidets. Conveniences include safes and desks, and housekeeping is provided daily."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take in the views from a rooftop terrace and a garden and make use of amenities such as complimentary wireless internet access. Additional features at this hotel include concierge services, babysitting (surcharge), and a banquet hall. Getting to the surf and sand is a breeze with the beach shuttle (surcharge)."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EVia Crociferi - 0.1 km / 0.1 mi \u003Cbr /\u003E Museum of Contemporary Art in Sicily - 0.1 km / 0.1 mi \u003Cbr /\u003E Via Etnea - 0.2 km / 0.1 mi \u003Cbr /\u003E Church of Saint Francis of Assisi Immaculate - 0.2 km / 0.1 mi \u003Cbr /\u003E Basilica Collegiata - 0.2 km / 0.1 mi \u003Cbr /\u003E Piazza Universita - 0.2 km / 0.1 mi \u003Cbr /\u003E Bellini Civic Museum - 0.2 km / 0.1 mi \u003Cbr /\u003E Piazza del Duomo - 0.2 km / 0.1 mi \u003Cbr /\u003E San Giuliano Palace - 0.2 km / 0.2 mi \u003Cbr /\u003E Elephants Palace - 0.3 km / 0.2 mi \u003Cbr /\u003E Amenano Fountain - 0.3 km / 0.2 mi \u003Cbr /\u003E Piazza Mazzini - 0.3 km / 0.2 mi \u003Cbr /\u003E Elephant Fountain - 0.3 km / 0.2 mi \u003Cbr /\u003E Greek-Roman Theatre - 0.3 km / 0.2 mi \u003Cbr /\u003E Fera \u0027o Luni Market - 0.3 km / 0.2 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Il Principe Hotel is Fontanarossa Airport (CTA) - 6.2 km / 3.9 mi \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EGuests must contact this property in advance to reserve onsite parking\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003EThis property reserves the right to pre-authorize the guest\u0027s credit card prior to arrival.\u003C/li\u003E\u003Cli\u003ECashless transactions are available\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher and a security system\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EAll guests, including children, must be present at check-in and show their government-issued photo ID card or passport.\u003C/li\u003E \u003Cli\u003ECash transactions at this property cannot exceed EUR 5000, due to national regulations. For further details, please contact the property using information in the booking confirmation. \u003C/li\u003E\u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003ECashless payment methods are available for all transactions.\u003C/li\u003E\u003Cli\u003EContactless check-in and contactless check-out are available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Grab a bite from the snack bar/deli, or stay in and take advantage of the hotel\u0027s room service (during limited hours). Wrap up your day with a drink at the bar/lounge. Buffet breakfasts are available daily from 7:00 AM to 10:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "Al Muteena Street, Deira, Dubai PO BOX, 21969",
+    "line2": "",
+    "city": "Dubai",
+    "state": "",
+    "country": "UAE",
+    "countryCode": "",
+    "postalCode": ""
+  },
+  "geo": {
+    "latitude": 25.273118,
+    "longitude": 55.319778
+  },
+  "phone": "971-4-2710021",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/90944/90944_img_24.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/Main_90944.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_9.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_23.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_25.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_2.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_19.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_38.jpg",
+      "caption": "View from property",
+      "photoType": "92002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_18.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_32.jpg",
+      "caption": "Hallway",
+      "photoType": "83007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_30.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_1.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_33.jpg",
+      "caption": "Staircase",
+      "photoType": "83008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_7.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_17.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_36.jpg",
+      "caption": "Courtyard",
+      "photoType": "91006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_31.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_26.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_8.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_3.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_28.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_35.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_34.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_21.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_29.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_27.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_37.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_6.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_4.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_20.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_22.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/90944/90944_img_39.jpg",
+      "caption": "View from property",
+      "photoType": "92002",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "4eb5a697c5db8cb4a4edc0d532b0194c73ba3891d69e335367cf36c8bd4eeb56",
+  "lastSyncedUtc": "2026-02-25T11:02:10.8253073Z"
+}

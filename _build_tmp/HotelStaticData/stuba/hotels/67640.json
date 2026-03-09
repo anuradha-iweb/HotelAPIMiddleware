@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "67640",
+  "name": "Montien Hotel Bangkok",
+  "starRating": 5,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "10244"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "In the heart of Bangkok, Montien Hotel Surawong Bangkok is within a 5-minute drive of Lumphini Park and Siam Center.  This spa hotel is 1.5 mi (2.4 km) from Siam Paragon Mall and 2.2 mi (3.6 km) from Pratunam Market."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 343 individually decorated guestrooms, featuring refrigerators and Smart televisions. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Private bathrooms have bidets and hair dryers. Conveniences include phones, as well as laptop-compatible safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take time to pamper yourself with a visit to the full-service spa. You\u0027re sure to appreciate the recreational amenities, including an outdoor pool and a fitness center. Additional features at this hotel include complimentary wireless internet access, concierge services, and wedding services."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EThaniya Plaza - 0.4 km / 0.2 mi \u003Cbr /\u003E Samyan Mitrtown - 0.6 km / 0.4 mi \u003Cbr /\u003E Lumphini Park - 0.8 km / 0.5 mi \u003Cbr /\u003E Chulalongkorn University - 0.8 km / 0.5 mi \u003Cbr /\u003E Silom Complex Shopping Mall - 0.8 km / 0.5 mi \u003Cbr /\u003E Chulalongkorn Hospital - 0.9 km / 0.5 mi \u003Cbr /\u003E King Power MahaNakhon - 1.2 km / 0.7 mi \u003Cbr /\u003E MBK Center - 1.8 km / 1.1 mi \u003Cbr /\u003E Siam Square - 2.1 km / 1.3 mi \u003Cbr /\u003E Yaowarat Road - 2.3 km / 1.4 mi \u003Cbr /\u003E Siam Center - 2.3 km / 1.4 mi \u003Cbr /\u003E Embassy of the United States - 2.4 km / 1.5 mi \u003Cbr /\u003E Siam Paragon Mall - 2.4 km / 1.5 mi \u003Cbr /\u003E Erawan Shrine - 2.5 km / 1.5 mi \u003Cbr /\u003E Jim Thompson House Museum - 2.6 km / 1.6 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDon Mueang Intl. Airport (DMK) - 28 km / 17.4 mi\u003Cbr /\u003E Suvarnabhumi Intl. Airport (BKK) - 37 km / 23 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and cash\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher and a security system\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E   \u003Cli\u003EOne child 4 years old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Satisfy your appetite for lunch or dinner at Ruenton, a restaurant which specializes in Asian cuisine, or stay in and take advantage of the 24-hour room service. Quench your thirst with your favorite drink at the bar/lounge. Buffet breakfasts are available daily from 6 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "54 Surawongse Road",
+    "line2": "Bangrak",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": "10500"
+  },
+  "geo": {
+    "latitude": 13.730782,
+    "longitude": 100.531323
+  },
+  "phone": "66-2-2337060",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/67640/67640_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_3.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_4.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_5.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_6.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_7.jpg",
+      "caption": "Lounge",
+      "photoType": "82001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_8.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_9.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_12.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_13.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_15.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_16.jpg",
+      "caption": "Lounge",
+      "photoType": "82001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_17.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_18.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_19.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_20.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_23.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_24.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_26.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_27.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_28.jpg",
+      "caption": "Lounge",
+      "photoType": "82001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_29.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_30.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_31.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_33.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_34.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_35.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_36.jpg",
+      "caption": "Front of property",
+      "photoType": "91001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_37.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_38.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/67640_img_39.jpg",
+      "caption": "Lounge",
+      "photoType": "82001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/67640/Main_67640.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "917c0de8286ba360b9e1ffdb59fd7b6c47673ce11690237fd51148a5c980a319",
+  "lastSyncedUtc": "2026-02-25T11:01:45.2048736Z"
+}

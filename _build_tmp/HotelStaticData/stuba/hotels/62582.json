@@ -1,0 +1,319 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "62582",
+  "name": "Hotel Beacon",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "7422476"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "Located in New York (Manhattan), Hotel Beacon is within a 15-minute walk of Central Park and Lincoln Center.  This hotel is 0.6 mi (1 km) from American Museum of Natural History and 1.2 mi (2 km) from Broadway."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 276 guestrooms, featuring kitchenettes with refrigerators and stovetops. Your room comes with a pillowtop bed. 32-inch flat-screen televisions with cable programming provide entertainment, while complimentary wireless internet access keeps you connected. Conveniences include phones, as well as laptop-compatible safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take advantage of recreation opportunities such as a 24-hour fitness center, or other amenities including complimentary wireless internet access and concierge services. This hotel also features babysitting (surcharge), a banquet hall, and a vending machine."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EBeacon Theater - 0.1 km / 0.1 mi \u003Cbr /\u003E Central Park - 0.8 km / 0.5 mi \u003Cbr /\u003E American Museum of Natural History - 1 km / 0.6 mi \u003Cbr /\u003E Lincoln Center - 1.1 km / 0.7 mi \u003Cbr /\u003E Columbus Circle - 1.5 km / 0.9 mi \u003Cbr /\u003E Carnegie Hall - 1.9 km / 1.2 mi \u003Cbr /\u003E Madison Avenue - 1.9 km / 1.2 mi \u003Cbr /\u003E Broadway - 2 km / 1.2 mi \u003Cbr /\u003E Metropolitan Museum of Art - 2.1 km / 1.3 mi \u003Cbr /\u003E Broadway Theatre - 2.1 km / 1.3 mi \u003Cbr /\u003E 5th Avenue - 2.3 km / 1.5 mi \u003Cbr /\u003E Lenox Hill Hospital - 2.4 km / 1.5 mi \u003Cbr /\u003E Solomon R. Guggenheim Museum - 2.4 km / 1.5 mi \u003Cbr /\u003E Manhattan Cruise Terminal - 2.5 km / 1.5 mi \u003Cbr /\u003E Times Square - 2.5 km / 1.5 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ELaGuardia Airport (LGA) - 24.5 km / 15.2 mi\u003Cbr /\u003E Teterboro, NJ (TEB) - 20.5 km / 12.7 mi\u003Cbr /\u003E Newark Liberty Intl. Airport (EWR) - 45.8 km / 28.5 mi\u003Cbr /\u003E John F. Kennedy Intl. Airport (JFK) - 42.9 km / 26.7 mi\u003Cbr /\u003E Caldwell, NJ (CDW-Essex County) - 36.2 km / 22.5 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Hotel Beacon is John F. Kennedy Intl. Airport (JFK). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, a first aid kit, and window guards\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EThis property\u0027s policy is to refuse certain bookings for the purpose of group events or parties, including pre-wedding stag/bachelor and hen/bachelorette parties. \u003C/li\u003E\u003Cli\u003EUp to 2 children 12 years old and younger stay free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003ESome facilities may have restricted access. Guests can contact the property for details using the contact information on the booking confirmation. \u003C/li\u003E\u003Cli\u003EContactless check-in and contactless check-out are available.\u003C/li\u003E\u003Cli\u003EThis property welcomes guests of all sexual orientations and gender identities (LGBTQ\u002B friendly).\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy a meal at the restaurant or snacks in the hotel\u0027s coffee shop/cafe. Wrap up your day with a drink at the bar/lounge. Cooked-to-order breakfasts are available daily from 7:00 AM to noon for a fee."
+    }
+  ],
+  "address": {
+    "line1": "2130 Broadway at 75th Street",
+    "line2": "",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "countryCode": "",
+    "postalCode": "10023"
+  },
+  "geo": {
+    "latitude": 40.78069,
+    "longitude": -73.981045
+  },
+  "phone": "\u002B1 212-787-1100",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/62582/62582_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_4.jpg",
+      "caption": "Private kitchenette",
+      "photoType": "22004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_5.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_6.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_7.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_8.jpg",
+      "caption": "Lounge",
+      "photoType": "82001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_9.jpg",
+      "caption": "Property entrance",
+      "photoType": "91002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_10.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_11.jpg",
+      "caption": "Property entrance",
+      "photoType": "91002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_15.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_17.jpg",
+      "caption": "Lounge",
+      "photoType": "82001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_18.jpg",
+      "caption": "Private kitchenette",
+      "photoType": "22004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_19.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_20.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_21.jpg",
+      "caption": "Private kitchenette",
+      "photoType": "22004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_23.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_24.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_25.jpg",
+      "caption": "Property entrance",
+      "photoType": "91002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_28.jpg",
+      "caption": "Lounge",
+      "photoType": "82001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_29.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_31.jpg",
+      "caption": "Private kitchenette",
+      "photoType": "22004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_33.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_34.jpg",
+      "caption": "Lounge",
+      "photoType": "82001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_37.jpg",
+      "caption": "Food and drink",
+      "photoType": "81012",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_38.jpg",
+      "caption": "Property entrance",
+      "photoType": "91002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/62582_img_39.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/62582/Main_62582.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "368b1b1e22ef6ed5c540152598c34a8a279f845c287278386f42cd2d16f82ec6",
+  "lastSyncedUtc": "2026-02-25T11:02:52.4176259Z"
+}

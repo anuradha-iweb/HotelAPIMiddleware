@@ -1,0 +1,333 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "53488",
+  "name": "Sidney",
+  "starRating": 3,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "22469"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Sidney Hotel London Victoria, you\u0027ll be centrally located in London, within a 5-minute drive of Westminster Abbey and Buckingham Palace.  This hotel is 0.5 mi (0.8 km) from Victoria Station Travel Information Centre and 1.2 mi (1.9 km) from Big Ben."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Stay in one of 80 guestrooms featuring LCD televisions. Satellite programming provides entertainment, and wired and wireless internet access is available for a surcharge. Private bathrooms with bathtubs feature complimentary toiletries and hair dryers. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Make use of convenient amenities such as wireless internet access (surcharge), concierge services, and a television in a common area. Additional amenities at this hotel include discounted use of a nearby fitness facility and a reception hall."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EApollo Victoria Theatre - 0.7 km / 0.4 mi \u003Cbr /\u003E Victoria Station Travel Information Centre - 0.8 km / 0.5 mi \u003Cbr /\u003E St. James Park - 1.5 km / 0.9 mi \u003Cbr /\u003E Buckingham Palace - 1.5 km / 0.9 mi \u003Cbr /\u003E Westminster Abbey - 1.5 km / 1 mi \u003Cbr /\u003E Green Park - 1.6 km / 1 mi \u003Cbr /\u003E Houses of Parliament - 1.6 km / 1 mi \u003Cbr /\u003E Sloane Square - 1.7 km / 1 mi \u003Cbr /\u003E The Oval - 1.8 km / 1.1 mi \u003Cbr /\u003E Hyde Park Corner - 1.8 km / 1.1 mi \u003Cbr /\u003E Big Ben - 1.9 km / 1.2 mi \u003Cbr /\u003E Park Lane - 1.9 km / 1.2 mi \u003Cbr /\u003E Hyde Park - 1.9 km / 1.2 mi \u003Cbr /\u003E Westminster Bridge - 2 km / 1.2 mi \u003Cbr /\u003E Battersea Power Station - 2 km / 1.2 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ELondon City Airport (LCY) - 17 km / 10.5 mi\u003Cbr /\u003E Heathrow Airport (LHR) - 26.8 km / 16.6 mi\u003Cbr /\u003E Gatwick Airport (LGW) - 65.1 km / 40.5 mi\u003Cbr /\u003E Luton Airport (LTN) - 55.6 km / 34.5 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Sidney Hotel London Victoria is Heathrow Airport (LHR). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EMinimum Spring Break check-in age is 18 years old\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards\u003C/li\u003E  \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "At Sidney Hotel London Victoria, enjoy a satisfying meal at the restaurant. Wrap up your day with a drink at the bar/lounge. A complimentary buffet breakfast is served daily from 7:30 AM to 9 AM."
+    }
+  ],
+  "address": {
+    "line1": "68-76 Belgrave Road Victoria",
+    "line2": "",
+    "city": "London SW1V 2BP",
+    "state": "",
+    "country": "UK - England",
+    "countryCode": "",
+    "postalCode": ""
+  },
+  "geo": {
+    "latitude": 51.490373,
+    "longitude": -0.138625
+  },
+  "phone": "44-20-78342738",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/53488/53488_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_6.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_7.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_8.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_9.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_17.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_24.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_31.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_33.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/53488_img_39.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/53488/Main_53488.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "7e94884d8f17209ffe13daf22753884d4e18d7e213566adabadad39762937e7d",
+  "lastSyncedUtc": "2026-03-04T05:43:39.6112979Z"
+}

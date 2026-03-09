@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "271151",
+  "name": "Aspen Suites Hotel Sukhumvit 2 Bangkok by Compass Hospitality",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "1959968"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Aspen Suites Hotel Sukhumvit 2 Bangkok, you\u0027ll be centrally located in Bangkok, a 8-minute walk from Nana Square and 13 minutes by foot from Bumrungrad Hospital.  This hotel is 0.6 mi (1 km) from Central Embassy and 1.1 mi (1.7 km) from Terminal 21 Shopping Mall."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 65 guestrooms featuring refrigerators and microwaves. Wired and wireless internet access is complimentary, while 32-inch LCD televisions with cable programming provide entertainment. Bathrooms feature bathtubs or showers, complimentary toiletries, and bidets. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Don\u0027t miss out on recreational opportunities including a health club and an outdoor pool. Additional amenities at this hotel include complimentary wireless internet access, concierge services, and a television in a common area. Guests can get around on the complimentary shuttle, which operates within 1 km."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ENana Square - 0.6 km / 0.4 mi \u003Cbr /\u003E Central Embassy - 1.1 km / 0.7 mi \u003Cbr /\u003E Bumrungrad Hospital - 1.1 km / 0.7 mi \u003Cbr /\u003E Central Chidlom Department Store - 1.5 km / 0.9 mi \u003Cbr /\u003E Gaysorn Plaza - 1.8 km / 1.1 mi \u003Cbr /\u003E Erawan Shrine - 1.8 km / 1.1 mi \u003Cbr /\u003E Embassy of the United States - 1.9 km / 1.2 mi \u003Cbr /\u003E Soi Cowboy - 1.9 km / 1.2 mi \u003Cbr /\u003E Terminal 21 Shopping Mall - 1.9 km / 1.2 mi \u003Cbr /\u003E CentralWorld Shopping Complex - 2 km / 1.3 mi \u003Cbr /\u003E Lumphini Park - 2.2 km / 1.4 mi \u003Cbr /\u003E Benjakitti Park - 2.3 km / 1.4 mi \u003Cbr /\u003E Siam Paragon Mall - 2.5 km / 1.6 mi \u003Cbr /\u003E Siam Center - 2.6 km / 1.6 mi \u003Cbr /\u003E Pratunam Market - 2.7 km / 1.7 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDon Mueang Intl. Airport (DMK) - 26.3 km / 16.3 mi\u003Cbr /\u003E Suvarnabhumi Intl. Airport (BKK) - 34.1 km / 21.2 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Aspen Suites Hotel Sukhumvit 2 Bangkok is Suvarnabhumi Intl. Airport (BKK). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and cash\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, and a first aid kit\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EChildren 11 years old and younger stay free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "For lunch or dinner, stop by Aspen Cafe, a restaurant that specializes in international cuisine. Dining is also available at the coffee shop/cafe, and room service (during limited hours) is provided. Mingle with other guests at the complimentary reception, held daily. Buffet breakfasts are available daily from 7:00 AM to 10 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "65/1 Sukhumvit Soi 2 Sukhumvit Road",
+    "line2": "",
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "countryCode": "",
+    "postalCode": "10110"
+  },
+  "geo": {
+    "latitude": 13.717457,
+    "longitude": 100.5898089
+  },
+  "phone": "00662 638 1888",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/271151/271151_img_1.jpg",
+      "caption": "Lobby lounge",
+      "photoType": "10006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_5.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_6.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_7.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_8.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_9.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_11.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_13.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_15.jpg",
+      "caption": "Lobby lounge",
+      "photoType": "10006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_16.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_17.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_19.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_22.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_24.jpg",
+      "caption": "Lobby lounge",
+      "photoType": "10006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_26.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_27.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_28.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_29.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_31.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_34.jpg",
+      "caption": "Private kitchen",
+      "photoType": "22002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_35.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_36.jpg",
+      "caption": "Lobby lounge",
+      "photoType": "10006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_38.jpg",
+      "caption": "Living room",
+      "photoType": "22006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/271151_img_39.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/271151/Main_271151.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "637672272116b0c2ff81e7f848694302e858e1211f94eddfe742dda5a3735426",
+  "lastSyncedUtc": "2026-02-25T11:01:31.5901155Z"
+}

@@ -9,9 +9,12 @@ POST {{HotelAPIMiddleware_HostAddress}}/api/hotel/booling-prep
 Content-Type: application/json
 
 {
-  "provider": "Stuba",
+  "provider": "STUBA",
   "data": {
-    "quoteId": "1090488596-0"
+    "cacheId": "hotel_search_cache_203c7546-c7bd-484e-bb1c-e3caf8902c26_20260227050356",
+    "searchId": "203c7546-c7bd-484e-bb1c-e3caf8902c26",
+    "hotelId": "hotel_ce51d0d5-bde3-4021-ad47-8856837850f4",
+    "quoteId": "1090488613-839"
   }
 }
 

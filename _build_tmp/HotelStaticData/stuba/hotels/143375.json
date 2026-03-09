@@ -1,0 +1,333 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "143375",
+  "name": "Deluxe Golden Horn Sultanahmet Hotel",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "804472"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Deluxe Golden Horn Sultanahmet Hotel, you\u0027ll be centrally located in Istanbul, just a 3-minute walk from Sultanahmet Square and 7 minutes by foot from Blue Mosque.  This hotel is 0.4 mi (0.7 km) from Hagia Sophia and 0.4 mi (0.7 km) from Grand Bazaar."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 75 individually decorated guestrooms, featuring minibars and LCD televisions. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Private bathrooms with showers feature rainfall showerheads and complimentary toiletries. Conveniences include phones, as well as safes and coffee/tea makers."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take advantage of recreation opportunities such as a fitness center or take in the view from a rooftop terrace and a garden. Additional amenities at this Art Deco hotel include complimentary wireless internet access, concierge services, and wedding services."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ETurkish and Islamic Art Museum - 0.2 km / 0.1 mi \u003Cbr /\u003E Sultanahmet Square - 0.2 km / 0.1 mi \u003Cbr /\u003E Column of Constantine - 0.5 km / 0.3 mi \u003Cbr /\u003E Basilica Cistern - 0.5 km / 0.3 mi \u003Cbr /\u003E Little Hagia Sophia - 0.5 km / 0.3 mi \u003Cbr /\u003E Blue Mosque - 0.6 km / 0.4 mi \u003Cbr /\u003E Hagia Sophia - 0.7 km / 0.4 mi \u003Cbr /\u003E Grand Bazaar - 0.7 km / 0.4 mi \u003Cbr /\u003E Istanbul Archaeology Museums - 0.9 km / 0.5 mi \u003Cbr /\u003E Beyazit Square - 1.1 km / 0.7 mi \u003Cbr /\u003E Bosphorus - 1.2 km / 0.7 mi \u003Cbr /\u003E Egyptian Bazaar - 1.2 km / 0.8 mi \u003Cbr /\u003E Emin\u00F6n\u00FC Square - 1.4 km / 0.9 mi \u003Cbr /\u003E Eminonu Pier - 1.5 km / 0.9 mi \u003Cbr /\u003E G\u00FClhane Park - 1.6 km / 1 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EIstanbul Sabiha Gokcen Intl. Airport (SAW) - 44.9 km / 27.9 mi\u003Cbr /\u003E Istanbul Airport (IST) - 48.3 km / 30 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Deluxe Golden Horn Sultanahmet Hotel is Istanbul Airport (IST). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards and cash\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E   \u003Cli\u003EOne child 5 years old or younger stays free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003EParking height restrictions apply. \u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy Turkish cuisine at Sultan Terrace Restaurant, a restaurant where you can take in the garden view and dine alfresco. Or stay in and take advantage of the 24-hour room service. Mingle with other guests at the complimentary reception, held daily."
+    }
+  ],
+  "address": {
+    "line1": "Binbirdirek Mah.",
+    "line2": "Binbirdirek Meydani sokak No:1",
+    "city": "Istanbul",
+    "state": "",
+    "country": "Turkey",
+    "countryCode": "",
+    "postalCode": "34400"
+  },
+  "geo": {
+    "latitude": 41.00713,
+    "longitude": 28.973844
+  },
+  "phone": "\u002B90 212 518 1717",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/143375/143375_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_5.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_6.jpg",
+      "caption": "Bathroom shower",
+      "photoType": "23004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_7.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_8.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_9.jpg",
+      "caption": "Front of property - evening/night",
+      "photoType": "91003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_10.jpg",
+      "caption": "Front of property - evening/night",
+      "photoType": "91003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_12.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_14.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_15.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_17.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_18.jpg",
+      "caption": "Front of property - evening/night",
+      "photoType": "91003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_21.jpg",
+      "caption": "Bathroom shower",
+      "photoType": "23004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_23.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_24.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_26.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_29.jpg",
+      "caption": "Front of property - evening/night",
+      "photoType": "91003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_30.jpg",
+      "caption": "Bathroom shower",
+      "photoType": "23004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_31.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_33.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_34.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_36.jpg",
+      "caption": "Buffet",
+      "photoType": "81004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_37.jpg",
+      "caption": "Front of property - evening/night",
+      "photoType": "91003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/143375_img_39.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/143375/Main_143375.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "7815828f1a92bbbb75333e4d130055cd5321641bf28180847d4868c4d45ce306",
+  "lastSyncedUtc": "2026-02-25T11:01:51.1819718Z"
+}

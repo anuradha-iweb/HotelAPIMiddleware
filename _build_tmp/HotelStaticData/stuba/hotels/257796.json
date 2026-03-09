@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "257796",
+  "name": "Majestic South Beach Hotel",
+  "starRating": 3,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "40856"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Majestic Hotel South Beach in Miami Beach (South Beach), you\u0027ll be steps from Ocean Drive and Art Deco Historic District.  This beach hotel is 0.1 mi (0.2 km) from Collins Avenue Shopping Area and 1.6 mi (2.6 km) from Miami Beach Convention Center."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Stay in one of 49 guestrooms featuring flat-screen televisions. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Private bathrooms with showers feature designer toiletries and hair dryers. Conveniences include laptop-compatible safes and desks, as well as phones with free local calls."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Make use of convenient amenities such as complimentary wireless internet access, concierge services, and gift shops/newsstands. Guests who want to try their luck at the slots can hop on the casino shuttle (surcharge)."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EArt Deco Historic District - 0.1 km / 0.1 mi \u003Cbr /\u003E Ocean Drive - 0.1 km / 0.1 mi \u003Cbr /\u003E Miami Beach Beaches - 0.1 km / 0.1 mi \u003Cbr /\u003E Colony Hotel - 0.1 km / 0.1 mi \u003Cbr /\u003E Espanola Way and Washington Avenue - 0.1 km / 0.1 mi \u003Cbr /\u003E Lummus Park Beach - 0.2 km / 0.1 mi \u003Cbr /\u003E 8th Street Designer District - 0.2 km / 0.1 mi \u003Cbr /\u003E Collins Avenue Shopping Area - 0.2 km / 0.1 mi \u003Cbr /\u003E South Pointe Beach - 0.3 km / 0.2 mi \u003Cbr /\u003E Art Deco Welcome Center - 0.4 km / 0.3 mi \u003Cbr /\u003E Flamingo Park - 1 km / 0.6 mi \u003Cbr /\u003E Fifth and Alton Shopping Center - 1.1 km / 0.7 mi \u003Cbr /\u003E South Pointe Park - 1.2 km / 0.8 mi \u003Cbr /\u003E Espa\u00F1ola Way - 1.3 km / 0.8 mi \u003Cbr /\u003E Miami Beach Marina - 1.4 km / 0.8 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EMiami, FL (MPB-Public Seaplane Base) - 6.1 km / 3.8 mi\u003Cbr /\u003E Miami Intl. Airport (MIA) - 17.2 km / 10.7 mi\u003Cbr /\u003E Miami, FL (OPF-Opa Locka Executive) - 28 km / 17.4 mi\u003Cbr /\u003E Fort Lauderdale-Hollywood Intl. Airport (FLL) - 49 km / 30.4 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Majestic Hotel South Beach is Miami Intl. Airport (MIA). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003ENoise-free guestrooms cannot be guaranteed\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, and a first aid kit\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EChildren 14 years old and younger stay free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003EContactless check-out is available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Grab a bite to eat at the hotel\u0027s restaurant, where you can take in the ocean view, or stay in and take advantage of the room service. Quench your thirst with your favorite drink at the bar/lounge. Cooked-to-order breakfasts are available daily from 8:30 AM to noon for a fee."
+    }
+  ],
+  "address": {
+    "line1": "660 Ocean Dr",
+    "line2": "",
+    "city": "Miami Beach",
+    "state": "FL",
+    "country": "USA",
+    "countryCode": "",
+    "postalCode": "33139"
+  },
+  "geo": {
+    "latitude": 25.776642,
+    "longitude": -80.131685
+  },
+  "phone": "305.455.3270",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/257796/257796_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_4.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_5.jpg",
+      "caption": "Television",
+      "photoType": "22090",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_6.jpg",
+      "caption": "Boating",
+      "photoType": "60001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_7.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_8.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_9.jpg",
+      "caption": "Hallway",
+      "photoType": "83007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_10.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_11.jpg",
+      "caption": "Television",
+      "photoType": "22090",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_13.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_14.jpg",
+      "caption": "Hallway",
+      "photoType": "83007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_16.jpg",
+      "caption": "Boating",
+      "photoType": "60001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_17.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_20.jpg",
+      "caption": "Television",
+      "photoType": "22090",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_21.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_22.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_24.jpg",
+      "caption": "Hallway",
+      "photoType": "83007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_25.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_25.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_28.jpg",
+      "caption": "Boating",
+      "photoType": "60001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_30.jpg",
+      "caption": "Breakfast meal",
+      "photoType": "81031",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_31.jpg",
+      "caption": "Television",
+      "photoType": "22090",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_32.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_33.jpg",
+      "caption": "Hallway",
+      "photoType": "83007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_36.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_37.jpg",
+      "caption": "View from room",
+      "photoType": "22013",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/257796_img_39.jpg",
+      "caption": "Boating",
+      "photoType": "60001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/257796/Main_257796.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "8f6c0a19a374a37dc568610403a0f5485516adfd8ad70871dd5f7aefa50cc4e0",
+  "lastSyncedUtc": "2026-03-04T05:43:29.1440311Z"
+}

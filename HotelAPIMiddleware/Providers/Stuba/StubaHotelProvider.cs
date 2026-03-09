@@ -7,22 +7,26 @@ using HotelAPIMiddleware.Infrastructure.Configuration;
 using HotelAPIMiddleware.Mappings;
 using HotelAPIMiddleware.Providers.Interfaces;
 using Microsoft.Extensions.Options;
+using System.Diagnostics;
 
 namespace HotelAPIMiddleware.Providers.Stuba;
 
 public class StubaHotelProvider : IHotelProvider
 {
     private readonly IHttpClientFactory _factory;
+    private readonly ILogger<StubaHotelProvider> _logger;
 
-    public StubaHotelProvider(IHttpClientFactory factory)
+    public StubaHotelProvider(IHttpClientFactory factory, ILogger<StubaHotelProvider> logger)
     {
         _factory = factory;
+        _logger = logger;
     }
 
     public HotelProvider Provider => HotelProvider.Stuba;
 
     public async Task<ProviderSearchResult> SearchAsync(UnifiedHotelSearchRequest request, CancellationToken ct)
     {
+        var sw = Stopwatch.StartNew();
         var http = _factory.CreateClient("StubaClient"); // ✅ guaranteed Stuba base url
 
         var stReq = ProviderRequestMappers.ToStubaRequest(request);
@@ -33,14 +37,17 @@ public class StubaHotelProvider : IHotelProvider
             Content = new StringContent(json, Encoding.UTF8, "application/json")
         };
 
-        var finalUrl = new Uri(http.BaseAddress!, msg.RequestUri!);
-        Console.WriteLine("Stuba URL = " + finalUrl);
-
         var resp = await http.SendAsync(msg, ct);
         var body = await resp.Content.ReadAsStringAsync(ct);
 
         if (!resp.IsSuccessStatusCode)
         {
+            sw.Stop();
+            _logger.LogWarning(
+                "Stuba search failed statusCode={StatusCode} elapsedMs={ElapsedMs}",
+                (int)resp.StatusCode,
+                sw.ElapsedMilliseconds);
+
             return new ProviderSearchResult
             {
                 Provider = Provider,
@@ -51,6 +58,11 @@ public class StubaHotelProvider : IHotelProvider
 
         // ✅ Heuristic mapper (works even if Stuba response shape differs)
         var hotels = StubaResponseMapper.MapHotelsFromJson(body, defaultCurrency: request.Currency ?? "USD");
+        sw.Stop();
+        _logger.LogInformation(
+            "Stuba search succeeded hotels={HotelCount} elapsedMs={ElapsedMs}",
+            hotels.Count,
+            sw.ElapsedMilliseconds);
 
         foreach (var h in hotels)
         {

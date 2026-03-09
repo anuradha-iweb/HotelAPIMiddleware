@@ -1,0 +1,319 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "55015",
+  "name": "Astor Court Hotel",
+  "starRating": 3,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "527436"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Astor Court Hotel, you\u0027ll be centrally located in London, just a 3-minute walk from Regent Street and 10 minutes by foot from Oxford Street.  This hotel is 0.3 mi (0.6 km) from Oxford Circus and 0.5 mi (0.8 km) from Regent\u0027s Park."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Stay in one of 40 guestrooms featuring flat-screen televisions. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms with showers feature complimentary toiletries and hair dryers. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Make use of convenient amenities such as complimentary wireless internet access, a television in a common area, and tour/ticket assistance. Additional features at this Victorian hotel include a banquet hall and bike parking."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003ERegent Street - 0.3 km / 0.2 mi \u003Cbr /\u003E Oxford Circus - 0.6 km / 0.3 mi \u003Cbr /\u003E Marylebone High Street - 0.6 km / 0.4 mi \u003Cbr /\u003E London Palladium Theatre - 0.7 km / 0.4 mi \u003Cbr /\u003E University College London - 0.7 km / 0.4 mi \u003Cbr /\u003E Regent\u0027s Park - 0.8 km / 0.5 mi \u003Cbr /\u003E Bond Street - 0.8 km / 0.5 mi \u003Cbr /\u003E Tottenham Court Road - 0.8 km / 0.5 mi \u003Cbr /\u003E Oxford Street - 0.8 km / 0.5 mi \u003Cbr /\u003E Selfridges - 1 km / 0.6 mi \u003Cbr /\u003E Baker Street - 1.1 km / 0.7 mi \u003Cbr /\u003E Madame Tussauds Wax Museum - 1.2 km / 0.8 mi \u003Cbr /\u003E Sherlock Holmes Museum - 1.5 km / 0.9 mi \u003Cbr /\u003E Piccadilly Circus - 1.5 km / 0.9 mi \u003Cbr /\u003E Piccadilly - 1.5 km / 1 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ELondon City Airport (LCY) - 18.4 km / 11.4 mi\u003Cbr /\u003E Heathrow Airport (LHR) - 29.1 km / 18.1 mi\u003Cbr /\u003E Gatwick Airport (LGW) - 96.9 km / 60.2 mi\u003Cbr /\u003E Luton Airport (LTN) - 52.6 km / 32.7 mi\u003Cbr /\u003E Stansted Airport (STN) - 59 km / 36.6 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Astor Court Hotel is Heathrow Airport (LHR). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards; cash is not accepted\u003C/li\u003E\u003Cli\u003ECashless transactions are available\u003C/li\u003E\u003Cli\u003EThis property uses eco-friendly cleaning products\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, and a first aid kit\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003ECashless payment methods are available for all transactions.\u003C/li\u003E\u003Cli\u003EContactless check-in and contactless check-out are available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "To-go breakfasts are served on weekdays from 7:00 AM to 9:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "20 Hallam Street",
+    "line2": "",
+    "city": "London",
+    "state": "",
+    "country": "UK - England",
+    "countryCode": "",
+    "postalCode": "W1W 6JQ"
+  },
+  "geo": {
+    "latitude": 51.519723,
+    "longitude": -0.143098
+  },
+  "phone": "44-20-76364133",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/55015/55015_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_5.jpg",
+      "caption": "Wardrobe",
+      "photoType": "22061",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_6.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_7.jpg",
+      "caption": "Bathroom shower",
+      "photoType": "23004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_8.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_9.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_10.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_12.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_13.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_15.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_17.jpg",
+      "caption": "Wardrobe",
+      "photoType": "22061",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_18.jpg",
+      "caption": "Bathroom shower",
+      "photoType": "23004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_20.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_22.jpg",
+      "caption": "Bathroom shower",
+      "photoType": "23004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_24.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_25.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_26.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_27.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_29.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_31.jpg",
+      "caption": "Wardrobe",
+      "photoType": "22061",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_33.jpg",
+      "caption": "Bathroom sink",
+      "photoType": "23003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_34.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_35.jpg",
+      "caption": "Property amenity",
+      "photoType": "71000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_36.jpg",
+      "caption": "Bathroom shower",
+      "photoType": "23004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/55015_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/55015/Main_55015.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "be15fcfc812c829ef355e4a28459c1c8947ffbdb7df8bdd7181726a5e1f430da",
+  "lastSyncedUtc": "2026-03-04T05:43:43.967652Z"
+}

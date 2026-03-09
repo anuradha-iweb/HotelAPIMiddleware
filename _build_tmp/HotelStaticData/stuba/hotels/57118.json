@@ -1,0 +1,326 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "57118",
+  "name": "The Chesterfield Mayfair",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "2276"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "Located in London (London City Centre), The Chesterfield Mayfair is within a 10-minute walk of Green Park and Bond Street.  This hotel is 0.5 mi (0.9 km) from Royal Academy of Arts and 0.8 mi (1.2 km) from Hyde Park Corner."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 106 air-conditioned rooms featuring flat-screen televisions. Complimentary wired and wireless internet access keeps you connected, and digital programming provides entertainment. Private bathrooms with shower/tub combinations feature complimentary toiletries and hair dryers. Conveniences include phones, as well as safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Take advantage of recreation opportunities such as bicycles to rent, or other amenities including complimentary wireless internet access and concierge services. Additional features at this hotel include babysitting (surcharge), wedding services, and a living plant wall."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EPiccadilly - 0.4 km / 0.2 mi \u003Cbr /\u003E Green Park - 0.5 km / 0.3 mi \u003Cbr /\u003E Park Lane - 0.5 km / 0.3 mi \u003Cbr /\u003E Bond Street - 0.5 km / 0.3 mi \u003Cbr /\u003E Hyde Park - 0.7 km / 0.4 mi \u003Cbr /\u003E Regent Street - 0.8 km / 0.5 mi \u003Cbr /\u003E Royal Academy of Arts - 0.8 km / 0.5 mi \u003Cbr /\u003E Oxford Street - 0.9 km / 0.6 mi \u003Cbr /\u003E Hyde Park Corner - 0.9 km / 0.6 mi \u003Cbr /\u003E Buckingham Palace - 1 km / 0.6 mi \u003Cbr /\u003E St. James Park - 1 km / 0.6 mi \u003Cbr /\u003E London Palladium Theatre - 1 km / 0.6 mi \u003Cbr /\u003E Selfridges - 1 km / 0.6 mi \u003Cbr /\u003E Oxford Circus - 1.1 km / 0.7 mi \u003Cbr /\u003E Piccadilly Circus - 1.2 km / 0.7 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003ELondon City Airport (LCY) - 16.1 km / 10 mi\u003Cbr /\u003E Heathrow Airport (LHR) - 26.2 km / 16.3 mi\u003Cbr /\u003E Gatwick Airport (LGW) - 66.9 km / 41.5 mi\u003Cbr /\u003E Luton Airport (LTN) - 53.5 km / 33.3 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for The Chesterfield Mayfair is Heathrow Airport (LHR). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003EThis property uses eco-friendly cleaning products\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EThis property welcomes guests of all sexual orientations and gender identities (LGBTQ\u002B friendly).\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Grab a bite to eat at the hotel\u0027s restaurant, which features a bar/lounge, or stay in and take advantage of the 24-hour room service. English breakfasts are available daily from 8:00 AM to 10:00 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "35 CHARLES STREET MAYFAIR  LONDON",
+    "line2": "",
+    "city": "W1X 8LX",
+    "state": "",
+    "country": "UK - England",
+    "countryCode": "",
+    "postalCode": ""
+  },
+  "geo": {
+    "latitude": 51.507683,
+    "longitude": -0.147155
+  },
+  "phone": "44-20-74912622",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/57118/57118_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_5.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_6.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_7.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_8.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_9.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_11.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_12.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_13.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_15.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_16.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_17.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_21.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_24.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_25.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_26.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_27.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_28.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_29.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_31.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_34.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_35.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_36.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_37.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_38.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/57118_img_39.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/57118/Main_57118.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "25041ecbd2df1f538008dedba606d4ae113820e1fd33ea23f0ff480850644361",
+  "lastSyncedUtc": "2026-02-25T11:03:03.5349927Z"
+}

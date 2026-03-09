@@ -1,0 +1,480 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "308955",
+  "name": "Taksim Gonen Hotel",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "8124313"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "Taksim Gonen Hotel is centrally located in Istanbul, a 5-minute walk from Taksim Square and a 3-minute drive from Galata Tower.  This spa hotel is 2.6 mi (4.2 km) from S\u00FCleymaniye Mosque and 2.9 mi (4.7 km) from Grand Bazaar."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 157 air-conditioned rooms featuring minibars and LCD televisions. Complimentary wireless internet access is available to keep you connected. Private bathrooms with showers feature complimentary toiletries and bidets. Conveniences include safes and desks, and housekeeping is provided daily."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Pamper yourself with a visit to the spa, which offers massages and facials. If you\u0027re looking for recreational opportunities, you\u0027ll find a health club and a sauna. This hotel also features complimentary wireless internet access, concierge services, and wedding services. Getting to nearby attractions is a breeze with the area shuttle (surcharge)."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EIstiklal Avenue - 0.3 km / 0.2 mi \u003Cbr /\u003E Taksim Square - 0.4 km / 0.2 mi \u003Cbr /\u003E Taksim Gezi Park - 0.4 km / 0.3 mi \u003Cbr /\u003E Acibadem Taksim Hospital - 0.5 km / 0.3 mi \u003Cbr /\u003E Istanbul Congress Center - 1.1 km / 0.7 mi \u003Cbr /\u003E Vodafone Park - 1.2 km / 0.7 mi \u003Cbr /\u003E Bosphorus - 1.2 km / 0.8 mi \u003Cbr /\u003E Galataport - 1.3 km / 0.8 mi \u003Cbr /\u003E Lutfi Kirdar Convention and Exhibition Centre - 1.4 km / 0.8 mi \u003Cbr /\u003E Dolmabah\u00E7e Palace - 1.6 km / 1 mi \u003Cbr /\u003E Pera Palace Hotel - 1.6 km / 1 mi \u003Cbr /\u003E Istanbul Museum of Modern Art - 1.8 km / 1.1 mi \u003Cbr /\u003E Galata Tower - 2 km / 1.2 mi \u003Cbr /\u003E Golden Horn - 2.1 km / 1.3 mi \u003Cbr /\u003E Istanbul Cruise Ship Terminal - 2.3 km / 1.4 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EIstanbul Sabiha Gokcen Intl. Airport (SAW) - 61.7 km / 38.3 mi\u003Cbr /\u003E Istanbul Airport (IST) - 39 km / 24.2 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Taksim Gonen Hotel is Istanbul Airport (IST). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003ENoise-free guestrooms cannot be guaranteed\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, a first aid kit, and window guards\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EReservations are required for massage services and spa treatments. Reservations can be made by contacting the hotel prior to arrival, using the contact information on the booking confirmation. \u003C/li\u003E\u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E\u003Cli\u003EContactless check-in and contactless check-out are available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "Enjoy a meal at the restaurant or snacks in the coffee shop/cafe. The hotel also offers 24-hour room service. Wrap up your day with a drink at the bar/lounge. Buffet breakfasts are available daily from 7:00 AM to 10:30 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "Kocatepe Mah/ Aydede Cad. 15",
+    "line2": "",
+    "city": "Istanbul",
+    "state": "",
+    "country": "Turkey",
+    "countryCode": "",
+    "postalCode": "34437"
+  },
+  "geo": {
+    "latitude": 41.03861,
+    "longitude": 28.983898
+  },
+  "phone": "0090 (0)2122972200",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/308955/Main_308955.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_5.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_6.jpg",
+      "caption": "Bathroom amenities",
+      "photoType": "23005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_7.jpg",
+      "caption": "Fitness studio",
+      "photoType": "41003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_8.jpg",
+      "caption": "Treatment room",
+      "photoType": "51008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_9.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_12.jpg",
+      "caption": "Cafe",
+      "photoType": "81006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_13.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_15.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_16.jpg",
+      "caption": "Treatment room",
+      "photoType": "51008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_17.jpg",
+      "caption": "Indoor pool",
+      "photoType": "30002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_18.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_21.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_22.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_23.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_24.jpg",
+      "caption": "Breakfast buffet",
+      "photoType": "81030",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_25.jpg",
+      "caption": "Fitness facility",
+      "photoType": "41000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_26.jpg",
+      "caption": "Fitness studio",
+      "photoType": "41003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_28.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_29.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_30.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_31.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_32.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_33.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_34.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_35.jpg",
+      "caption": "Treatment room",
+      "photoType": "51008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_36.jpg",
+      "caption": "Sauna",
+      "photoType": "51004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_38.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_39.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_40.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_41.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_42.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_43.jpg",
+      "caption": "Living area",
+      "photoType": "22005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_44.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_45.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_46.jpg",
+      "caption": "Turkish bath",
+      "photoType": "51006",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_47.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_48.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_49.jpg",
+      "caption": "Front of property - evening/night",
+      "photoType": "91003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_50.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_51.jpg",
+      "caption": "Treatment room",
+      "photoType": "51008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_52.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_53.jpg",
+      "caption": "Outdoor dining",
+      "photoType": "91007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_54.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_55.jpg",
+      "caption": "Terrace/patio",
+      "photoType": "91008",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_56.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_57.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/308955/308955_img_58.jpg",
+      "caption": "Property entrance",
+      "photoType": "91002",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "d0facf258dc2cd866f32da80d01d1685af3a584ab9a82fb7f573cb017159bcee",
+  "lastSyncedUtc": "2026-02-25T11:01:58.389716Z"
+}

@@ -6,16 +6,19 @@ using HotelAPIMiddleware.Providers.Interfaces;
 using HotelAPIMiddleware.Providers.RateHawk.Dto;
 using System.Text;
 using System.Text.Json;
+using System.Diagnostics;
 
 namespace HotelAPIMiddleware.Providers.RateHawk;
 
 public class RateHawkHotelProvider : IHotelProvider
 {
     private readonly IHttpClientFactory _factory;
+    private readonly ILogger<RateHawkHotelProvider> _logger;
 
-    public RateHawkHotelProvider(IHttpClientFactory factory)
+    public RateHawkHotelProvider(IHttpClientFactory factory, ILogger<RateHawkHotelProvider> logger)
     {
         _factory = factory;
+        _logger = logger;
     }
 
     public HotelProvider Provider => HotelProvider.RateHawk;
@@ -24,6 +27,7 @@ public class RateHawkHotelProvider : IHotelProvider
      UnifiedHotelSearchRequest request,
      CancellationToken ct)
     {
+        var sw = Stopwatch.StartNew();
         var http = _factory.CreateClient("RateHawkClient");
 
         // Step 1: Call /search/serp/region/
@@ -35,14 +39,17 @@ public class RateHawkHotelProvider : IHotelProvider
             Content = new StringContent(json, Encoding.UTF8, "application/json")
         };
 
-        var finalUrl = new Uri(http.BaseAddress!, msg.RequestUri!);
-        Console.WriteLine("RateHawk SERP URL = " + finalUrl);
-
         var resp = await http.SendAsync(msg, ct);
         var body = await resp.Content.ReadAsStringAsync(ct);
 
         if (!resp.IsSuccessStatusCode)
         {
+            sw.Stop();
+            _logger.LogWarning(
+                "RateHawk search failed statusCode={StatusCode} elapsedMs={ElapsedMs}",
+                (int)resp.StatusCode,
+                sw.ElapsedMilliseconds);
+
             return new ProviderSearchResult
             {
                 Provider = HotelProvider.RateHawk,
@@ -53,6 +60,11 @@ public class RateHawkHotelProvider : IHotelProvider
 
         // Step 2: Map response only (no enrichment)
         var hotels = RateHawkResponseMapper.MapHotelsFromJson(body);
+        sw.Stop();
+        _logger.LogInformation(
+            "RateHawk search succeeded hotels={HotelCount} elapsedMs={ElapsedMs}",
+            hotels.Count,
+            sw.ElapsedMilliseconds);
 
         return new ProviderSearchResult
         {
@@ -69,8 +81,6 @@ public class RateHawkHotelProvider : IHotelProvider
         HttpClient http,
         CancellationToken ct)
     {
-        Console.WriteLine($"\n🔄 Starting HP enrichment for {hotels.Count} hotels...\n");
-
         var tasks = hotels.Select(async hotel =>
         {
             try
@@ -78,11 +88,8 @@ public class RateHawkHotelProvider : IHotelProvider
                 // Parse HID from hotel
                 if (!long.TryParse(hotel.RefNo, out var hid))
                 {
-                    Console.WriteLine($"❌ Hotel {hotel.HotelId} ({hotel.Name}): Could not parse HID from RefNo: {hotel.RefNo}");
                     return;
                 }
-
-                Console.WriteLine($"📞 Calling HP for hotel {hotel.HotelId} (HID: {hid})...");
 
                 // Build HP request
                 var room = request.Rooms.FirstOrDefault() ?? new RoomRequest { Adults = 1 };
@@ -106,7 +113,6 @@ public class RateHawkHotelProvider : IHotelProvider
                 };
 
                 var hpJson = JsonSerializer.Serialize(hpReq);
-                Console.WriteLine($"   Request: {hpJson}");
 
                 var hpMsg = new HttpRequestMessage(HttpMethod.Post, "search/hp/")
                 {
@@ -118,26 +124,15 @@ public class RateHawkHotelProvider : IHotelProvider
 
                 if (hpResp.IsSuccessStatusCode)
                 {
-                    Console.WriteLine($"✅ HP Success for hotel {hotel.HotelId}");
-
                     // Parse HP response and merge data
                     RateHawkResponseMapper.MergeHotelPageData(hotel, hpBody);
                 }
-                else
-                {
-                    Console.WriteLine($"❌ HP call failed for hotel {hotel.HotelId}: HTTP {(int)hpResp.StatusCode}");
-                    Console.WriteLine($"   Response: {(hpBody.Length > 500 ? hpBody.Substring(0, 500) + "..." : hpBody)}");
-                }
             }
-            catch (Exception ex)
+            catch
             {
-                Console.WriteLine($"❌ Exception enriching hotel {hotel.HotelId}: {ex.Message}");
-                Console.WriteLine($"   Stack: {ex.StackTrace}");
             }
         });
 
         await Task.WhenAll(tasks);
-
-        Console.WriteLine($"\n✅ HP enrichment complete!\n");
     }
 }

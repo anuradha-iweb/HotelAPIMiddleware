@@ -1,0 +1,396 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "121971",
+  "name": "RIU Plaza Miami Beach",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "74574"
+    },
+    {
+      "language": "en",
+      "type": "SurroundingArea",
+      "text": "With a stay at Hotel Riu Plaza Miami Beach, you\u0027ll be centrally located in Miami Beach, within a 5-minute drive of Fontainebleau and Collins Avenue Shopping Area.  This beach hotel is 0.4 mi (0.6 km) from Miami Beach Boardwalk and 1.3 mi (2.1 km) from Miami Beach Convention Center."
+    },
+    {
+      "language": "en",
+      "type": "RoomTypes",
+      "text": "Make yourself at home in one of the 284 air-conditioned rooms featuring flat-screen televisions. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms with showers feature complimentary toiletries and hair dryers. Conveniences include phones, as well as safes and coffee/tea makers."
+    },
+    {
+      "language": "en",
+      "type": "PropertyInformation",
+      "text": "Don\u0027t miss out on recreational opportunities including an outdoor pool and a fitness center. This hotel also features complimentary wireless internet access, concierge services, and a banquet hall."
+    },
+    {
+      "language": "en",
+      "type": "AreaActivities",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EMiami Beach Beaches - 0.2 km / 0.1 mi \u003Cbr /\u003E Miami Beach Boardwalk - 0.6 km / 0.4 mi \u003Cbr /\u003E 41st Street - 1.2 km / 0.7 mi \u003Cbr /\u003E Miami City Ballet - 1.3 km / 0.8 mi \u003Cbr /\u003E Collins Avenue Shopping Area - 1.3 km / 0.8 mi \u003Cbr /\u003E Fontainebleau - 1.3 km / 0.8 mi \u003Cbr /\u003E Bass Museum of Art - 1.4 km / 0.9 mi \u003Cbr /\u003E Miami Beach Convention Center - 1.8 km / 1.1 mi \u003Cbr /\u003E Espanola Way and Washington Avenue - 1.9 km / 1.2 mi \u003Cbr /\u003E Miami Beach Botanical Garden - 1.9 km / 1.2 mi \u003Cbr /\u003E Fillmore Miami Beach - 2 km / 1.2 mi \u003Cbr /\u003E Miami Beach Golf Club - 2 km / 1.2 mi \u003Cbr /\u003E Espa\u00F1ola Way - 2.4 km / 1.5 mi \u003Cbr /\u003E Art Deco Historic District - 2.4 km / 1.5 mi \u003Cbr /\u003E Ocean Drive - 2.5 km / 1.5 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EMiami, FL (MPB-Public Seaplane Base) - 15.3 km / 9.5 mi\u003Cbr /\u003E Miami Intl. Airport (MIA) - 17.9 km / 11.1 mi\u003Cbr /\u003E Miami, FL (OPF-Opa Locka Executive) - 31.9 km / 19.8 mi\u003Cbr /\u003E Fort Lauderdale-Hollywood Intl. Airport (FLL) - 47.3 km / 29.4 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Hotel Riu Plaza Miami Beach is Miami Intl. Airport (MIA). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "PoliciesDisclaimers",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EGuests must contact this property in advance to reserve cribs/infant beds\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003EThis property reserves the right to pre-authorize the guest\u0027s credit card prior to arrival.\u003C/li\u003E\u003Cli\u003EPlease note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EGuests booked in half board rate plans receive breakfast and dinner only (drinks not included).\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EOnly registered guests are allowed in the guestrooms. \u003C/li\u003E \u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003EContactless check-in and contactless check-out are available.\u003C/li\u003E\u003Cli\u003EThis property welcomes guests of all sexual orientations and gender identities (LGBTQ\u002B friendly).\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "DiningFacilities",
+      "text": "You can enjoy a meal at Florida serving the guests of Hotel Riu Plaza Miami Beach, or stop in at the snack bar/deli. Unwind at the end of the day with a drink at the bar/lounge or the poolside bar. Continental breakfasts are available daily from 7:30 AM to 10 AM for a fee."
+    }
+  ],
+  "address": {
+    "line1": "3101 Collins Ave",
+    "line2": "",
+    "city": "Miami Beach",
+    "state": "FL",
+    "country": "USA",
+    "countryCode": "",
+    "postalCode": "33140"
+  },
+  "geo": {
+    "latitude": 25.806798,
+    "longitude": -80.124049
+  },
+  "phone": "\u002B1 305-673-5333",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/121971/Main_121971.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_1.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_2.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_3.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_4.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_5.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_6.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_7.jpg",
+      "caption": "Coffee service",
+      "photoType": "81002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_8.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_9.jpg",
+      "caption": "Beach",
+      "photoType": "91004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_11.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_12.jpg",
+      "caption": "Garden",
+      "photoType": "91005",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_13.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_14.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_15.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_16.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_17.jpg",
+      "caption": "Sports facility",
+      "photoType": "60000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_18.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_19.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_20.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_21.jpg",
+      "caption": "Outdoor dining",
+      "photoType": "91007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_22.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_23.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_24.jpg",
+      "caption": "Lobby sitting area",
+      "photoType": "10003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_25.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_26.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_27.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_28.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_29.jpg",
+      "caption": "Dining",
+      "photoType": "81000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_30.jpg",
+      "caption": "Outdoor dining",
+      "photoType": "91007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_31.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_32.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_33.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_34.jpg",
+      "caption": "Coffee shop",
+      "photoType": "81007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_35.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_36.jpg",
+      "caption": "Property entrance",
+      "photoType": "91002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_37.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_38.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_39.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_40.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_41.jpg",
+      "caption": "View from property",
+      "photoType": "92002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_42.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_43.jpg",
+      "caption": "City view",
+      "photoType": "92007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_44.jpg",
+      "caption": "City view",
+      "photoType": "92007",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_45.jpg",
+      "caption": "Beach/ocean view",
+      "photoType": "92000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/121971/121971_img_46.jpg",
+      "caption": "Beach/ocean view",
+      "photoType": "92000",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "1b8920eba190e4e7eca9ddd72e10621546825ce6f3e9d8923b8b93801f7dd785",
+  "lastSyncedUtc": "2026-02-25T11:02:47.619248Z"
+}

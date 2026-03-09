@@ -1,0 +1,333 @@
+{
+  "provider": "STUBA",
+  "providerHotelId": "81166",
+  "name": "Marco Polo Hotel",
+  "starRating": 4,
+  "descriptions": [
+    {
+      "language": "en",
+      "type": "Information about the surrounding area",
+      "text": "With a stay at Marco Polo Hotel, you\u0027ll be centrally located in Dubai, within a 5-minute drive of Gold Souk and Al Ghurair Centre.  This family-friendly hotel is 3.5 mi (5.6 km) from Dubai Creek and 5.3 mi (8.5 km) from Dubai Cruise Terminal."
+    },
+    {
+      "language": "en",
+      "type": "Details of room types available",
+      "text": "Make yourself at home in one of the 126 guestrooms featuring minibars and LCD televisions. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Private bathrooms with shower/tub combinations feature complimentary toiletries and bidets. Conveniences include phones, as well as laptop-compatible safes and desks."
+    },
+    {
+      "language": "en",
+      "type": "Information about the hotel property",
+      "text": "Pamper yourself with a visit to the spa, which offers massages and body treatments. If you\u0027re looking for recreational opportunities, you\u0027ll find a nightclub, an outdoor pool, and a fitness center. This Art Deco hotel also features complimentary wireless internet access, concierge services, and babysitting (surcharge)."
+    },
+    {
+      "language": "en",
+      "type": "Activities available near the hotel",
+      "text": "Distances are displayed to the nearest 0.1 mile and kilometer. \u003Cbr /\u003E \u003Cp\u003EReef Mall - 0.6 km / 0.4 mi \u003Cbr /\u003E Al Ghurair Centre - 0.6 km / 0.4 mi \u003Cbr /\u003E Fish Roundabout - 0.8 km / 0.5 mi \u003Cbr /\u003E Naif Souq - 1.8 km / 1.1 mi \u003Cbr /\u003E Deira Twin Towers Shopping Centre - 2.1 km / 1.3 mi \u003Cbr /\u003E Gold Souk - 2.5 km / 1.6 mi \u003Cbr /\u003E Deira Clocktower - 2.6 km / 1.6 mi \u003Cbr /\u003E Spice Souk - 2.7 km / 1.7 mi \u003Cbr /\u003E Deira Spice Souq - 2.7 km / 1.7 mi \u003Cbr /\u003E Dubai Creek - 2.8 km / 1.7 mi \u003Cbr /\u003E Creek Park - 3.6 km / 2.2 mi \u003Cbr /\u003E Textile Souk - 3.6 km / 2.2 mi \u003Cbr /\u003E City Centre Deira - 3.6 km / 2.2 mi \u003Cbr /\u003E Sheikh Saeed Al Maktoum House - 3.7 km / 2.3 mi \u003Cbr /\u003E Grand Mosque - 3.8 km / 2.3 mi \u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe nearest airports are:\u003Cbr /\u003EDubai Intl. Airport (DXB) - 6.7 km / 4.2 mi\u003Cbr /\u003E Sharjah (SHJ-Sharjah Intl.) - 28 km / 17.4 mi\u003Cbr /\u003E Al Maktoum Intl. Airport (DWC) - 68.1 km / 42.3 mi\u003Cbr /\u003E \u003C/p\u003E\u003Cp\u003EThe preferred airport for Marco Polo Hotel is Dubai Intl. Airport (DXB). \u003C/p\u003E"
+    },
+    {
+      "language": "en",
+      "type": "Hotel policies and disclaimer",
+      "text": "\u003Cul\u003E  \u003Cli\u003EExtra-person charges may apply and vary depending on property policy\u003C/li\u003E\u003Cli\u003EGovernment-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges\u003C/li\u003E\u003Cli\u003ESpecial requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed\u003C/li\u003E\u003Cli\u003EThe name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation\u003C/li\u003E\u003Cli\u003EThis property accepts credit cards, debit cards, and cash\u003C/li\u003E\u003Cli\u003EThis property uses a grey water recycling system and eco-friendly cleaning products\u003C/li\u003E\u003Cli\u003ENoise-free guestrooms cannot be guaranteed\u003C/li\u003E\u003Cli\u003ESafety features at this property include a fire extinguisher, a security system, and a first aid kit\u003C/li\u003E  \u003C/ul\u003E \u003Cul\u003E  \u003Cli\u003EUp to 2 children 11 years old and younger stay free when occupying the parent or guardian\u0027s room, using existing bedding. \u003C/li\u003E\u003Cli\u003EThe property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. \u003C/li\u003E\u003Cli\u003ENo pets and no service animals are allowed at this property. \u003C/li\u003E\u003Cli\u003EContactless check-in and contactless check-out are available.\u003C/li\u003E \u003C/ul\u003E"
+    },
+    {
+      "language": "en",
+      "type": "Meals and restaurants at the hotel",
+      "text": "Enjoy a meal at the restaurant, or stay in and take advantage of the hotel\u0027s 24-hour room service. Wrap up your day with a drink at the bar/lounge. Buffet breakfasts are available daily from 7:30 AM to 10:30 AM for a fee."
+    },
+    {
+      "language": "en",
+      "type": "RXLContentId",
+      "text": "1210393"
+    }
+  ],
+  "address": {
+    "line1": "Al Muteena Street",
+    "line2": "",
+    "city": "Dubai",
+    "state": "",
+    "country": "UAE",
+    "countryCode": "",
+    "postalCode": "25570"
+  },
+  "geo": {
+    "latitude": 25.273952,
+    "longitude": 55.319053
+  },
+  "phone": "971-4-2720000",
+  "email": "",
+  "website": "",
+  "checkInTime": "",
+  "checkOutTime": "",
+  "languages": [],
+  "images": [
+    {
+      "url": "RXLImages/1163/81166/Main_81166.jpg",
+      "caption": "Primary image",
+      "photoType": "3",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_1.jpg",
+      "caption": "Lobby",
+      "photoType": "10001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_2.jpg",
+      "caption": "Reception",
+      "photoType": "10002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_3.jpg",
+      "caption": "Concierge desk",
+      "photoType": "10004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_4.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_5.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_6.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_7.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_8.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_9.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_10.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_11.jpg",
+      "caption": "Room",
+      "photoType": "21001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_12.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_13.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_14.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_15.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_16.jpg",
+      "caption": "Bathroom",
+      "photoType": "23000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_17.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_18.jpg",
+      "caption": "Pool",
+      "photoType": "30000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_19.jpg",
+      "caption": "Outdoor pool",
+      "photoType": "30003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_20.jpg",
+      "caption": "Gym",
+      "photoType": "41001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_21.jpg",
+      "caption": "Spa",
+      "photoType": "51000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_22.jpg",
+      "caption": "Breakfast area",
+      "photoType": "81001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_23.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_24.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_25.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_26.jpg",
+      "caption": "Restaurant",
+      "photoType": "81003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_27.jpg",
+      "caption": "Bar (on property)",
+      "photoType": "82000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_28.jpg",
+      "caption": "Lounge",
+      "photoType": "82001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_29.jpg",
+      "caption": "Lounge",
+      "photoType": "82001",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_30.jpg",
+      "caption": "Nightclub",
+      "photoType": "82004",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_31.jpg",
+      "caption": "Interior",
+      "photoType": "83000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_32.jpg",
+      "caption": "Interior",
+      "photoType": "83000",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_33.jpg",
+      "caption": "Ballroom",
+      "photoType": "83002",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_34.jpg",
+      "caption": "Banquet hall",
+      "photoType": "83003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_35.jpg",
+      "caption": "Banquet hall",
+      "photoType": "83003",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_36.jpg",
+      "caption": "Meeting facility",
+      "photoType": "83009",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "url": "RXLImages/1163/81166/81166_img_37.jpg",
+      "caption": "Exterior",
+      "photoType": "91024",
+      "width": 1024,
+      "height": 680
+    }
+  ],
+  "facilities": [],
+  "contentHash": "75ddc66b185d2174a1b608be721cb2c763c2c6679b9802fc1c59ad6b7410ac63",
+  "lastSyncedUtc": "2026-02-25T11:02:22.2982156Z"
+}
